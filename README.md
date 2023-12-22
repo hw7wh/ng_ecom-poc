@@ -62,6 +62,7 @@ This project is an e-commerce platform focused on selling a wide range of wearab
 4. Open a browser and navigate to `http://localhost:4200`.
 
 ## Architecture
+
 Our e-commerce platform is designed with a microservices architecture to provide a robust, scalable, and maintainable system. The architecture is composed of several key microservices, each responsible for a distinct part of the platform's functionality. Below is an overview of each microservice and its primary responsibilities:
 
 - **User Service**: Handles user registration, authentication, and basic profile management. This is crucial for personalization and securing the application.
@@ -79,7 +80,8 @@ frontend/
 │
 |── src/
 │   |── app/
-│   │   |── core/    # Core module for singleton services and components that should │   |   |              be instantiated once and shared across the application, like    
+│   │   |── core/    # Core module for singleton services and components that should
+│   │   |   |          be instantiated once and shared across the application, like
 │   │   |   |          authentication services and route guards.
 │   │   |   |                                     
 │   │   │   |── services/                # Global services
