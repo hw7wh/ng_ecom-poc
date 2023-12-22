@@ -62,53 +62,16 @@ This project is an e-commerce platform focused on selling a wide range of wearab
 4. Open a browser and navigate to `http://localhost:4200`.
 
 ## Architecture
+Our e-commerce platform is designed with a microservices architecture to provide a robust, scalable, and maintainable system. The architecture is composed of several key microservices, each responsible for a distinct part of the platform's functionality. Below is an overview of each microservice and its primary responsibilities:
 
-**Microservices Overview** : Our e-commerce platform is designed with a microservices architecture to provide a robust, scalable, and maintainable system. The architecture is composed of several key microservices, each responsible for a distinct part of the platform's functionality. Below is an overview of each microservice and its primary responsibilities:
-
-### User Service
-
-The User Service is the backbone of user management and authentication across the platform. It includes:
-
-- **User Registration**: Secure handling of user sign-ups with data validation and persistence.
-- **Authentication**: Management of the login process and secure session management using JWT tokens.
-- **Authorization**: Role-based access controls to ensure users have appropriate permissions.
-- **User Profile Management**: Features for users to manage their profiles and credentials.
-- **Account Recovery**: Robust account recovery mechanisms, including email-based password resets.
-- **User Data Persistence**: Reliable storage and retrieval of user data.
-- **Security**: High-standard security measures to protect sensitive user data.
-
-### Order Service
-
-The Order Service oversees the order lifecycle, from the shopping cart to final delivery:
-
-- **Shopping Cart Management**: Dynamic management of cart items, including add, update, and remove functionalities.
-- **Order Placement**: Seamless conversion of carts into orders with validation and data persistence.
-- **Payment Integration**: Secure payment processing in coordination with external payment services.
-- **Order History**: Access for users to view their order history for better tracking and management.
-- **Order Status Tracking**: Real-time updates on order progress, visible to both users and admins.
-- **Order Modification**: Flexibility for post-purchase order modifications under specific business rules.
-- **Inventory Integration**: Synchronization with Inventory Service to ensure accurate stock levels.
-- **Shipping Details**: Comprehensive management of shipping information tied to each order.
-- **Order Notifications**: Prompt notifications to users about their order statuses and updates.
-
-### Inventory Service
-
-The Product Service handles the catalog of products available on the platform and ensures that product availability is always accurate and up-to-date
-
-- **Product Catalog Management**: Full lifecycle management of product listings, including CRUD operations.
-- **Product Details**: Detailed product information provision, enhancing the shopping experience.
-- **Search and Filtering**: Advanced search capabilities allowing users to find products easily.
-
-- **Stock Management**: Monitoring and adjusting stock levels in response to sales and deliveries.
-- **Availability Checks**: Guaranteeing product availability during shopping to avoid overselling.
-- **Low Stock Alerts**: Notification system for when products reach low stock levels.
-- **Inventory Adjustments**: Tools for manual stock adjustments for various operational reasons.
-
+- **User Service**: Handles user registration, authentication, and basic profile management. This is crucial for personalization and securing the application.
+- **Inventory Service**: Manages product listings, including adding, updating, and removing products. It is the core of any e-commerce platform. It also keeps track of inventory levels and updates stock quantities. This service can be simplified in the MVP to just ensure that stock levels are adjusted when orders are placed.
+- **Order Service**: Takes care of creating and managing orders, which includes integrating the shopping cart functionality and keeping track of order history.
+- **API Gateway**: Serves as the entry point for all client requests, routing them to the appropriate services, and can provide additional functionalities like authentication, SSL termination, and request logging.
 
 The architecture is designed to prioritize core functionalities essential to an MVP, focusing on user experience and operational efficiency. As we scale, the platform will evolve to include more sophisticated features, based on user feedback and business analytics, to continually enhance our services.
 
-
-## Folder structure
+## Angular Folder structure
 Below is the Angular folder structure of the project, along with a brief description of each file and directory:
 
 ```
