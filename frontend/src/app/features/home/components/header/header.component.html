@@ -328,7 +328,7 @@
                     From: "opacity-100"
                     To: "opacity-0"
                 -->
-                <div *ngIf="activeTab === 'women'" class="absolute inset-x-0 top-full text-sm text-gray-500">
+                <div *ngIf="activeTab === 'women'" class="z-10 absolute inset-x-0 top-full text-sm text-gray-500">
                   <!-- Presentational element used to render the bottom shadow, if we put the shadow on the actual panel it pokes out the top, so we use this shorter element to hide the top of the shadow -->
                   <div class="absolute inset-0 top-1/2 bg-white shadow" aria-hidden="true"></div>
 
@@ -455,7 +455,7 @@
                     From: "opacity-100"
                     To: "opacity-0"
                 -->
-                <div *ngIf="activeTab === 'men'" class="absolute inset-x-0 top-full text-sm text-gray-500">
+                <div *ngIf="activeTab === 'men'" class="z-10 absolute inset-x-0 top-full text-sm text-gray-500">
                   <!-- Presentational element used to render the bottom shadow, if we put the shadow on the actual panel it pokes out the top, so we use this shorter element to hide the top of the shadow -->
                   <div class="absolute inset-0 top-1/2 bg-white shadow" aria-hidden="true"></div>
 

@@ -7,6 +7,7 @@ import { CtaComponent } from './components/cta/cta.component';
 import { AnnouncementsComponent } from './components/announcements/announcements.component';
 import { HeaderComponent } from './components/header/header.component';
 import { FooterComponent } from './components/footer/footer.component';
+import { FeaturedComponent } from './components/featured/featured.component';
 
 
 @NgModule({
@@ -16,6 +17,7 @@ import { FooterComponent } from './components/footer/footer.component';
     AnnouncementsComponent,
     HeaderComponent,
     FooterComponent,
+    FeaturedComponent,
   ],
   imports: [
     CommonModule,
