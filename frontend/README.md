@@ -9,3 +9,13 @@
    1. Generate Component
    2. Add Html
    3. Add CSS
+
+3. Add Hero Section
+   1. Generate Component
+   2. Add Html
+   3. Add CSS
+
+4. Add Featured Products / Categories / Collections
+   1. Generate Component
+   2. Add Html
+   3. Add CSS
