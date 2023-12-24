@@ -8,6 +8,9 @@ import { AnnouncementsComponent } from './components/announcements/announcements
 import { HeaderComponent } from './components/header/header.component';
 import { FooterComponent } from './components/footer/footer.component';
 import { FeaturedComponent } from './components/featured/featured.component';
+import { LogocloudComponent } from './components/logocloud/logocloud.component';
+import { HeroComponent } from './components/hero/hero.component';
+import { OverviewComponent } from './components/overview/overview.component';
 
 
 @NgModule({
@@ -18,6 +21,9 @@ import { FeaturedComponent } from './components/featured/featured.component';
     HeaderComponent,
     FooterComponent,
     FeaturedComponent,
+    LogocloudComponent,
+    HeroComponent,
+    OverviewComponent,
   ],
   imports: [
     CommonModule,
