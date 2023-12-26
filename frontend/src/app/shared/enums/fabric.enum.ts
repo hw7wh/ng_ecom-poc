@@ -1,4 +1,11 @@
 export enum Fabric {
-  SEMI_COTON = '50% coton',
-  COTON = '100% coton',
+  RecTrek = 'RecTrek',
+  CloudKnit = 'CloudKnit',
+  LightSpeed = 'LightSpeed',
+  Cotton = 'Cotton',
+  ThinkFast = 'ThinkFast',
+  PrimoFleece = 'PrimoFleece',
+  MegaFleece = 'MegaFleece',
+  FrostKnit = 'FrostKnit',
+  SoftShield = 'SoftShield',
 }

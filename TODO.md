@@ -1,24 +1,23 @@
+UI : 
+
 review that all is well integrated UI & routing
 - fix : z index problem of /contact-us page ( can't click on navbar)
 - fix : z index men/women menu desktop of /about-us page ( hero img above menu )
 - less random text
 - add page 404 + routing
 
---- 
-
-benchmark routes from that outdoor website to finilize the product class design
+---
 
 1. Start on the Product model
-
-   1. Create Product model
+   1. Define all categories / subcategories / collections in the records
    2. Create data.ts
-      1. Add sample products
-   3. Add images to assets
+      1. Add sample products ( generate w/ gpt )
+   3. Add images to assets or link to some cdn w/ corresponding images
    4. Create Product service
    5. Create Generic Product Listing component
-      1. Add ts
-      2. Add html
-      3. Add css
+      1. Title
+      2. Filter
+      3. Product Grid
 
 2. Search
    1. Add method to Food service
