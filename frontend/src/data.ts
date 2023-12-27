@@ -13,7 +13,19 @@ export const sample_foods: Product[] = [
       {
         color:'Navy',
         imageUrls: [
-          '',
+          'https://cdn.ov.app/media/products/rectrek-pant/navy/M701345-DCW-NVY_RecTrek_Pant_Navy_069_EXP240615_uliWBkA.jpg',
+          'https://cdn.ov.app/media/products/rectrek-pant/navy/M701345-DCW-NVY_RecTrek_Pant_Navy_059_EXP240615.jpg',
+          'https://cdn.ov.app/media/products/rectrek-pant/navy/M701345-DCW-NVY_RecTrek_Pant_Navy_030_EXP240615.jpg',
+          'https://cdn.ov.app/media/products/rectrek-pant/navy/M701345-DCW-NVY_RecTrek_Pant_Navy_011_EXP240615.jpg'
+        ]
+      },
+      {
+        color:'Balsam Green',
+        imageUrls: [
+          'https://cdn.ov.app/media/products/rectrek-pant/balsam-green/M701345-DCW-BMG_RecTrek_Pant_Balsam_Green_021_EXP240907_kWB5BE5.jpg',
+          'https://cdn.ov.app/media/products/rectrek-pant/balsam-green/M701345-DCW-BMG_RecTrek_Pant_Balsam_Green_053_EXP240907.jpg',
+          'https://cdn.ov.app/media/products/rectrek-pant/balsam-green/M701345-DCW-BMG_RecTrek_Pant_Balsam_Green_046_EXP240907.jpg',
+          'https://cdn.ov.app/media/products/rectrek-pant/balsam-green/M701345-DCW-BMG_RecTrek_Pant_Balsam_Green_016_EXP240907.jpg',
         ]
       }
     ],
@@ -24,7 +36,31 @@ export const sample_foods: Product[] = [
     category: 'Top',
     favorite: false,
     sizes: [Size.S,Size.L],
-    colors: ['Navy','Evergreen']
-  }
+    colors: ['Navy','Balsam Green']
+  },
+  {
+    id : '2',
+    name: 'CloudKnit Longsleeve',
+    description: 'The softest longsleeve tee you will ever wear. Made in lightweight, crazy-soft CloudKnit with a classic fit.',
+    imageUrls: [
+      {
+        color:'Charcoal',
+        imageUrls: [
+          'https://cdn.ov.app/media/products/cloudknit-longsleeve/charcoal/M301351-HLM-CHR_CloudKnit_Longsleeve_Charcoal_FRONT_559_EXP241109.jpg',
+          'https://cdn.ov.app/media/products/cloudknit-longsleeve/charcoal/M301351-HLM-CHR_CloudKnit_Longsleeve_Charcoal_RESHOOT_002_EXP241109.jpg',
+          'https://cdn.ov.app/media/products/cloudknit-longsleeve/charcoal/M301351-HLM-CHR_CloudKnit_Longsleeve_Charcoal_RESHOOT_056_EXP241109.jpg',
+          'https://cdn.ov.app/media/products/cloudknit-longsleeve/charcoal/M301351-HLM-CHR_CloudKnit_Longsleeve_Charcoal_RESHOOT_084_EXP241109.jpg'
+        ]
+      }
+    ],
+    stars: 5,
+    sales: false,
+    price: 68,
+    sex: Sex.Men,
+    category: 'Top',
+    favorite: false,
+    sizes: [Size.XS,Size.M],
+    colors: ['Charcoal','Evergreen']
+  },
 ]
 

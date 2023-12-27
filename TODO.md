@@ -6,7 +6,7 @@ review that all is well integrated UI & routing
 - less random text
 - add page 404 + routing
 
-solve the images by color problem ( how do u organize the )
+
 ---
 
 1. Start on the Product model
