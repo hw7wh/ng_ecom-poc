@@ -1,20 +1,37 @@
-UI : 
+# HIGH PRIORITY !!
 
-review that all is well integrated UI & routing
-- fix : z index problem of /contact-us page ( can't click on navbar)
-- fix : z index men/women menu desktop of /about-us page ( hero img above menu )
-- less random text
-- add page 404 + routing
+## Scraper : (highest priority)
+
+- requirements file
+- test if site is scrapable w/ _Request_ sinon _Curl_cffi_
+- analysis : returned data structure
+- back to conception
+- scrape and populate db w/ products
+- fabrics ? collections ?
+
+## BE : (very high priority)
+
+- Init project structure
+
+## UI : (high priority)
+
+- template for listing products
+
+## FE : (high priority)
+
+- rethink folder structure / modules ( standalone components ???)
 
 
 ---
 
-1. Start on the Product model
-   2. Create data.ts
+# FE : (major priority)
+
+1. Product model
+   1. Create data.ts
       1. Add sample products ( generate w/ gpt )
-   3. Add images to assets or link to some cdn w/ corresponding images
-   4. Create Product service
-   5. Create Generic Product Listing component
+   2. Add images to assets or link to some cdn w/ corresponding images
+   3. Create Product service
+   4. Create Generic Product Listing component
       1. Title
       2. Filter
       3. Product Grid
@@ -28,3 +45,15 @@ review that all is well integrated UI & routing
       2. Add ts
       3. Add html
       4. Add css
+
+---
+
+# UI : (minor priority)
+
+review that all is well integrated UI & routing !
+
+- fix : z index problem of /contact-us page ( can't click on navbar)
+- fix : z index men/women menu desktop of /about-us page ( hero img above menu )
+- less random text
+- add page 404 + routing
+- template for listing collections

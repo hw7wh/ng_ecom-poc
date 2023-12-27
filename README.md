@@ -136,6 +136,3 @@ frontend/
 
 ## Contributing
 If you would like to contribute to this project, please feel free to submit a pull request.
-
-## License
-This project is licensed under the [Your License Choice] - see the [LICENSE.md](LICENSE.md) file for details.
