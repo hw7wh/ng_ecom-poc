@@ -3,7 +3,8 @@
 ## Scraper : (highest priority)
 
 - requirements file
-- test if site is scrapable w/ _Request_ sinon _Curl_cffi_
+- test *Request* sinon *Curl_cffi* >> *UC*
+- analysis : scraped data source : html ? json? (json_parser + html_parser ?) # FYI : pics/color !!
 - analysis : returned data structure
 - back to conception
 - scrape and populate db w/ products
