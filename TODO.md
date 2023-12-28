@@ -2,17 +2,16 @@
 
 ## Scraper : (highest priority)
 
-- DONE - Up requirements file
-- DONE -  Up README files for scrapper & project
-
-- add test module for scrapper 
-- test *Request* sinon *Curl_cffi* >> *UC*
-
+- add test module for scrapper
+- test _Request_ sinon _CurlCffi_ >> _UC_
 - analysis : scraped data source : html ? json? (json_parser + html_parser ?) # FYI : pics/color !!
 - analysis : returned data structure
+
 - back to conception
-- scrape and populate db w/ products
-- fabrics ? collections ?
+
+- scrape and populate db w/ products ( db prod )
+
+- scrape fabrics ? collections ?
 
 ## BE : (very high priority)
 
@@ -26,12 +25,12 @@
 
 - rethink folder structure / modules ( standalone components ???)
 
-
 ---
 
 # FE : (major priority)
 
 1. Product model
+
    1. Create data.ts
       1. Add sample products ( generate w/ gpt )
    2. Add images to assets or link to some cdn w/ corresponding images
