@@ -2,8 +2,12 @@
 
 ## Scraper : (highest priority)
 
-- requirements file
+- DONE - Up requirements file
+- DONE -  Up README files for scrapper & project
+
+- add test module for scrapper 
 - test *Request* sinon *Curl_cffi* >> *UC*
+
 - analysis : scraped data source : html ? json? (json_parser + html_parser ?) # FYI : pics/color !!
 - analysis : returned data structure
 - back to conception
