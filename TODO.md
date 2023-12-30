@@ -2,9 +2,9 @@
 
 ## Scraper : (highest priority)
 
-DONE - Update readme for how to run
+- refactor the scraper 
 
-DONE - fix the driver scraper bugg
+- complete the refactoring 
 
 - test if scraping multiple pages doesn't trigger a 403 or else
 
