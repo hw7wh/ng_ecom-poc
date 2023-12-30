@@ -53,11 +53,11 @@ This Python scraper is designed to extract product information from an e-commerc
 
 1. Navigate to the project directory:
    ```
-   cd ecomm-poc/ecommerce_scraper
+   cd ecomm-poc
    ```
 2. To start the scraper, run:
    ```
-   python scraper/main.py
+   python -m ecommerce_scraper.scraper.main
    ```
 
 ## Configuration

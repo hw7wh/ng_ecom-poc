@@ -11,7 +11,7 @@ class Scraper:
         #options.add_argument("--headless")
 
         self.driver = uc.Chrome()#version_main=114
-        self.driver.implicitly_wait(10)
+        self.driver.implicitly_wait(15)
 
     def scrape_collection_links(self):
         
@@ -21,12 +21,12 @@ class Scraper:
 
         product_links = MY_HTML_PARSER.parse_product_links(self.driver.page_source)
         print(product_links)
-        return
         for link in product_links:
             self.scrape_product_details(link)
+        self.driver.quit()
 
     def scrape_product_details(self, product_url):
-        response = self.driver.get(product_url)
-        soup = BeautifulSoup(self.driver.page_source, 'html.parser')
-        product_details = MY_HTML_PARSER.parse_product_details(soup)
+        self.driver.get(product_url)
+        product_details = MY_HTML_PARSER.parse_product_details(self.driver.page_source)
+        print(product_details)
         # Process and save these details to the database

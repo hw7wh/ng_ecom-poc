@@ -17,5 +17,7 @@ class MY_HTML_PARSER:
         return product_links
 
     def parse_product_details(html_content):
-        # Parse and return product details
-        pass
+        # Parse and return product details as an object
+        soup = BeautifulSoup(html_content, 'html.parser')
+        div_elem = soup.select_one("div#content")
+        return div_elem.text 

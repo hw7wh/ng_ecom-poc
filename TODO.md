@@ -1,10 +1,10 @@
 # HIGH PRIORITY !!
 
 ## Scraper : (highest priority)
-- update gitignore for the python scraper
 
-- test _Request_ sinon _CurlCffi_ >> _UC_
-- Update readme for how to run
+DONE - Update readme for how to run
+
+DONE - fix the driver scraper bugg
 
 - test if scraping multiple pages doesn't trigger a 403 or else
 
