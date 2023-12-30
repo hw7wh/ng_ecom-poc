@@ -54,7 +54,7 @@ This project is an e-commerce platform focused on selling a wide range of wearab
    ```
 3. Alternatively, set these variables in `config/settings.py` (not recommended for sensitive data like `MONGO_URI`).
 
-#### Backend
+#### Run Backend
 
 1. Navigate to the backend directory:
    ```
@@ -65,7 +65,7 @@ This project is an e-commerce platform focused on selling a wide range of wearab
    ./mvnw spring-boot:run
    ```
 
-#### Frontend
+#### Run Frontend
 
 1. Navigate to the frontend directory:
    ```

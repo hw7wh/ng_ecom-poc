@@ -1,9 +1,13 @@
 # HIGH PRIORITY !!
 
 ## Scraper : (highest priority)
+- update gitignore for the python scraper
 
-- add test module for scrapper
 - test _Request_ sinon _CurlCffi_ >> _UC_
+- Update readme for how to run
+
+- test if scraping multiple pages doesn't trigger a 403 or else
+
 - analysis : scraped data source : html ? json? (json_parser + html_parser ?) # FYI : pics/color !!
 - analysis : returned data structure
 
@@ -61,3 +65,9 @@ review that all is well integrated UI & routing !
 - less random text
 - add page 404 + routing
 - template for listing collections
+
+---
+
+# CMS & CRM : ( least priority )
+- Contentful
+- Salesforce

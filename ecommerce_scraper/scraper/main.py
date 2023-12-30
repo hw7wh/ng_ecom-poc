@@ -1,7 +1,8 @@
 # Main script to start scraping process
-from scraper import Scraper
+from .scraperr import Scraper
+from ..config.collectionsUrls import EXPORTED_COLLECTIONS_URLS
 
 if __name__ == '__main__':
-    url = 'https://www.example.com/collection'  # Collection URL
+    url = EXPORTED_COLLECTIONS_URLS[0]
     scraper = Scraper(url)
     scraper.scrape_collection_links()
