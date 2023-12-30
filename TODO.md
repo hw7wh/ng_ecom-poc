@@ -2,7 +2,11 @@
 
 ## Scraper : (highest priority)
 
-- refactor the scraper 
+DONE - refactor the scraper 
+
+- focus on the mighty cotton collection 7 prods
+
+- test (blkhef) concurency
 
 - complete the refactoring 
 
