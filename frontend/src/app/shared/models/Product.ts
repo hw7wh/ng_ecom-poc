@@ -23,6 +23,7 @@ export class Product {
 
   favorite!: boolean;
 
+  inseam?:string; // 26in 29in etc ( the distance between the crotch and the end of the leg opening )
   sizes!: Size[]; //For example, ['S', 'M', 'L', 'XL']
   colors!: string[]; // For example, ['#FFFFFF', '#000000']
   fabric?: Fabric;
