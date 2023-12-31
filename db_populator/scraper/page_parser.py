@@ -1,4 +1,5 @@
 from bs4 import BeautifulSoup
+from utils.array_utils import ArrayUtils
 
 # Parse HTML content
 class MY_HTML_PARSER:
@@ -11,7 +12,7 @@ class MY_HTML_PARSER:
         for li_elem in ul_elem:
             a_elem = li_elem.select_one("a")
             product_links.append(a_elem['href'])
-        return product_links
+        return ArrayUtils.remove_duplicates_ordered(product_links) 
 
     def parse_product_details(html_content):
         # Parse and return product details as an object

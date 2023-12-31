@@ -1,0 +1,6 @@
+database:
+  dbname: "wearables_db"
+  options:
+    ssl: true
+    connectTimeoutMS: 300000
+    authSource: "admin"

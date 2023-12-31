@@ -2,40 +2,34 @@
 
 ## Scraper : (highest priority)
 
-DONE - focus on the mighty cotton collection 7 prods
-
-DONE - analysis : scraped data source : html ? json? (json_parser + html_parser ?) # FYI : pics/color !!
--SOLUTION-> html parsing 
-
-DONE- test one of the large collections
-
-DONE- test a couple of different collections
-
-DONE - from last run of app check terminal stdout and look why some products don't return nth --> probablu time to load / or network related stuff
-
-DONE - test if scraping multiple pages doesn't trigger a 403 or else
-
+- get rid of les doublons in the array with the link to the details pages of the products
 
 - try catch ( for exceptions )
 
-- get rid of les doublons in the array with the link to the details pages of the products
+- wrape the get of the webdriver to add :
+   - enable reconnects
+   - get rid of popups
+   - add scroll down ( to load ajax)
 
-- wrape the get of the webdriver to add reconnects 
+- scraped.txt -> model ( process data w/ BS4)
+
+- test new collections
 
 - test (blkhef) concurency in anothe branch
 
-- complete the refactoring ( readme + requirements(auto))
-
+- complete the refactoring ( loader + .env + readme + requirements(auto))
+   - Scraper: Retrieves the scraper configuration from Loader to know which URLs to scrape, delays between requests, etc.
+   - DataProcessor: May require certain configuration parameters for data cleaning, formatting, etc.
+   - Database Module: Retrieves the MongoDB URI from Loader and any other relevant database settings to establish a connection to MongoDB and push data.
 
 - analysis : returned data structure
 
 - *MODIFY FE conception since we are cloning the website*
 
-- back to conception
+- model -> db ( database )
 
 - scrape and populate db w/ products ( db prod )
 
-- scrape fabrics ? collections ?
 
 ## BE : (very high priority)
 
@@ -85,6 +79,11 @@ review that all is well integrated UI & routing !
 - less random text
 - add page 404 + routing
 - template for listing collections
+
+---
+
+# SCRAPER : (minor priority)
+- scrape fabrics ? collections ?
 
 ---
 
