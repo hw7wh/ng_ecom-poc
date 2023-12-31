@@ -2,7 +2,7 @@
 
 ## Scraper : (highest priority)
 
-- get rid of les doublons in the array with the link to the details pages of the products
+DONE - get rid of les doublons in the array with the link to the details pages of the products
 
 - try catch ( for exceptions )
 
@@ -18,7 +18,7 @@
 - test (blkhef) concurency in anothe branch
 
 - complete the refactoring ( loader + .env + readme + requirements(auto))
-   - Scraper: Retrieves the scraper configuration from Loader to know which URLs to scrape, delays between requests, etc.
+   - Scraper: Retrieves the scraper configuration from Loader to know which URLs to scrape, delays between requests, etc. ( chrome options like *headless*)
    - DataProcessor: May require certain configuration parameters for data cleaning, formatting, etc.
    - Database Module: Retrieves the MongoDB URI from Loader and any other relevant database settings to establish a connection to MongoDB and push data.
 

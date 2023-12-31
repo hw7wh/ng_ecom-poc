@@ -1,6 +1,10 @@
 {
-    "base_url": "https://www.outdoorvoices.com",
-    "product_path": "/collections",
-    "user_agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
-    "request_delay": 2
+    "headless": true,
+    "disable_images": true,
+    "page_load_strategy": "normal",
+    "implicit_wait_time": 10,
+    "other_options": {
+        "no_sandbox": true,
+        "disable_gpu": true
+    }
 }
