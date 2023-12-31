@@ -14,10 +14,14 @@ sys.stdout = codecs.getwriter("utf-8")(sys.stdout.detach())
 
 
 if __name__ == '__main__':
-    collections_urls = ['https://www.outdoorvoices.com/collections/cloudknit',
-                        'https://www.outdoorvoices.com/collections/rectrek'
-                        ]
-    url = 'https://www.outdoorvoices.com/collections/mighty-cotton'
-    # later on we would loop on the collections urls
-    scraper = Scraper(url)
-    scraper.scrape_collection_links()
+    collections_urls = [
+        'https://www.outdoorvoices.com/collections/cloudknit',
+        'https://www.outdoorvoices.com/collections/rectrek',
+        'https://www.outdoorvoices.com/collections/mighty-cotton',
+        'https://www.outdoorvoices.com/collections/recfleece',
+        'https://www.outdoorvoices.com/collections/rec-poly'
+    ]
+    for url in collections_urls:
+        # later on we would loop on the collections urls
+        scraper = Scraper(url)
+        scraper.scrape_collection_links()

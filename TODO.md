@@ -2,18 +2,34 @@
 
 ## Scraper : (highest priority)
 
-DONE - refactor the scraper 
+DONE - focus on the mighty cotton collection 7 prods
 
-- focus on the mighty cotton collection 7 prods
+DONE - analysis : scraped data source : html ? json? (json_parser + html_parser ?) # FYI : pics/color !!
+-SOLUTION-> html parsing 
 
-- test (blkhef) concurency
+DONE- test one of the large collections
 
-- complete the refactoring 
+DONE- test a couple of different collections
 
-- test if scraping multiple pages doesn't trigger a 403 or else
+DONE - from last run of app check terminal stdout and look why some products don't return nth --> probablu time to load / or network related stuff
 
-- analysis : scraped data source : html ? json? (json_parser + html_parser ?) # FYI : pics/color !!
+DONE - test if scraping multiple pages doesn't trigger a 403 or else
+
+
+- try catch ( for exceptions )
+
+- get rid of les doublons in the array with the link to the details pages of the products
+
+- wrape the get of the webdriver to add reconnects 
+
+- test (blkhef) concurency in anothe branch
+
+- complete the refactoring ( readme + requirements(auto))
+
+
 - analysis : returned data structure
+
+- *MODIFY FE conception since we are cloning the website*
 
 - back to conception
 
