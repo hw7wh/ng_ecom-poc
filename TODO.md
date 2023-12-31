@@ -7,9 +7,13 @@ DONE - get rid of les doublons in the array with the link to the details pages o
 DONE - testing headless ( doesn't work => scroll down probably needed )
 
 - wrape the get of the webdriver to add :
-   - add scroll down ( to load ajax)
+   - DONE - add scroll down ( to load ajax)
+   - DONE - wait for details elem to appear
    - enable reconnects
    - get rid of popups
+
+- handle colors
+   - collection -> product urls -> product details page -> variants(colors)
 
 - try catch ( for exceptions )
 

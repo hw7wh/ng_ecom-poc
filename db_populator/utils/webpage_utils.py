@@ -6,7 +6,7 @@ class WebpageInteractionHelper:
     def __init__(self, driver):
         self.driver = driver
 
-    def scroll_to_bottom(self, pause_time=1):
+    def scroll_to_bottom(self, pause_time=1.5):
         """Scrolls the web page to the bottom."""
         screen_height = self.driver.execute_script("return window.innerHeight;")
         scrolled_height = 0
