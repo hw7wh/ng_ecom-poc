@@ -1,6 +1,9 @@
 # Core scraping logic
 from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.common.keys import Keys
 from .page_parser import MY_HTML_PARSER
+from utils.webpage_utils import WebpageInteractionHelper
 import time
 import random
 
@@ -16,6 +19,9 @@ class Scraper:
     def scrape_collection_links(self):
         print('----------------------- Scraping collection links -----------------------')      
         self.driver.get(self.url)
+        webHelper = WebpageInteractionHelper(self.driver)
+        webHelper.scroll_to_bottom()
+        
         product_links = MY_HTML_PARSER.parse_product_links(self.driver.page_source)
         print("----------------------- Done scraping collection links -----------------------")
         print(product_links)

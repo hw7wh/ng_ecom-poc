@@ -4,12 +4,14 @@
 
 DONE - get rid of les doublons in the array with the link to the details pages of the products
 
-- try catch ( for exceptions )
+DONE - testing headless ( doesn't work => scroll down probably needed )
 
 - wrape the get of the webdriver to add :
+   - add scroll down ( to load ajax)
    - enable reconnects
    - get rid of popups
-   - add scroll down ( to load ajax)
+
+- try catch ( for exceptions )
 
 - scraped.txt -> model ( process data w/ BS4)
 
