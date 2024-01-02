@@ -24,4 +24,4 @@ if __name__ == '__main__':
     for url in collections_urls:
         # later on we would loop on the collections urls
         scraper = Scraper(url)
-        scraper.scrape_collection_links()
+        scraper.run()

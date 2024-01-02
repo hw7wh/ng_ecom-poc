@@ -16,7 +16,8 @@ export const CategoriesBySex: Record<Sex, CategoryDetails[]> = {
     { name: 'Pants' },
     { name: 'Sweatshirts & Jackets', subcategories: ['2nd Layer','Longsleeve', 'Outerwear'] },
     { name: 'Tops & Tanks', subcategories: ['Bras', 'Longsleeve', 'Shortsleeve', 'Tanks'] },
-    { name: 'Shorts & Skorts', subcategories: ['Shorts', 'Skorts/Skirts','Tanks'] },
+    { name: 'Shorts & Skorts', subcategories: ['Dresses','Shorts', 'Skorts/Skirts','Tanks'] },
+    { name: 'Bras', subcategories: ['Bras','Tanks'] },
     { name: 'Leggings'},
     { name: 'Shoes & Accessories', subcategories: ['Footwear', 'Headwear', 'Socks'] },
     // ... other categories for women

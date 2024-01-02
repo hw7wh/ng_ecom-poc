@@ -2,26 +2,41 @@
 
 ## Scraper : (highest priority)
 
-DONE - get rid of les doublons in the array with the link to the details pages of the products
+- /collections /pages/fabrics --> loop all valide : home/fabrics/fabric --> for every prod intercept graphAPI call --> JSONparser -> savedb
 
-DONE - testing headless ( doesn't work => scroll down probably needed )
+- to avoid network issues when scraping collections (~fabrics) wait a sec scroll to bottom then to top then to bottom  
 
-- wrape the get of the webdriver to add :
-   - DONE - add scroll down ( to load ajax)
-   - DONE - wait for details elem to appear
-   - enable reconnects
-   - get rid of popups
+- do more research concerning the target website go route by route to figure out the categories, the relevant routes
+==> starting pt : collections/ ( fabrics + special collections + collabs)
+=> apply the rules and filter to :
+   --> scrape fabrics
+   --> scrape top categories, categories & subcategories ( by gender ? )
+   --> ONLY scrape products that have a (topcat,cat,fabric)
 
-- handle colors
-   - collection -> product urls -> product details page -> variants(colors)
+- find a new sutable scraping strategie ( routes )
+- what data to keep
 
-- try catch ( for exceptions )
+- refactor scraper logic to integrate all the varaints of a same prod as
+diff prods ( ask gpt for design pattern to solve this problem )
 
 - scraped.txt -> model ( process data w/ BS4)
+   - GPT HELP : main -> scraper -> parser -> data processor
+
+- Up scraper:
+   - scrape_variants_links() -> returns list of links
+   - scrape_variants_details() ->
+
+- try catch ( for exceptions )
+   - create GPT convo w/ current code and ask for help in trycatch
+
+- handle colors
+   - first - collection url -> products urls -> 
+   - then - product details page -> variants(colors) urls -> 
+   - then - varianst details page -> scrape -> format -> saveDb
+
+
 
 - test new collections
-
-- test (blkhef) concurency in anothe branch
 
 - complete the refactoring ( loader + .env + readme + requirements(auto))
    - Scraper: Retrieves the scraper configuration from Loader to know which URLs to scrape, delays between requests, etc. ( chrome options like *headless*)
@@ -29,12 +44,11 @@ DONE - testing headless ( doesn't work => scroll down probably needed )
    - Database Module: Retrieves the MongoDB URI from Loader and any other relevant database settings to establish a connection to MongoDB and push data.
 
 - analysis : returned data structure
-
-- *MODIFY FE conception since we are cloning the website*
-
-- model -> db ( database )
+   - *MODIFY FE conception since we are cloning the website*
+   - model -> db ( database )
 
 - scrape and populate db w/ products ( db prod )
+
 
 
 ## BE : (very high priority)
@@ -90,6 +104,8 @@ review that all is well integrated UI & routing !
 
 # SCRAPER : (minor priority)
 - scrape fabrics ? collections ?
+
+- test (blkhef) concurency in anothe branch
 
 ---
 

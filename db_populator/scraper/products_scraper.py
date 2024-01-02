@@ -8,6 +8,7 @@ import time
 import random
 
 class Scraper:
+    # later on the scraper could get the config(--headless) from config/
     def __init__(self, url):
         self.url = url
         options = webdriver.ChromeOptions()
@@ -15,6 +16,8 @@ class Scraper:
         self.driver = webdriver.Chrome(options=options)#version_main=114
         self.driver.implicitly_wait(15)
 
+    def run(self):
+        self.scrape_collection_links()
 
     def scrape_collection_links(self):
         print('----------------------- Scraping collection links -----------------------')      
