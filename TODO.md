@@ -2,13 +2,14 @@
 
 ## Scraper : (highest priority)
 - dev additional db entities : collection_links_to_scrape(ones that validate our rules) + prods_links_to_scrape
-- prod db entities : prod / breadcrumbs / badge / fabric / user / review / order 
+- prod db entities : prod / colors / colorwayModel / swatch / breadcrumbs / badge / fabric / user / review / order 
 ( populate all entities by scraping )
 - !! embed everything for the product entity beside : fabric, swatch & styledW/ (recommended prods) reference those !!!
 
 ------ finalise prod schema and start scraping ---------------
 how ? check more products's JSON responses and deduce the appropriate fields to keep the ones to embed the ones to reference
 --> keep working on the transformed.res.prod.json file scaffold the desired schema
+--> review the ids used in the transformed.res.prod.json file and what they refer to decide which ones to keep and which ones to delete
 
 - once done w/ the prods schema do the reviews one and filany the users and orders one
 
