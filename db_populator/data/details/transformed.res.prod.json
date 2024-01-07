@@ -1,0 +1,444 @@
+{
+    "data": {
+        "productShopify": {
+            "id": "UHJvZHVjdE5vZGU6MjA1",
+            "absoluteUrl": "https://outdoorvoices.com/products/m-cloudknit-hoodie",
+            "breadcrumbs": [
+                {
+                    "title": "Men",
+                    "url": "/collections/shop-man",
+                    "__typename": "BreadcrumbNode"
+                }
+            ],
+            "colorVariants": [
+                {
+                    "handle": "m-all-day-hoodie-black",
+                    "id": "Q29sb3J3YXlOb2RlOjc3NjA=",
+                    "assets": [
+                        {
+                            "id": "Q29sb3J3YXlBc3NldE5vZGU6MzI1MDI=",
+                            "image": {
+                                "id": "SW1hZ2VOb2RlOjQ3NDA4",
+                                "alt": "a person in a black shirt",
+                                "height": 1200,
+                                "src": "https://cdn.ov.app/media/products/cloudknit-hoodie/black/M500098-HMJ-BLK_All_Day_Hoodie_Black_Reshoot_016.jpg",
+                                "width": 900,
+                                "__typename": "ImageNode",
+                                "description": null,
+                                "title": "a person in a black shirt"
+                            },
+                            "type": "VIEWS",
+                            "video": null,
+                            "__typename": "ColorwayAssetNode"
+                        },
+                        {}
+                    ],
+                    "badge": {
+                        "id": "QmFkZ2VOb2RlOjE=",
+                        "backgroundColor": "#000f9f",
+                        "badgeType": "DISCOUNT",
+                        "color": "#ffffff",
+                        "text": "",
+                        "__typename": "BadgeNode"
+                    },
+                    "color": "Black",
+                    "colorwayModels": [
+                        {
+                            "id": "Q29sb3J3YXlNb2RlbE5vZGU6MjYzMw==",
+                            "model": {
+                                "name": "CJ",
+                                "height": "6\"",
+                                "__typename": "ModelNode"
+                            },
+                            "size": "M",
+                            "__typename": "ColorwayModelNode"
+                        }
+                    ],
+                    "sizesAvailable": [
+                        {
+                            "available": true,
+                            "size": "XXS",
+                            "__typename": "SizeAvailabilityNode"
+                        },
+                        {
+                            "available": true,
+                            "size": "XS",
+                            "__typename": "SizeAvailabilityNode"
+                        },
+                        {
+                            "available": true,
+                            "size": "S",
+                            "__typename": "SizeAvailabilityNode"
+                        },
+                        {
+                            "available": true,
+                            "size": "M",
+                            "__typename": "SizeAvailabilityNode"
+                        },
+                        {
+                            "available": false,
+                            "size": "L",
+                            "__typename": "SizeAvailabilityNode"
+                        },
+                        {
+                            "available": false,
+                            "size": "XL",
+                            "__typename": "SizeAvailabilityNode"
+                        },
+                        {
+                            "available": true,
+                            "size": "XXL",
+                            "__typename": "SizeAvailabilityNode"
+                        },
+                        {
+                            "available": true,
+                            "size": "XXXL",
+                            "__typename": "SizeAvailabilityNode"
+                        }
+                    ],
+                    "status": "PUBLISHED",
+                    "styledWith": [
+                        {
+                            "colorway": {
+                                "id": "Q29sb3J3YXlOb2RlOjc3NjA=",
+                                "color": "Black",
+                                "__typename": "ColorwayNode"
+                            },
+                            "product": {
+                                "id": "UHJvZHVjdE5vZGU6MTM0ODc="
+                            }
+                        },
+                        {}
+                    ],
+                    "swatch": {
+                        "id": "U3dhdGNoTm9kZTo4MTc="
+                    },
+                    "title": "Black",
+                    "variantStacks": [
+                        {
+                            "id": "VmFyaWFudFN0YWNrTm9kZTo3MjMyNg==",
+                            "size": "XXS",
+                            "variant": {
+                                "available": true,
+                                "compareAtPrice": 0.0,
+                                "finalSale": false,
+                                "id": "VmFyaWFudE5vZGU6MTU3ODI2",
+                                "inventoryQuantity": 23,
+                                "price": 88.0,
+                                "shopifyId": 39910022381646.0,
+                                "sku": "M500098-HMJ-BLK-1",
+                                "__typename": "VariantNode"
+                            },
+                            "__typename": "VariantStackNode"
+                        },
+                        {
+                            "id": "VmFyaWFudFN0YWNrTm9kZTozNDM0Mg==",
+                            "size": "XS",
+                            "variant": {
+                                "available": true,
+                                "compareAtPrice": 0.0,
+                                "finalSale": false,
+                                "id": "VmFyaWFudE5vZGU6NzkxMTY=",
+                                "inventoryQuantity": 21,
+                                "price": 88.0,
+                                "shopifyId": 32774105235534.0,
+                                "sku": "M500098-HMJ-BLK-2",
+                                "__typename": "VariantNode"
+                            },
+                            "__typename": "VariantStackNode"
+                        },
+                        {
+                            "id": "VmFyaWFudFN0YWNrTm9kZTozNDM0MA==",
+                            "size": "S",
+                            "variant": {
+                                "available": true,
+                                "compareAtPrice": 0.0,
+                                "finalSale": false,
+                                "id": "VmFyaWFudE5vZGU6NzkxMTQ=",
+                                "inventoryQuantity": 19,
+                                "price": 88.0,
+                                "shopifyId": 32774105268302.0,
+                                "sku": "M500098-HMJ-BLK-3",
+                                "__typename": "VariantNode"
+                            },
+                            "__typename": "VariantStackNode"
+                        },
+                        {
+                            "id": "VmFyaWFudFN0YWNrTm9kZTozNDM0NA==",
+                            "size": "M",
+                            "variant": {
+                                "available": true,
+                                "compareAtPrice": 0.0,
+                                "finalSale": false,
+                                "id": "VmFyaWFudE5vZGU6NzkxMTg=",
+                                "inventoryQuantity": 1,
+                                "price": 88.0,
+                                "shopifyId": 32774105333838.0,
+                                "sku": "M500098-HMJ-BLK-4",
+                                "__typename": "VariantNode"
+                            },
+                            "__typename": "VariantStackNode"
+                        },
+                        {
+                            "id": "VmFyaWFudFN0YWNrTm9kZTozNDM0Mw==",
+                            "size": "L",
+                            "variant": {
+                                "available": false,
+                                "compareAtPrice": 0.0,
+                                "finalSale": false,
+                                "id": "VmFyaWFudE5vZGU6NzkxMTc=",
+                                "inventoryQuantity": 0,
+                                "price": 88.0,
+                                "shopifyId": 32774105432142.0,
+                                "sku": "M500098-HMJ-BLK-5",
+                                "__typename": "VariantNode"
+                            },
+                            "__typename": "VariantStackNode"
+                        },
+                        {
+                            "id": "VmFyaWFudFN0YWNrTm9kZTozNDM0MQ==",
+                            "size": "XL",
+                            "variant": {
+                                "available": false,
+                                "compareAtPrice": 0.0,
+                                "finalSale": false,
+                                "id": "VmFyaWFudE5vZGU6NzkxMTU=",
+                                "inventoryQuantity": 0,
+                                "price": 88.0,
+                                "shopifyId": 32774105563214.0,
+                                "sku": "M500098-HMJ-BLK-6",
+                                "__typename": "VariantNode"
+                            },
+                            "__typename": "VariantStackNode"
+                        },
+                        {
+                            "id": "VmFyaWFudFN0YWNrTm9kZTo3MjU3MQ==",
+                            "size": "XXL",
+                            "variant": {
+                                "available": true,
+                                "compareAtPrice": 0.0,
+                                "finalSale": false,
+                                "id": "VmFyaWFudE5vZGU6MTU4MTI2",
+                                "inventoryQuantity": 33,
+                                "price": 88.0,
+                                "shopifyId": 39914400186446.0,
+                                "sku": "M500098-HMJ-BLK-7",
+                                "__typename": "VariantNode"
+                            },
+                            "__typename": "VariantStackNode"
+                        },
+                        {
+                            "id": "VmFyaWFudFN0YWNrTm9kZToxNjQwNDk=",
+                            "size": "XXXL",
+                            "variant": {
+                                "available": true,
+                                "compareAtPrice": 0.0,
+                                "finalSale": false,
+                                "id": "VmFyaWFudE5vZGU6MjgzODc5",
+                                "inventoryQuantity": 22,
+                                "price": 88.0,
+                                "shopifyId": 40304687841358.0,
+                                "sku": "M500098-HMJ-BLK-8",
+                                "__typename": "VariantNode"
+                            },
+                            "__typename": "VariantStackNode"
+                        }
+                    ],
+                    "waitlistType": "WAITLIST",
+                    "waitlistTypeDisplay": "Join the Waitlist"
+                },
+                {}
+            ],
+            "image": {
+                "id": "SW1hZ2VOb2RlOjEyOTU1",
+                "alt": "a person posing for the camera",
+                "height": 1200,
+                "src": "https://cdn.ov.app/media/products/cloudknit-hoodie/1-hero-M500098-HMJ-CHR_cloudknit_Hoodie_Charcoal_087_3mCSwz4.jpg",
+                "width": 900,
+                "__typename": "ImageNode"
+            },
+            "fabric": {
+                "id": "RmFicmljTm9kZToxMg=="
+            },
+            "pdp": {
+                "id": "UHJvZHVjdFBEUE5vZGU6NTI=",
+                "careInstructions": null,
+                "customDetailDrawer": null,
+                "instagrams": [
+                    {
+                        "id": "UHJvZHVjdFBEUEluc3RhZ3JhbU5vZGU6NDk=",
+                        "instagram": {
+                            "id": "SW5zdGFncmFtTm9kZToyMTA=",
+                            "image": {
+                                "id": "SW1hZ2VOb2RlOjMzMDAw",
+                                "alt": "a person standing in the sand",
+                                "height": 4000,
+                                "src": "https://cdn.ov.app/media/instagram/DSC04957_Cropped.jpg",
+                                "width": 4000,
+                                "__typename": "ImageNode"
+                            },
+                            "instagramProducts": {
+                                "edges": [
+                                    {
+                                        "node": {
+                                            "id": "SW5zdGFncmFtUHJvZHVjdE5vZGU6Mjcy",
+                                            "faceout": null,
+                                            "xPosition": 0.646875,
+                                            "yPosition": 0.5087890625,
+                                            "product": {
+                                                "absoluteUrl": "https://outdoorvoices.com/products/m-cloudknit-hoodie",
+                                                "status": "PUBLISHED",
+                                                "title": "CloudKnit Hoodie",
+                                                "__typename": "ProductNode"
+                                            },
+                                            "__typename": "InstagramProductNode"
+                                        },
+                                        "__typename": "InstagramProductNodeEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "SW5zdGFncmFtUHJvZHVjdE5vZGU6Mjcz",
+                                            "faceout": null,
+                                            "xPosition": 0.65,
+                                            "yPosition": 0.8369140625,
+                                            "product": {
+                                                "absoluteUrl": "https://outdoorvoices.com/products/m-cloudknit-sweatpant",
+                                                "status": "PUBLISHED",
+                                                "title": "CloudKnit Slim Sweatpant",
+                                                "__typename": "ProductNode"
+                                            },
+                                            "__typename": "InstagramProductNode"
+                                        },
+                                        "__typename": "InstagramProductNodeEdge"
+                                    }
+                                ],
+                                "__typename": "InstagramProductNodeConnection"
+                            },
+                            "status": "PUBLISHED",
+                            "userHandle": "6feet_short",
+                            "__typename": "InstagramNode"
+                        },
+                        "__typename": "ProductPDPInstagramNode"
+                    }
+                ],
+                "details": "",
+                "relatedCta": null,
+                "relatedUrl": null,
+                "subtitle": "The softest hoodie you\u2019ll ever wear. Made in our lightweight crazy-soft CloudKnit fabric.",
+                "productKnowledgeSet": [
+                    {
+                        "id": "UHJvZHVjdFBLU2V0Tm9kZToxNzg=",
+                        "title": "Details",
+                        "productKnowledges": [
+                            {
+                                "id": "UHJvZHVjdFBLTm9kZTo1MzI=",
+                                "title": "Description",
+                                "description": "The softest hoodie you\u2019ll ever wear. Made in our lightweight crazy-soft CloudKnit fabric. ",
+                                "type": "TEXT",
+                                "__typename": "ProductPKNode"
+                            },
+                            {
+                                "id": "UHJvZHVjdFBLTm9kZTo1MzM=",
+                                "title": "Made In",
+                                "description": null,
+                                "type": "FABRIC_DETAILS",
+                                "__typename": "ProductPKNode"
+                            },
+                            {
+                                "id": "UHJvZHVjdFBLTm9kZTo1MzQ=",
+                                "title": "Ideal For",
+                                "description": "Low-sweat Recreation \u2014 think travel, rest days, or when you wanna feel really, really comfortable.",
+                                "type": "TEXT",
+                                "__typename": "ProductPKNode"
+                            }
+                        ],
+                        "__typename": "ProductPKSetNode"
+                    },
+                    {
+                        "id": "UHJvZHVjdFBLU2V0Tm9kZToxNzk=",
+                        "title": "Fabric and Care",
+                        "productKnowledges": [
+                            {
+                                "id": "UHJvZHVjdFBLTm9kZTo1MzU=",
+                                "title": null,
+                                "description": null,
+                                "type": "FABRIC_LINK",
+                                "__typename": "ProductPKNode"
+                            },
+                            {
+                                "id": "UHJvZHVjdFBLTm9kZTo1MzY=",
+                                "title": "Other Fabric Details",
+                                "description": null,
+                                "type": "TEXT",
+                                "__typename": "ProductPKNode"
+                            },
+                            {
+                                "id": "UHJvZHVjdFBLTm9kZTo1Mzc=",
+                                "title": "Care Instructions",
+                                "description": null,
+                                "type": "CARE_INSTRUCTIONS",
+                                "__typename": "ProductPKNode"
+                            }
+                        ],
+                        "__typename": "ProductPKSetNode"
+                    },
+                    {
+                        "id": "UHJvZHVjdFBLU2V0Tm9kZToxODA=",
+                        "title": "Fit",
+                        "productKnowledges": [
+                            {
+                                "id": "UHJvZHVjdFBLTm9kZTo1Mzg=",
+                                "title": "How It Fits",
+                                "description": "Classic, closer-to-body fit",
+                                "type": "HOW_IT_FITS",
+                                "__typename": "ProductPKNode"
+                            },
+                            {
+                                "id": "UHJvZHVjdFBLTm9kZTo1Mzk=",
+                                "title": "Measurements",
+                                "description": null,
+                                "type": "TEXT",
+                                "__typename": "ProductPKNode"
+                            },
+                            {
+                                "id": "UHJvZHVjdFBLTm9kZTo1NDA=",
+                                "title": null,
+                                "description": null,
+                                "type": "CHAT_AND_QUESTIONS",
+                                "__typename": "ProductPKNode"
+                            }
+                        ],
+                        "__typename": "ProductPKSetNode"
+                    }
+                ],
+                "__typename": "ProductPDPNode"
+            },
+            "properties": {
+                "id": "UHJvZHVjdFByb3BlcnRpZXNOb2RlOjIwNQ==",
+                "description": "The softest hoodie you\u2019ll ever wear. Made in our lightweight crazy-soft CloudKnit fabric. Product was formerly called CloudKnit Hoodie.",
+                "fitRatingAvg": 2.00806451612903,
+                "gender": "MEN",
+                "questionsCount": 1,
+                "ratingAvg": 4.84677419354839,
+                "recommendation": {
+                    "id": "UmVjb21tZW5kYXRpb25BSU5vZGU6MQ==",
+                    "placementId": "others-you-may-like-2020-05",
+                    "title": "You Might Also Like",
+                    "__typename": "RecommendationAINode"
+                },
+                "reviewable": true,
+                "reviewCount": 124,
+                "reviewWithPhotoCount": 7,
+                "sizeComponent": "BUTTONS",
+                "sizeGuide": "MEN_ES",
+                "sizingRecommendation": "NONE",
+                "__typename": "ProductPropertiesNode"
+            },
+            "shopifyId": 5740726917.0,
+            "split": false,
+            "soldOutStatus": "NONE",
+            "title": "CloudKnit Hoodie",
+            "__typename": "ProductNode"
+        }
+    }
+}

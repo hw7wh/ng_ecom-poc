@@ -1,0 +1,13 @@
+{
+    "operationName": "GetReviews",
+    "query": "fragment image on ImageNode {\n  id\n  alt\n  height\n  src\n  width\n  __typename\n}\nfragment review on ReviewNode {\n  id\n  activities\n  body\n  createdAt\n  downvotes\n  fitRating\n  heightFeet\n  heightInches\n  image {\n    ...image\n    __typename\n  }\n  name\n  rating\n  response\n  score\n  sizePurchased\n  usualSizePurchased\n  summary\n  upvotes\n  weight\n  __typename\n}\nquery GetReviews($productShopifyId: String!, $after: String, $first: Int, $orderBy: String, $rating: Int, $size: String, $withPhoto: Boolean) {\n  reviews(\n    productShopifyId: $productShopifyId\n    after: $after\n    first: $first\n    orderBy: $orderBy\n    rating: $rating\n    sizePurchased: $size\n    withPhoto: $withPhoto\n  ) {\n    edges {\n      node {\n        ...review\n        __typename\n      }\n      __typename\n    }\n    totalCount\n    __typename\n  }\n}",
+    "variables": {
+        "after": null,
+        "first": 5,
+        "orderBy": "-rating,-created_at",
+        "productShopifyId": 5740726917,
+        "rating": null,
+        "size": null,
+        "withPhoto": false
+    }
+}

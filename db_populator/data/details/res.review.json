@@ -1,0 +1,144 @@
+{
+    "data": {
+        "reviews": {
+            "edges": [
+                {
+                    "node": {
+                        "id": "UmV2aWV3Tm9kZTo1MDc2OQ==",
+                        "activities": "{}",
+                        "body": "Love this hoodie! Thin but so comfy! Love this for everyday",
+                        "createdAt": "2023-12-23T15:01:28.850088+00:00",
+                        "downvotes": 0,
+                        "fitRating": 2,
+                        "heightFeet": 5,
+                        "heightInches": 10,
+                        "image": null,
+                        "name": "Cortney",
+                        "rating": 5,
+                        "response": "",
+                        "score": 0.0,
+                        "sizePurchased": "L",
+                        "usualSizePurchased": "L",
+                        "summary": "So soft and great!",
+                        "upvotes": 0,
+                        "weight": null,
+                        "__typename": "ReviewNode"
+                    },
+                    "__typename": "ReviewNodeEdge"
+                },
+                {
+                    "node": {
+                        "id": "UmV2aWV3Tm9kZTo1MDY3OA==",
+                        "activities": "{}",
+                        "body": "Got this as a gift for my partner and they love it! Runs a little oversized but SO soft and is really cute with jeans!",
+                        "createdAt": "2023-12-20T02:48:58.007895+00:00",
+                        "downvotes": 0,
+                        "fitRating": 3,
+                        "heightFeet": 5,
+                        "heightInches": 9,
+                        "image": null,
+                        "name": "Ella",
+                        "rating": 5,
+                        "response": "",
+                        "score": 0.0,
+                        "sizePurchased": "M",
+                        "usualSizePurchased": "M",
+                        "summary": "Perfect gift",
+                        "upvotes": 0,
+                        "weight": null,
+                        "__typename": "ReviewNode"
+                    },
+                    "__typename": "ReviewNodeEdge"
+                },
+                {
+                    "node": {
+                        "id": "UmV2aWV3Tm9kZTo1MDY3MQ==",
+                        "activities": "{}",
+                        "body": "I ordered the black Cloudknit hoodie and it\u2019s soft and keeps me warm. It\u2019s also breathable so I don\u2019t feel overly warm either. I\u2019m tall so I think the double X would fit better for larger sizes",
+                        "createdAt": "2023-12-19T20:15:07.814358+00:00",
+                        "downvotes": 0,
+                        "fitRating": 2,
+                        "heightFeet": 6,
+                        "heightInches": 3,
+                        "image": {
+                            "id": "SW1hZ2VOb2RlOjY1NjA0",
+                            "alt": "a person taking a picture of himself in a mirror",
+                            "height": 900,
+                            "src": "https://cdn.ov.app/media/user-uploads/E0E825B8-BA0C-4358-B689-8FCF512545FD.jpg",
+                            "width": 675,
+                            "__typename": "ImageNode"
+                        },
+                        "name": "Javier",
+                        "rating": 5,
+                        "response": "",
+                        "score": 0.0,
+                        "sizePurchased": "XL",
+                        "usualSizePurchased": "XXL",
+                        "summary": "Incredibly soft",
+                        "upvotes": 0,
+                        "weight": null,
+                        "__typename": "ReviewNode"
+                    },
+                    "__typename": "ReviewNodeEdge"
+                },
+                {
+                    "node": {
+                        "id": "UmV2aWV3Tm9kZTo1MDM3OA==",
+                        "activities": "{}",
+                        "body": "Bought this for my husband and he loves it",
+                        "createdAt": "2023-12-12T03:14:15.269467+00:00",
+                        "downvotes": 0,
+                        "fitRating": 2,
+                        "heightFeet": 5,
+                        "heightInches": 7,
+                        "image": {
+                            "id": "SW1hZ2VOb2RlOjY1NTE1",
+                            "alt": "a person wearing a suit and shorts",
+                            "height": 3372,
+                            "src": "https://cdn.ov.app/media/user-uploads/IMG_0665.jpeg",
+                            "width": 2078,
+                            "__typename": "ImageNode"
+                        },
+                        "name": "Tiffany",
+                        "rating": 5,
+                        "response": "",
+                        "score": 0.0,
+                        "sizePurchased": "S",
+                        "usualSizePurchased": "S",
+                        "summary": "Like wearing a cloud",
+                        "upvotes": 0,
+                        "weight": null,
+                        "__typename": "ReviewNode"
+                    },
+                    "__typename": "ReviewNodeEdge"
+                },
+                {
+                    "node": {
+                        "id": "UmV2aWV3Tm9kZTo1MDA4Mg==",
+                        "activities": "{}",
+                        "body": "So soft and cozy!! Fits just right!!",
+                        "createdAt": "2023-12-06T15:12:40.383676+00:00",
+                        "downvotes": 0,
+                        "fitRating": 2,
+                        "heightFeet": 5,
+                        "heightInches": 9,
+                        "image": null,
+                        "name": "emma",
+                        "rating": 5,
+                        "response": "",
+                        "score": 0.0,
+                        "sizePurchased": "L",
+                        "usualSizePurchased": "L",
+                        "summary": "Best sweatshirt ever!",
+                        "upvotes": 0,
+                        "weight": null,
+                        "__typename": "ReviewNode"
+                    },
+                    "__typename": "ReviewNodeEdge"
+                }
+            ],
+            "totalCount": 124,
+            "__typename": "ReviewNodeConnection"
+        }
+    }
+}

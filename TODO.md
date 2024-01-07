@@ -1,10 +1,55 @@
 # HIGH PRIORITY !!
 
 ## Scraper : (highest priority)
+- dev additional db entities : collection_links_to_scrape(ones that validate our rules) + prods_links_to_scrape
+- prod db entities : prod / breadcrumbs / badge / fabric / user / review / order 
+( populate all entities by scraping )
+- !! embed everything for the product entity beside : fabric, swatch & styledW/ (recommended prods) reference those !!!
 
-- /collections /pages/fabrics --> loop all valide : home/fabrics/fabric --> for every prod intercept graphAPI call --> JSONparser -> savedb
+------ finalise prod schema and start scraping ---------------
+how ? check more products's JSON responses and deduce the appropriate fields to keep the ones to embed the ones to reference
+--> keep working on the transformed.res.prod.json file scaffold the desired schema
 
-- to avoid network issues when scraping collections (~fabrics) wait a sec scroll to bottom then to top then to bottom  
+- once done w/ the prods schema do the reviews one and filany the users and orders one
+
+- reorganise all priorities
+
+- inspect the query that generates the product details response
+
+- FYI : fabric routes dont include all prodcuts of the fabric so major routes that should be scraped are the ones with the breadcrumbs : Home/{MEN/WOMEN}/TopCategory & Home/Fabrics/fabric
+
+- newest scraping strategy : go to home page crawl website for all routes that satisfy our rules ( see above ) save urls --> loop over urls --> save prods urls --> go to details page for each product --> intercept GraphQL response for product & reviews -> parseJSON -> save to db ( prod, review, users,orders,)
+
+- Scaffold db schema based on the entities in the graphql response JSON object : 
+-> product
+   -> colorway
+      -> badge ( promo badges )
+      -> variant
+      -> image 
+   -> image
+   -> breadcrumb
+   -> pdp
+   -> properties
+-> fabric
+   -> careInstruction
+-> review
+-> user
+
+- verify that the id in colorWayModel is relative to the model it self ( jereb b dak 3zi li 3ndo jackets)
+
+- /data : cache for fabrics list
+
+- #!!!! fabrics urls dont include all products so need more routes to explore
+
+- finalise dbSchema from GraphQL JSON response
+
+- zero input scraper :
+for BASE_URL/collections -> recupérer only /collections/fabrics --> loop all valide : home/fabrics/fabric --> for every prod intercept graphAPI call --> JSONparser -> savedb
+main().Scraper().run().getProductsByFabricUrls() returns a list of urls for every fabric
+
+- up web helper class to wrap webdriver get fct to enable reconnects !!
+
+- up web helper class to avoid network issues when scraping fabrics wait a sec scroll to bottom then to top then to bottom 
 
 - do more research concerning the target website go route by route to figure out the categories, the relevant routes
 ==> starting pt : collections/ ( fabrics + special collections + collabs)
@@ -34,8 +79,6 @@ diff prods ( ask gpt for design pattern to solve this problem )
    - then - product details page -> variants(colors) urls -> 
    - then - varianst details page -> scrape -> format -> saveDb
 
-
-
 - test new collections
 
 - complete the refactoring ( loader + .env + readme + requirements(auto))
@@ -49,26 +92,19 @@ diff prods ( ask gpt for design pattern to solve this problem )
 
 - scrape and populate db w/ products ( db prod )
 
-
-
 ## BE : (very high priority)
-
 - Init project structure
 
 ## UI : (high priority)
-
 - template for listing products
 
 ## FE : (high priority)
-
 - rethink folder structure / modules ( standalone components ???)
 
 ---
 
 # FE : (major priority)
-
 1. Product model
-
    1. Create data.ts
       1. Add sample products ( generate w/ gpt )
    2. Add images to assets or link to some cdn w/ corresponding images
@@ -91,7 +127,6 @@ diff prods ( ask gpt for design pattern to solve this problem )
 ---
 
 # UI : (minor priority)
-
 review that all is well integrated UI & routing !
 
 - fix : z index problem of /contact-us page ( can't click on navbar)
