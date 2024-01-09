@@ -1,0 +1,1968 @@
+{
+    "data": {
+        "productShopify": {
+            "id": "UHJvZHVjdE5vZGU6NDI0",
+            "absoluteUrl": "https://outdoorvoices.com/products/w-springs-7-8-legging",
+            "attributeGroups": {
+                "edges": [],
+                "__typename": "ProductAttributeGroupNodeConnection"
+            },
+            "breadcrumbs": [
+                {
+                    "title": "Women",
+                    "url": "/collections/shop-women",
+                    "__typename": "BreadcrumbNode"
+                },
+                {
+                    "title": "Leggings",
+                    "url": "/collections/leggings",
+                    "__typename": "BreadcrumbNode"
+                }
+            ],
+            "colorways": {
+                "edges": [
+                    {
+                        "node": {
+                            "handle": "w-springs-7-8-leggings-graphiteashdove",
+                            "id": "Q29sb3J3YXlOb2RlOjEyMzc=",
+                            "assets": {
+                                "edges": [
+                                    {
+                                        "node": {
+                                            "id": "Q29sb3J3YXlBc3NldE5vZGU6MTQ4ODQ=",
+                                            "image": {
+                                                "id": "SW1hZ2VOb2RlOjE4Njgx",
+                                                "alt": "7 8 Springs Leggings Graphite Ash Dove",
+                                                "height": 1200,
+                                                "src": "https://cdn.ov.app/media/products/78-springs-leggings/graphiteashdove/1-hero-W100943-TXC-GAD_7_8_Springs_Leggings_Graphite_Ash_Dove_0036_iYX7McX.jpg",
+                                                "width": 900,
+                                                "__typename": "ImageNode",
+                                                "description": null,
+                                                "title": "7 8 Springs Leggings Graphite Ash Dove"
+                                            },
+                                            "type": "VIEWS",
+                                            "video": null,
+                                            "__typename": "ColorwayAssetNode"
+                                        },
+                                        "__typename": "ColorwayAssetNodeEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "Q29sb3J3YXlBc3NldE5vZGU6MTUyMDg=",
+                                            "image": {
+                                                "id": "SW1hZ2VOb2RlOjE5MjI2",
+                                                "alt": "3x4",
+                                                "height": 1416,
+                                                "src": "https://cdn.ov.app/media/products/springs-78-legging/graphiteashdove/32630005-3x4.jpg",
+                                                "width": 1062,
+                                                "__typename": "ImageNode",
+                                                "description": null,
+                                                "title": "3x4"
+                                            },
+                                            "type": "VIEWS",
+                                            "video": null,
+                                            "__typename": "ColorwayAssetNode"
+                                        },
+                                        "__typename": "ColorwayAssetNodeEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "Q29sb3J3YXlBc3NldE5vZGU6MTQ4ODU=",
+                                            "image": {
+                                                "id": "SW1hZ2VOb2RlOjE4Njgy",
+                                                "alt": "7 8 Springs Leggings Graphite Ash Dove",
+                                                "height": 1200,
+                                                "src": "https://cdn.ov.app/media/products/78-springs-leggings/graphiteashdove/2-W100943-TXC-GAD_7_8_Springs_Leggings_Graphite_Ash_Dove_0070.jpg",
+                                                "width": 900,
+                                                "__typename": "ImageNode",
+                                                "description": null,
+                                                "title": "7 8 Springs Leggings Graphite Ash Dove"
+                                            },
+                                            "type": "VIEWS",
+                                            "video": null,
+                                            "__typename": "ColorwayAssetNode"
+                                        },
+                                        "__typename": "ColorwayAssetNodeEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "Q29sb3J3YXlBc3NldE5vZGU6MTQ4ODY=",
+                                            "image": {
+                                                "id": "SW1hZ2VOb2RlOjE4Njc5",
+                                                "alt": "7 8 Springs Leggings Graphite Ash Dove",
+                                                "height": 1200,
+                                                "src": "https://cdn.ov.app/media/products/78-springs-leggings/graphiteashdove/3-W100943-TXC-GAD_7_8_Springs_Leggings_Graphite_Ash_Dove_0065.jpg",
+                                                "width": 900,
+                                                "__typename": "ImageNode",
+                                                "description": null,
+                                                "title": "7 8 Springs Leggings Graphite Ash Dove"
+                                            },
+                                            "type": "VIEWS",
+                                            "video": null,
+                                            "__typename": "ColorwayAssetNode"
+                                        },
+                                        "__typename": "ColorwayAssetNodeEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "Q29sb3J3YXlBc3NldE5vZGU6MTQ4ODk=",
+                                            "image": {
+                                                "id": "SW1hZ2VOb2RlOjE4Njg0",
+                                                "alt": "Secure Waistband",
+                                                "height": 1200,
+                                                "src": "https://cdn.ov.app/media/products/78-springs-leggings/graphiteashdove/6-W100943-TXC-GAD_7_8_Springs_Leggings_Graphite_Ash_Dove_0135.jpg",
+                                                "width": 900,
+                                                "__typename": "ImageNode",
+                                                "description": "Mid-rise waistband with a hidden front pocket for key storage",
+                                                "title": "Secure Waistband"
+                                            },
+                                            "type": "TECHNICAL_DETAILS",
+                                            "video": null,
+                                            "__typename": "ColorwayAssetNode"
+                                        },
+                                        "__typename": "ColorwayAssetNodeEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "Q29sb3J3YXlBc3NldE5vZGU6MTQ4ODc=",
+                                            "image": {
+                                                "id": "SW1hZ2VOb2RlOjE4Njgz",
+                                                "alt": "7 8 Springs Leggings Graphite Ash Dove",
+                                                "height": 1200,
+                                                "src": "https://cdn.ov.app/media/products/78-springs-leggings/graphiteashdove/4-W100943-TXC-GAD_7_8_Springs_Leggings_Graphite_Ash_Dove_0107.jpg",
+                                                "width": 900,
+                                                "__typename": "ImageNode",
+                                                "description": null,
+                                                "title": "7 8 Springs Leggings Graphite Ash Dove"
+                                            },
+                                            "type": "VIEWS",
+                                            "video": null,
+                                            "__typename": "ColorwayAssetNode"
+                                        },
+                                        "__typename": "ColorwayAssetNodeEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "Q29sb3J3YXlBc3NldE5vZGU6MTQ4ODg=",
+                                            "image": {
+                                                "id": "SW1hZ2VOb2RlOjE4Njgw",
+                                                "alt": "7 8 Springs Leggings Graphite Ash Dove",
+                                                "height": 1200,
+                                                "src": "https://cdn.ov.app/media/products/78-springs-leggings/graphiteashdove/5-W100943-TXC-GAD_7_8_Springs_Leggings_Graphite_Ash_Dove_0079.jpg",
+                                                "width": 900,
+                                                "__typename": "ImageNode",
+                                                "description": null,
+                                                "title": "7 8 Springs Leggings Graphite Ash Dove"
+                                            },
+                                            "type": "VIEWS",
+                                            "video": null,
+                                            "__typename": "ColorwayAssetNode"
+                                        },
+                                        "__typename": "ColorwayAssetNodeEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "Q29sb3J3YXlBc3NldE5vZGU6MjQxMzQ=",
+                                            "image": {
+                                                "id": "SW1hZ2VOb2RlOjMzMDk5",
+                                                "alt": "a person holding a surfboard",
+                                                "height": 1200,
+                                                "src": "https://cdn.ov.app/media/products/springs-78-legging/graphiteashdove/W101408-TXC-GAD_Spring_7-8_Legging_Graphite-Ash-Dove_031.jpg",
+                                                "width": 900,
+                                                "__typename": "ImageNode",
+                                                "description": null,
+                                                "title": "a person holding a surfboard"
+                                            },
+                                            "type": "VIEWS",
+                                            "video": null,
+                                            "__typename": "ColorwayAssetNode"
+                                        },
+                                        "__typename": "ColorwayAssetNodeEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "Q29sb3J3YXlBc3NldE5vZGU6MjQxMzU=",
+                                            "image": {
+                                                "id": "SW1hZ2VOb2RlOjMzMTAw",
+                                                "alt": "a person in workout clothes",
+                                                "height": 1200,
+                                                "src": "https://cdn.ov.app/media/products/springs-78-legging/graphiteashdove/W101408-TXC-GAD_Spring_7-8_Legging_Graphite-Ash-Dove_020.jpg",
+                                                "width": 900,
+                                                "__typename": "ImageNode",
+                                                "description": null,
+                                                "title": "a person in workout clothes"
+                                            },
+                                            "type": "VIEWS",
+                                            "video": null,
+                                            "__typename": "ColorwayAssetNode"
+                                        },
+                                        "__typename": "ColorwayAssetNodeEdge"
+                                    }
+                                ],
+                                "__typename": "ColorwayAssetNodeConnection"
+                            },
+                            "badge": {
+                                "id": "QmFkZ2VOb2RlOjM1",
+                                "backgroundColor": "#000f9f",
+                                "badgeType": "CUSTOM",
+                                "color": "#ffffff",
+                                "text": "Sale",
+                                "__typename": "BadgeNode"
+                            },
+                            "color": "Graphite/Ash/Dove",
+                            "colorwayModels": [
+                                {
+                                    "id": "Q29sb3J3YXlNb2RlbE5vZGU6ODIx",
+                                    "model": {
+                                        "name": "Eva",
+                                        "height": "5'11\"",
+                                        "__typename": "ModelNode"
+                                    },
+                                    "size": "S",
+                                    "__typename": "ColorwayModelNode"
+                                },
+                                {
+                                    "id": "Q29sb3J3YXlNb2RlbE5vZGU6MTgyMw==",
+                                    "model": {
+                                        "name": "Minami",
+                                        "height": "5'7\"",
+                                        "__typename": "ModelNode"
+                                    },
+                                    "size": "XL",
+                                    "__typename": "ColorwayModelNode"
+                                }
+                            ],
+                            "sizesAvailable": [
+                                {
+                                    "available": false,
+                                    "size": "XXS",
+                                    "__typename": "SizeAvailabilityNode"
+                                },
+                                {
+                                    "available": true,
+                                    "size": "XS",
+                                    "__typename": "SizeAvailabilityNode"
+                                },
+                                {
+                                    "available": false,
+                                    "size": "S",
+                                    "__typename": "SizeAvailabilityNode"
+                                },
+                                {
+                                    "available": false,
+                                    "size": "M",
+                                    "__typename": "SizeAvailabilityNode"
+                                },
+                                {
+                                    "available": false,
+                                    "size": "L",
+                                    "__typename": "SizeAvailabilityNode"
+                                },
+                                {
+                                    "available": false,
+                                    "size": "XL",
+                                    "__typename": "SizeAvailabilityNode"
+                                },
+                                {
+                                    "available": false,
+                                    "size": "XXL",
+                                    "__typename": "SizeAvailabilityNode"
+                                },
+                                {
+                                    "available": false,
+                                    "size": "XXXL",
+                                    "__typename": "SizeAvailabilityNode"
+                                }
+                            ],
+                            "status": "PUBLISHED",
+                            "styledWith": [
+                                {
+                                    "colorway": {
+                                        "id": "Q29sb3J3YXlOb2RlOjEyMzc=",
+                                        "color": "Graphite/Ash/Dove",
+                                        "__typename": "ColorwayNode"
+                                    },
+                                    "product": {
+                                        "id": "UHJvZHVjdE5vZGU6NDIy",
+                                        "absoluteUrl": "https://outdoorvoices.com/products/w-double-time-bra",
+                                        "colorways": {
+                                            "edges": [
+                                                {
+                                                    "node": {
+                                                        "id": "Q29sb3J3YXlOb2RlOjEyMzE=",
+                                                        "image": {
+                                                            "id": "SW1hZ2VOb2RlOjQwMDE=",
+                                                            "alt": "Double-Time Bra: navy",
+                                                            "height": 1200,
+                                                            "src": "https://cdn.ov.app/media/products/double-time-bra/1-hero-W200031-TXC-NVY_Double_Time_Bra_Navy393.jpg",
+                                                            "width": 900,
+                                                            "__typename": "ImageNode"
+                                                        },
+                                                        "color": "Navy",
+                                                        "status": "PUBLISHED",
+                                                        "variantStacks": [
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZTo1MTk2",
+                                                                "size": "XS",
+                                                                "variant": {
+                                                                    "available": true,
+                                                                    "compareAtPrice": 48.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MTIwMzEz",
+                                                                    "inventoryQuantity": 98,
+                                                                    "price": 19.95,
+                                                                    "shopifyId": 39509648080974.0,
+                                                                    "sku": "W201524-TXC-NVY-2",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZTo1MjE1",
+                                                                "size": "S",
+                                                                "variant": {
+                                                                    "available": true,
+                                                                    "compareAtPrice": 48.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6NTM2NA==",
+                                                                    "inventoryQuantity": 290,
+                                                                    "price": 19.95,
+                                                                    "shopifyId": 17901327493.0,
+                                                                    "sku": "W200031-TXC-NVY-3",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZTo1MjM4",
+                                                                "size": "M",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 48.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MTIwMzE1",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 19.95,
+                                                                    "shopifyId": 39509648572494.0,
+                                                                    "sku": "W201524-TXC-NVY-4",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZTo1MjUz",
+                                                                "size": "L",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 48.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6NTM5Mw==",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 19.95,
+                                                                    "shopifyId": 17901328901.0,
+                                                                    "sku": "W200031-TXC-NVY-5",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZTo1MjYw",
+                                                                "size": "XL",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 48.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6NTQwMg==",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 19.95,
+                                                                    "shopifyId": 32316264965.0,
+                                                                    "sku": "W200031-TXC-NVY-6",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            }
+                                                        ],
+                                                        "__typename": "ColorwayNode"
+                                                    },
+                                                    "__typename": "ColorwayNodeEdge"
+                                                },
+                                                {
+                                                    "node": {
+                                                        "id": "Q29sb3J3YXlOb2RlOjM4Mzk5",
+                                                        "image": {
+                                                            "id": "SW1hZ2VOb2RlOjU3ODA2",
+                                                            "alt": "a person wearing a white tank top",
+                                                            "height": 1200,
+                                                            "src": "https://cdn.ov.app/media/products/double-time-bra-2/white/W201524-TXC-WHI_Double_Time_Bra_White_022_EXP240520.jpg",
+                                                            "width": 900,
+                                                            "__typename": "ImageNode"
+                                                        },
+                                                        "color": "White",
+                                                        "status": "PUBLISHED",
+                                                        "variantStacks": [
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxNDI3NTM=",
+                                                                "size": "XXS",
+                                                                "variant": {
+                                                                    "available": true,
+                                                                    "compareAtPrice": 48.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MjQ4NjI3",
+                                                                    "inventoryQuantity": 18,
+                                                                    "price": 24.95,
+                                                                    "shopifyId": 40239763193934.0,
+                                                                    "sku": "W201524-TXC-WHI-1",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxNDIzMjY=",
+                                                                "size": "XS",
+                                                                "variant": {
+                                                                    "available": true,
+                                                                    "compareAtPrice": 48.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MjQ3OTE3",
+                                                                    "inventoryQuantity": 16,
+                                                                    "price": 24.95,
+                                                                    "shopifyId": 40239393341518.0,
+                                                                    "sku": "W201524-TXC-WHI-2",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxNDIzMjE=",
+                                                                "size": "S",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 48.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MjQ3OTEy",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 24.95,
+                                                                    "shopifyId": 40239393374286.0,
+                                                                    "sku": "W201524-TXC-WHI-3",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxNDIzMTk=",
+                                                                "size": "M",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 48.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MjQ3OTEw",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 24.95,
+                                                                    "shopifyId": 40239393407054.0,
+                                                                    "sku": "W201524-TXC-WHI-4",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxNDI3NTE=",
+                                                                "size": "L",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 48.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MjQ4NjI1",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 24.95,
+                                                                    "shopifyId": 40239763226702.0,
+                                                                    "sku": "W201524-TXC-WHI-5",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxNDI3NTI=",
+                                                                "size": "XL",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 48.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MjQ4NjI2",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 24.95,
+                                                                    "shopifyId": 40239763259470.0,
+                                                                    "sku": "W201524-TXC-WHI-6",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxNDI0NzA=",
+                                                                "size": "XXL",
+                                                                "variant": {
+                                                                    "available": true,
+                                                                    "compareAtPrice": 48.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MjQ4MTUx",
+                                                                    "inventoryQuantity": 6,
+                                                                    "price": 24.95,
+                                                                    "shopifyId": 40239401500750.0,
+                                                                    "sku": "W201524-TXC-WHI-7",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxNDIzMjQ=",
+                                                                "size": "XXXL",
+                                                                "variant": {
+                                                                    "available": true,
+                                                                    "compareAtPrice": 48.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MjQ3OTE1",
+                                                                    "inventoryQuantity": 2,
+                                                                    "price": 24.95,
+                                                                    "shopifyId": 40239393439822.0,
+                                                                    "sku": "W201524-TXC-WHI-8",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            }
+                                                        ],
+                                                        "__typename": "ColorwayNode"
+                                                    },
+                                                    "__typename": "ColorwayNodeEdge"
+                                                },
+                                                {
+                                                    "node": {
+                                                        "id": "Q29sb3J3YXlOb2RlOjE0NTgx",
+                                                        "image": {
+                                                            "id": "SW1hZ2VOb2RlOjM1NjE1",
+                                                            "alt": "a person wearing a blue tank top",
+                                                            "height": 1200,
+                                                            "src": "https://cdn.ov.app/media/products/double-time-bra-2/morning-blue/W201524-TXC-MOB_Double_Time_Bra_Morning_Blue_068.jpg",
+                                                            "width": 900,
+                                                            "__typename": "ImageNode"
+                                                        },
+                                                        "color": "Morning Blue",
+                                                        "status": "PUBLISHED",
+                                                        "variantStacks": [
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZTo1OTEwMQ==",
+                                                                "size": "XS",
+                                                                "variant": {
+                                                                    "available": true,
+                                                                    "compareAtPrice": 48.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MTQwMDk5",
+                                                                    "inventoryQuantity": 14,
+                                                                    "price": 39.95,
+                                                                    "shopifyId": 39738140721230.0,
+                                                                    "sku": "W201524-TXC-MOB-2",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZTo1OTA5OQ==",
+                                                                "size": "S",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 48.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MTQwMDk3",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 39.95,
+                                                                    "shopifyId": 39738140753998.0,
+                                                                    "sku": "W201524-TXC-MOB-3",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZTo1OTEwMw==",
+                                                                "size": "M",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 48.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MTQwMTAx",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 39.95,
+                                                                    "shopifyId": 39738140852302.0,
+                                                                    "sku": "W201524-TXC-MOB-4",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZTo1OTEwMA==",
+                                                                "size": "L",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 48.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MTQwMDk4",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 39.95,
+                                                                    "shopifyId": 39738140885070.0,
+                                                                    "sku": "W201524-TXC-MOB-5",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZTo1OTA5OA==",
+                                                                "size": "XL",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 48.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MTQwMDk2",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 39.95,
+                                                                    "shopifyId": 39738140917838.0,
+                                                                    "sku": "W201524-TXC-MOB-6",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            }
+                                                        ],
+                                                        "__typename": "ColorwayNode"
+                                                    },
+                                                    "__typename": "ColorwayNodeEdge"
+                                                },
+                                                {
+                                                    "node": {
+                                                        "id": "Q29sb3J3YXlOb2RlOjEzODIw",
+                                                        "image": {
+                                                            "id": "SW1hZ2VOb2RlOjYxNjU2",
+                                                            "alt": "a person sitting on a stone ledge",
+                                                            "height": 1200,
+                                                            "src": "https://cdn.ov.app/media/products/double-time-bra-2/chocolate/20230830_OV_EVERYDAY-OUTDOORS_2401_3_vPOGW48.jpg",
+                                                            "width": 900,
+                                                            "__typename": "ImageNode"
+                                                        },
+                                                        "color": "Chocolate",
+                                                        "status": "PUBLISHED",
+                                                        "variantStacks": [
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxNTM3ODM=",
+                                                                "size": "XXS",
+                                                                "variant": {
+                                                                    "available": true,
+                                                                    "compareAtPrice": 48.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MjY2NzM2",
+                                                                    "inventoryQuantity": 28,
+                                                                    "price": 19.95,
+                                                                    "shopifyId": 40264150155342.0,
+                                                                    "sku": "W201524-TXC-CHO-1",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZTo1NTU0OQ==",
+                                                                "size": "XS",
+                                                                "variant": {
+                                                                    "available": true,
+                                                                    "compareAtPrice": 0.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MTMzODcy",
+                                                                    "inventoryQuantity": 35,
+                                                                    "price": 48.0,
+                                                                    "shopifyId": 40261122162766.0,
+                                                                    "sku": "W201524-TXC-CHO-2",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZTo1NTU1MQ==",
+                                                                "size": "S",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 0.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MTMzODc0",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 48.0,
+                                                                    "shopifyId": 40261122195534.0,
+                                                                    "sku": "W201524-TXC-CHO-3",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZTo1NTU0OA==",
+                                                                "size": "M",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 0.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MTMzODcx",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 48.0,
+                                                                    "shopifyId": 40261122228302.0,
+                                                                    "sku": "W201524-TXC-CHO-4",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZTo1NTU0Nw==",
+                                                                "size": "L",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 0.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MTMzODcw",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 48.0,
+                                                                    "shopifyId": 40261122261070.0,
+                                                                    "sku": "W201524-TXC-CHO-5",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZTo1NTU1MA==",
+                                                                "size": "XL",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 0.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MTMzODcz",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 48.0,
+                                                                    "shopifyId": 40261122293838.0,
+                                                                    "sku": "W201524-TXC-CHO-6",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxNTI3MzE=",
+                                                                "size": "XXL",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 48.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MjY1MDc2",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 19.95,
+                                                                    "shopifyId": 40261847056462.0,
+                                                                    "sku": "W201524-TXC-CHO-7",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxNTMwMTQ=",
+                                                                "size": "XXXL",
+                                                                "variant": {
+                                                                    "available": true,
+                                                                    "compareAtPrice": 48.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MjY1NTUz",
+                                                                    "inventoryQuantity": 6,
+                                                                    "price": 19.95,
+                                                                    "shopifyId": 40263272398926.0,
+                                                                    "sku": "W201524-TXC-CHO-8",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            }
+                                                        ],
+                                                        "__typename": "ColorwayNode"
+                                                    },
+                                                    "__typename": "ColorwayNodeEdge"
+                                                },
+                                                {
+                                                    "node": {
+                                                        "id": "Q29sb3J3YXlOb2RlOjM0NTMy",
+                                                        "image": {
+                                                            "id": "SW1hZ2VOb2RlOjU2MzI4",
+                                                            "alt": "a person wearing a green tank top",
+                                                            "height": 1200,
+                                                            "src": "https://cdn.ov.app/media/products/double-time-bra-2/grasshopper/W201524-TXC-GSP_Double_Time_Bra_Grasshopper_060_EXP240420.jpg",
+                                                            "width": 900,
+                                                            "__typename": "ImageNode"
+                                                        },
+                                                        "color": "Grasshopper",
+                                                        "status": "PUBLISHED",
+                                                        "variantStacks": [
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxMjg3ODQ=",
+                                                                "size": "XXS",
+                                                                "variant": {
+                                                                    "available": true,
+                                                                    "compareAtPrice": 48.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MjMwNjg2",
+                                                                    "inventoryQuantity": 19,
+                                                                    "price": 34.95,
+                                                                    "shopifyId": 40223400951886.0,
+                                                                    "sku": "W201524-TXC-GSP-1",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxMjg5MTM=",
+                                                                "size": "XS",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 48.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MjMwODM5",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 34.95,
+                                                                    "shopifyId": 40225411072078.0,
+                                                                    "sku": "W201524-TXC-GSP-2",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxMjg3ODg=",
+                                                                "size": "S",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 48.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MjMwNjkw",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 34.95,
+                                                                    "shopifyId": 40223400984654.0,
+                                                                    "sku": "W201524-TXC-GSP-3",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxMjg3ODU=",
+                                                                "size": "M",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 48.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MjMwNjg3",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 34.95,
+                                                                    "shopifyId": 40223401017422.0,
+                                                                    "sku": "W201524-TXC-GSP-4",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxMjg5MTQ=",
+                                                                "size": "L",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 48.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MjMwODQw",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 34.95,
+                                                                    "shopifyId": 40225411104846.0,
+                                                                    "sku": "W201524-TXC-GSP-5",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxMjg5MTU=",
+                                                                "size": "XL",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 48.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MjMwODQx",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 34.95,
+                                                                    "shopifyId": 40225411137614.0,
+                                                                    "sku": "W201524-TXC-GSP-6",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxMjg5MTI=",
+                                                                "size": "XXL",
+                                                                "variant": {
+                                                                    "available": true,
+                                                                    "compareAtPrice": 48.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MjMwODM4",
+                                                                    "inventoryQuantity": 10,
+                                                                    "price": 34.95,
+                                                                    "shopifyId": 40225411170382.0,
+                                                                    "sku": "W201524-TXC-GSP-7",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxMjg3ODY=",
+                                                                "size": "XXXL",
+                                                                "variant": {
+                                                                    "available": true,
+                                                                    "compareAtPrice": 48.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MjMwNjg4",
+                                                                    "inventoryQuantity": 17,
+                                                                    "price": 34.95,
+                                                                    "shopifyId": 40223401050190.0,
+                                                                    "sku": "W201524-TXC-GSP-8",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            }
+                                                        ],
+                                                        "__typename": "ColorwayNode"
+                                                    },
+                                                    "__typename": "ColorwayNodeEdge"
+                                                },
+                                                {
+                                                    "node": {
+                                                        "id": "Q29sb3J3YXlOb2RlOjQxMDkx",
+                                                        "image": {
+                                                            "id": "SW1hZ2VOb2RlOjU5NDM5",
+                                                            "alt": "a person in a blue dress",
+                                                            "height": 1200,
+                                                            "src": "https://cdn.ov.app/media/products/double-time-bra-2/blizzard/W201524-TXC-BLZ_Double_Time_Bra_Blizzard_008_EXP240520_1.jpg",
+                                                            "width": 900,
+                                                            "__typename": "ImageNode"
+                                                        },
+                                                        "color": "Blizzard",
+                                                        "status": "PUBLISHED",
+                                                        "variantStacks": [
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxNDk5Mzc=",
+                                                                "size": "XXS",
+                                                                "variant": {
+                                                                    "available": true,
+                                                                    "compareAtPrice": 48.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MjYwNzMx",
+                                                                    "inventoryQuantity": 15,
+                                                                    "price": 19.95,
+                                                                    "shopifyId": 40254193795150.0,
+                                                                    "sku": "W201524-TXC-BLZ-1",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxNDkzNzk=",
+                                                                "size": "XS",
+                                                                "variant": {
+                                                                    "available": true,
+                                                                    "compareAtPrice": 48.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MjU5Njc2",
+                                                                    "inventoryQuantity": 51,
+                                                                    "price": 19.95,
+                                                                    "shopifyId": 40252098838606.0,
+                                                                    "sku": "W201524-TXC-BLZ-2",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxNDkyNDY=",
+                                                                "size": "S",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 48.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MjU5NDQw",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 19.95,
+                                                                    "shopifyId": 40251742355534.0,
+                                                                    "sku": "W201524-TXC-BLZ-3",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxNDk1MDU=",
+                                                                "size": "M",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 48.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MjU5OTE1",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 19.95,
+                                                                    "shopifyId": 40252427796558.0,
+                                                                    "sku": "W201524-TXC-BLZ-4",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxNDk1OTc=",
+                                                                "size": "L",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 48.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MjYwMTA0",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 19.95,
+                                                                    "shopifyId": 40252871704654.0,
+                                                                    "sku": "W201524-TXC-BLZ-5",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxNDk2ODU=",
+                                                                "size": "XL",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 48.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MjYwMjQ3",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 19.95,
+                                                                    "shopifyId": 40254193827918.0,
+                                                                    "sku": "W201524-TXC-BLZ-6",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxNDkzNzc=",
+                                                                "size": "XXL",
+                                                                "variant": {
+                                                                    "available": true,
+                                                                    "compareAtPrice": 48.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MjU5Njcz",
+                                                                    "inventoryQuantity": 24,
+                                                                    "price": 19.95,
+                                                                    "shopifyId": 40252098871374.0,
+                                                                    "sku": "W201524-TXC-BLZ-7",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxNDk2ODY=",
+                                                                "size": "XXXL",
+                                                                "variant": {
+                                                                    "available": true,
+                                                                    "compareAtPrice": 48.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MjYwMjQ4",
+                                                                    "inventoryQuantity": 7,
+                                                                    "price": 19.95,
+                                                                    "shopifyId": 40254193860686.0,
+                                                                    "sku": "W201524-TXC-BLZ-8",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            }
+                                                        ],
+                                                        "__typename": "ColorwayNode"
+                                                    },
+                                                    "__typename": "ColorwayNodeEdge"
+                                                }
+                                            ],
+                                            "__typename": "ColorwayNodeConnection"
+                                        },
+                                        "image": {
+                                            "id": "SW1hZ2VOb2RlOjQwMDE=",
+                                            "alt": "Double-Time Bra: navy",
+                                            "height": 1200,
+                                            "src": "https://cdn.ov.app/media/products/double-time-bra/1-hero-W200031-TXC-NVY_Double_Time_Bra_Navy393.jpg",
+                                            "width": 900,
+                                            "__typename": "ImageNode"
+                                        },
+                                        "properties": {
+                                            "collectionSubtitle": "Textured Compression; Medium Support",
+                                            "__typename": "ProductPropertiesNode"
+                                        },
+                                        "status": "PUBLISHED",
+                                        "title": "Double Time Bra",
+                                        "__typename": "ProductNode"
+                                    },
+                                    "faceout": {
+                                        "id": "Q29sb3J3YXlOb2RlOjEyNTQ=",
+                                        "image": {
+                                            "id": "SW1hZ2VOb2RlOjE0MzUx",
+                                            "alt": "a person posing for the camera",
+                                            "height": 1350,
+                                            "src": "https://cdn.ov.app/media/products/double-time-bra/dove/1-hero-DOUBLETIME_BRA_DOVE_137-cropped.jpg",
+                                            "width": 1012,
+                                            "__typename": "ImageNode"
+                                        },
+                                        "color": "Dove",
+                                        "status": "HIDDEN",
+                                        "variantStacks": [
+                                            {
+                                                "id": "VmFyaWFudFN0YWNrTm9kZToxMzQ3NTI=",
+                                                "size": "XXS",
+                                                "variant": {
+                                                    "available": true,
+                                                    "compareAtPrice": 0.0,
+                                                    "finalSale": false,
+                                                    "id": "VmFyaWFudE5vZGU6MjM3OTU5",
+                                                    "inventoryQuantity": 1,
+                                                    "price": 48.0,
+                                                    "shopifyId": 40231332905038.0,
+                                                    "sku": "W201524-TXC-DVE-1",
+                                                    "__typename": "VariantNode"
+                                                },
+                                                "__typename": "VariantStackNode"
+                                            },
+                                            {
+                                                "id": "VmFyaWFudFN0YWNrTm9kZTo1Mjc1",
+                                                "size": "XS",
+                                                "variant": {
+                                                    "available": true,
+                                                    "compareAtPrice": 0.0,
+                                                    "finalSale": false,
+                                                    "id": "VmFyaWFudE5vZGU6MTIwMTY4",
+                                                    "inventoryQuantity": 5,
+                                                    "price": 48.0,
+                                                    "shopifyId": 39508814561358.0,
+                                                    "sku": "W201524-TXC-DVE-2",
+                                                    "__typename": "VariantNode"
+                                                },
+                                                "__typename": "VariantStackNode"
+                                            },
+                                            {
+                                                "id": "VmFyaWFudFN0YWNrTm9kZTo1Mjg5",
+                                                "size": "S",
+                                                "variant": {
+                                                    "available": true,
+                                                    "compareAtPrice": 0.0,
+                                                    "finalSale": false,
+                                                    "id": "VmFyaWFudE5vZGU6MTIwMTYz",
+                                                    "inventoryQuantity": 20,
+                                                    "price": 48.0,
+                                                    "shopifyId": 39508814594126.0,
+                                                    "sku": "W201524-TXC-DVE-3",
+                                                    "__typename": "VariantNode"
+                                                },
+                                                "__typename": "VariantStackNode"
+                                            },
+                                            {
+                                                "id": "VmFyaWFudFN0YWNrTm9kZTo1Mjk5",
+                                                "size": "M",
+                                                "variant": {
+                                                    "available": true,
+                                                    "compareAtPrice": 0.0,
+                                                    "finalSale": false,
+                                                    "id": "VmFyaWFudE5vZGU6MTIwMTY0",
+                                                    "inventoryQuantity": 15,
+                                                    "price": 48.0,
+                                                    "shopifyId": 39508814626894.0,
+                                                    "sku": "W201524-TXC-DVE-4",
+                                                    "__typename": "VariantNode"
+                                                },
+                                                "__typename": "VariantStackNode"
+                                            },
+                                            {
+                                                "id": "VmFyaWFudFN0YWNrTm9kZTo1MzA4",
+                                                "size": "L",
+                                                "variant": {
+                                                    "available": false,
+                                                    "compareAtPrice": 0.0,
+                                                    "finalSale": false,
+                                                    "id": "VmFyaWFudE5vZGU6MTIwMTY2",
+                                                    "inventoryQuantity": 0,
+                                                    "price": 48.0,
+                                                    "shopifyId": 39508814692430.0,
+                                                    "sku": "W201524-TXC-DVE-5",
+                                                    "__typename": "VariantNode"
+                                                },
+                                                "__typename": "VariantStackNode"
+                                            },
+                                            {
+                                                "id": "VmFyaWFudFN0YWNrTm9kZTo1MzEx",
+                                                "size": "XL",
+                                                "variant": {
+                                                    "available": false,
+                                                    "compareAtPrice": 0.0,
+                                                    "finalSale": false,
+                                                    "id": "VmFyaWFudE5vZGU6MTIwMTY3",
+                                                    "inventoryQuantity": 0,
+                                                    "price": 48.0,
+                                                    "shopifyId": 39508814725198.0,
+                                                    "sku": "W201524-TXC-DVE-6",
+                                                    "__typename": "VariantNode"
+                                                },
+                                                "__typename": "VariantStackNode"
+                                            },
+                                            {
+                                                "id": "VmFyaWFudFN0YWNrTm9kZToxMzUxNzI=",
+                                                "size": "XXL",
+                                                "variant": {
+                                                    "available": true,
+                                                    "compareAtPrice": 0.0,
+                                                    "finalSale": false,
+                                                    "id": "VmFyaWFudE5vZGU6MjM4NDU3",
+                                                    "inventoryQuantity": 1,
+                                                    "price": 48.0,
+                                                    "shopifyId": 40231765934158.0,
+                                                    "sku": "W201524-TXC-DVE-7",
+                                                    "__typename": "VariantNode"
+                                                },
+                                                "__typename": "VariantStackNode"
+                                            },
+                                            {
+                                                "id": "VmFyaWFudFN0YWNrTm9kZToxMzQ3NTM=",
+                                                "size": "XXXL",
+                                                "variant": {
+                                                    "available": false,
+                                                    "compareAtPrice": 0.0,
+                                                    "finalSale": false,
+                                                    "id": "VmFyaWFudE5vZGU6MjM3OTYw",
+                                                    "inventoryQuantity": 0,
+                                                    "price": 48.0,
+                                                    "shopifyId": 40231333068878.0,
+                                                    "sku": "W201524-TXC-DVE-8",
+                                                    "__typename": "VariantNode"
+                                                },
+                                                "__typename": "VariantStackNode"
+                                            }
+                                        ],
+                                        "__typename": "ColorwayNode"
+                                    },
+                                    "__typename": "ColorwayStyledWithNode"
+                                },
+                                {
+                                    "colorway": {
+                                        "id": "Q29sb3J3YXlOb2RlOjEyMzc=",
+                                        "color": "Graphite/Ash/Dove",
+                                        "__typename": "ColorwayNode"
+                                    },
+                                    "product": {
+                                        "id": "UHJvZHVjdE5vZGU6MTA1ODE=",
+                                        "absoluteUrl": "https://outdoorvoices.com/products/w-merrell-moab-flight",
+                                        "colorways": {
+                                            "edges": [
+                                                {
+                                                    "node": {
+                                                        "id": "Q29sb3J3YXlOb2RlOjEyODA1",
+                                                        "image": {
+                                                            "id": "SW1hZ2VOb2RlOjMxMzA2",
+                                                            "alt": "a black and yellow sneaker",
+                                                            "height": 1200,
+                                                            "src": "https://cdn.ov.app/media/products/womens-moab-flight/lichen/W601713-MRL-LCH_frontside_Lut7cWo.jpg",
+                                                            "width": 900,
+                                                            "__typename": "ImageNode"
+                                                        },
+                                                        "color": "Lichen",
+                                                        "status": "PUBLISHED",
+                                                        "variantStacks": [
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZTo1MTY5MQ==",
+                                                                "size": "6",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 110.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MTI1MTIw",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 64.95,
+                                                                    "shopifyId": 39539997016142.0,
+                                                                    "sku": "W601713-MRL-LCH-6",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZTo1MTY5Mg==",
+                                                                "size": "6.5",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 110.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MTI1MTIx",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 64.95,
+                                                                    "shopifyId": 39539997048910.0,
+                                                                    "sku": "W601713-MRL-LCH-6.5",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZTo1MTY5Mw==",
+                                                                "size": "7",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 110.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MTI1MTIy",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 64.95,
+                                                                    "shopifyId": 39539997081678.0,
+                                                                    "sku": "W601713-MRL-LCH-7",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZTo1MTcwMQ==",
+                                                                "size": "7.5",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 110.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MTI1MTMw",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 64.95,
+                                                                    "shopifyId": 39539997114446.0,
+                                                                    "sku": "W601713-MRL-LCH-7.5",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZTo1MTY5NA==",
+                                                                "size": "8",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 110.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MTI1MTIz",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 64.95,
+                                                                    "shopifyId": 39539997147214.0,
+                                                                    "sku": "W601713-MRL-LCH-8",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZTo1MTY5NQ==",
+                                                                "size": "8.5",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 110.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MTI1MTI0",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 64.95,
+                                                                    "shopifyId": 39539997179982.0,
+                                                                    "sku": "W601713-MRL-LCH-8.5",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZTo1MTY5OA==",
+                                                                "size": "9",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 110.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MTI1MTI3",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 64.95,
+                                                                    "shopifyId": 39539997212750.0,
+                                                                    "sku": "W601713-MRL-LCH-9",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZTo1MTY5Ng==",
+                                                                "size": "9.5",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 110.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MTI1MTI1",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 64.95,
+                                                                    "shopifyId": 39539997245518.0,
+                                                                    "sku": "W601713-MRL-LCH-9.5",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZTo1MTY5OQ==",
+                                                                "size": "10",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 110.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MTI1MTI4",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 64.95,
+                                                                    "shopifyId": 39539997278286.0,
+                                                                    "sku": "W601713-MRL-LCH-10",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZTo1MTY5Nw==",
+                                                                "size": "10.5",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 110.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MTI1MTI2",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 64.95,
+                                                                    "shopifyId": 39539997311054.0,
+                                                                    "sku": "W601713-MRL-LCH-10.5",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZTo1MTcwMA==",
+                                                                "size": "11",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 110.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MTI1MTI5",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 64.95,
+                                                                    "shopifyId": 39539997343822.0,
+                                                                    "sku": "W601713-MRL-LCH-11",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            }
+                                                        ],
+                                                        "__typename": "ColorwayNode"
+                                                    },
+                                                    "__typename": "ColorwayNodeEdge"
+                                                }
+                                            ],
+                                            "__typename": "ColorwayNodeConnection"
+                                        },
+                                        "image": {
+                                            "id": "SW1hZ2VOb2RlOjMxMjk0",
+                                            "alt": "a black and yellow sneaker",
+                                            "height": 685,
+                                            "src": "https://cdn.ov.app/media/products/womens-moab-flight/Merrell_Lich.jpeg",
+                                            "width": 826,
+                                            "__typename": "ImageNode"
+                                        },
+                                        "properties": {
+                                            "collectionSubtitle": "Lightweight; Run",
+                                            "__typename": "ProductPropertiesNode"
+                                        },
+                                        "status": "PUBLISHED",
+                                        "title": "Women's Merrell Moab Flight",
+                                        "__typename": "ProductNode"
+                                    },
+                                    "faceout": {
+                                        "id": "Q29sb3J3YXlOb2RlOjEyODA1",
+                                        "image": {
+                                            "id": "SW1hZ2VOb2RlOjMxMzA2",
+                                            "alt": "a black and yellow sneaker",
+                                            "height": 1200,
+                                            "src": "https://cdn.ov.app/media/products/womens-moab-flight/lichen/W601713-MRL-LCH_frontside_Lut7cWo.jpg",
+                                            "width": 900,
+                                            "__typename": "ImageNode"
+                                        },
+                                        "color": "Lichen",
+                                        "status": "PUBLISHED",
+                                        "variantStacks": [
+                                            {
+                                                "id": "VmFyaWFudFN0YWNrTm9kZTo1MTY5MQ==",
+                                                "size": "6",
+                                                "variant": {
+                                                    "available": false,
+                                                    "compareAtPrice": 110.0,
+                                                    "finalSale": false,
+                                                    "id": "VmFyaWFudE5vZGU6MTI1MTIw",
+                                                    "inventoryQuantity": 0,
+                                                    "price": 64.95,
+                                                    "shopifyId": 39539997016142.0,
+                                                    "sku": "W601713-MRL-LCH-6",
+                                                    "__typename": "VariantNode"
+                                                },
+                                                "__typename": "VariantStackNode"
+                                            },
+                                            {
+                                                "id": "VmFyaWFudFN0YWNrTm9kZTo1MTY5Mg==",
+                                                "size": "6.5",
+                                                "variant": {
+                                                    "available": false,
+                                                    "compareAtPrice": 110.0,
+                                                    "finalSale": false,
+                                                    "id": "VmFyaWFudE5vZGU6MTI1MTIx",
+                                                    "inventoryQuantity": 0,
+                                                    "price": 64.95,
+                                                    "shopifyId": 39539997048910.0,
+                                                    "sku": "W601713-MRL-LCH-6.5",
+                                                    "__typename": "VariantNode"
+                                                },
+                                                "__typename": "VariantStackNode"
+                                            },
+                                            {
+                                                "id": "VmFyaWFudFN0YWNrTm9kZTo1MTY5Mw==",
+                                                "size": "7",
+                                                "variant": {
+                                                    "available": false,
+                                                    "compareAtPrice": 110.0,
+                                                    "finalSale": false,
+                                                    "id": "VmFyaWFudE5vZGU6MTI1MTIy",
+                                                    "inventoryQuantity": 0,
+                                                    "price": 64.95,
+                                                    "shopifyId": 39539997081678.0,
+                                                    "sku": "W601713-MRL-LCH-7",
+                                                    "__typename": "VariantNode"
+                                                },
+                                                "__typename": "VariantStackNode"
+                                            },
+                                            {
+                                                "id": "VmFyaWFudFN0YWNrTm9kZTo1MTcwMQ==",
+                                                "size": "7.5",
+                                                "variant": {
+                                                    "available": false,
+                                                    "compareAtPrice": 110.0,
+                                                    "finalSale": false,
+                                                    "id": "VmFyaWFudE5vZGU6MTI1MTMw",
+                                                    "inventoryQuantity": 0,
+                                                    "price": 64.95,
+                                                    "shopifyId": 39539997114446.0,
+                                                    "sku": "W601713-MRL-LCH-7.5",
+                                                    "__typename": "VariantNode"
+                                                },
+                                                "__typename": "VariantStackNode"
+                                            },
+                                            {
+                                                "id": "VmFyaWFudFN0YWNrTm9kZTo1MTY5NA==",
+                                                "size": "8",
+                                                "variant": {
+                                                    "available": false,
+                                                    "compareAtPrice": 110.0,
+                                                    "finalSale": false,
+                                                    "id": "VmFyaWFudE5vZGU6MTI1MTIz",
+                                                    "inventoryQuantity": 0,
+                                                    "price": 64.95,
+                                                    "shopifyId": 39539997147214.0,
+                                                    "sku": "W601713-MRL-LCH-8",
+                                                    "__typename": "VariantNode"
+                                                },
+                                                "__typename": "VariantStackNode"
+                                            },
+                                            {
+                                                "id": "VmFyaWFudFN0YWNrTm9kZTo1MTY5NQ==",
+                                                "size": "8.5",
+                                                "variant": {
+                                                    "available": false,
+                                                    "compareAtPrice": 110.0,
+                                                    "finalSale": false,
+                                                    "id": "VmFyaWFudE5vZGU6MTI1MTI0",
+                                                    "inventoryQuantity": 0,
+                                                    "price": 64.95,
+                                                    "shopifyId": 39539997179982.0,
+                                                    "sku": "W601713-MRL-LCH-8.5",
+                                                    "__typename": "VariantNode"
+                                                },
+                                                "__typename": "VariantStackNode"
+                                            },
+                                            {
+                                                "id": "VmFyaWFudFN0YWNrTm9kZTo1MTY5OA==",
+                                                "size": "9",
+                                                "variant": {
+                                                    "available": false,
+                                                    "compareAtPrice": 110.0,
+                                                    "finalSale": false,
+                                                    "id": "VmFyaWFudE5vZGU6MTI1MTI3",
+                                                    "inventoryQuantity": 0,
+                                                    "price": 64.95,
+                                                    "shopifyId": 39539997212750.0,
+                                                    "sku": "W601713-MRL-LCH-9",
+                                                    "__typename": "VariantNode"
+                                                },
+                                                "__typename": "VariantStackNode"
+                                            },
+                                            {
+                                                "id": "VmFyaWFudFN0YWNrTm9kZTo1MTY5Ng==",
+                                                "size": "9.5",
+                                                "variant": {
+                                                    "available": false,
+                                                    "compareAtPrice": 110.0,
+                                                    "finalSale": false,
+                                                    "id": "VmFyaWFudE5vZGU6MTI1MTI1",
+                                                    "inventoryQuantity": 0,
+                                                    "price": 64.95,
+                                                    "shopifyId": 39539997245518.0,
+                                                    "sku": "W601713-MRL-LCH-9.5",
+                                                    "__typename": "VariantNode"
+                                                },
+                                                "__typename": "VariantStackNode"
+                                            },
+                                            {
+                                                "id": "VmFyaWFudFN0YWNrTm9kZTo1MTY5OQ==",
+                                                "size": "10",
+                                                "variant": {
+                                                    "available": false,
+                                                    "compareAtPrice": 110.0,
+                                                    "finalSale": false,
+                                                    "id": "VmFyaWFudE5vZGU6MTI1MTI4",
+                                                    "inventoryQuantity": 0,
+                                                    "price": 64.95,
+                                                    "shopifyId": 39539997278286.0,
+                                                    "sku": "W601713-MRL-LCH-10",
+                                                    "__typename": "VariantNode"
+                                                },
+                                                "__typename": "VariantStackNode"
+                                            },
+                                            {
+                                                "id": "VmFyaWFudFN0YWNrTm9kZTo1MTY5Nw==",
+                                                "size": "10.5",
+                                                "variant": {
+                                                    "available": false,
+                                                    "compareAtPrice": 110.0,
+                                                    "finalSale": false,
+                                                    "id": "VmFyaWFudE5vZGU6MTI1MTI2",
+                                                    "inventoryQuantity": 0,
+                                                    "price": 64.95,
+                                                    "shopifyId": 39539997311054.0,
+                                                    "sku": "W601713-MRL-LCH-10.5",
+                                                    "__typename": "VariantNode"
+                                                },
+                                                "__typename": "VariantStackNode"
+                                            },
+                                            {
+                                                "id": "VmFyaWFudFN0YWNrTm9kZTo1MTcwMA==",
+                                                "size": "11",
+                                                "variant": {
+                                                    "available": false,
+                                                    "compareAtPrice": 110.0,
+                                                    "finalSale": false,
+                                                    "id": "VmFyaWFudE5vZGU6MTI1MTI5",
+                                                    "inventoryQuantity": 0,
+                                                    "price": 64.95,
+                                                    "shopifyId": 39539997343822.0,
+                                                    "sku": "W601713-MRL-LCH-11",
+                                                    "__typename": "VariantNode"
+                                                },
+                                                "__typename": "VariantStackNode"
+                                            }
+                                        ],
+                                        "__typename": "ColorwayNode"
+                                    },
+                                    "__typename": "ColorwayStyledWithNode"
+                                }
+                            ],
+                            "swatch": {
+                                "id": "U3dhdGNoTm9kZToxMjE=",
+                                "image": {
+                                    "id": "SW1hZ2VOb2RlOjE3Nw==",
+                                    "alt": "Textured Compression Graphite/Ash/Dove Swatch",
+                                    "height": 72,
+                                    "src": "https://cdn.ov.app/media/swatches/Graphite_Ash_Dove_TXC_Swatch.png",
+                                    "width": 73,
+                                    "__typename": "ImageNode"
+                                },
+                                "__typename": "SwatchNode"
+                            },
+                            "title": "Graphite/Ash/Dove",
+                            "variantStacks": [
+                                {
+                                    "id": "VmFyaWFudFN0YWNrTm9kZTozMTY3OA==",
+                                    "size": "XXS",
+                                    "variant": {
+                                        "available": false,
+                                        "compareAtPrice": 78.0,
+                                        "finalSale": false,
+                                        "id": "VmFyaWFudE5vZGU6Njc3MzU=",
+                                        "inventoryQuantity": 0,
+                                        "price": 24.95,
+                                        "shopifyId": 32615420723278.0,
+                                        "sku": "W100943-TXC-GAD-1",
+                                        "__typename": "VariantNode"
+                                    },
+                                    "__typename": "VariantStackNode"
+                                },
+                                {
+                                    "id": "VmFyaWFudFN0YWNrTm9kZTo1MjE0",
+                                    "size": "XS",
+                                    "variant": {
+                                        "available": true,
+                                        "compareAtPrice": 78.0,
+                                        "finalSale": false,
+                                        "id": "VmFyaWFudE5vZGU6MTIwNDE3",
+                                        "inventoryQuantity": 35,
+                                        "price": 24.95,
+                                        "shopifyId": 39510721757262.0,
+                                        "sku": "W101408-TXC-GAD-2",
+                                        "__typename": "VariantNode"
+                                    },
+                                    "__typename": "VariantStackNode"
+                                },
+                                {
+                                    "id": "VmFyaWFudFN0YWNrTm9kZTo1MjM0",
+                                    "size": "S",
+                                    "variant": {
+                                        "available": false,
+                                        "compareAtPrice": 78.0,
+                                        "finalSale": false,
+                                        "id": "VmFyaWFudE5vZGU6Njc3Mjk=",
+                                        "inventoryQuantity": 0,
+                                        "price": 24.95,
+                                        "shopifyId": 32615420952654.0,
+                                        "sku": "W100943-TXC-GAD-3",
+                                        "__typename": "VariantNode"
+                                    },
+                                    "__typename": "VariantStackNode"
+                                },
+                                {
+                                    "id": "VmFyaWFudFN0YWNrTm9kZTo1MjUx",
+                                    "size": "M",
+                                    "variant": {
+                                        "available": false,
+                                        "compareAtPrice": 78.0,
+                                        "finalSale": false,
+                                        "id": "VmFyaWFudE5vZGU6Njc3MzM=",
+                                        "inventoryQuantity": 0,
+                                        "price": 24.95,
+                                        "shopifyId": 32615421182030.0,
+                                        "sku": "W100943-TXC-GAD-4",
+                                        "__typename": "VariantNode"
+                                    },
+                                    "__typename": "VariantStackNode"
+                                },
+                                {
+                                    "id": "VmFyaWFudFN0YWNrTm9kZTo1MjU5",
+                                    "size": "L",
+                                    "variant": {
+                                        "available": false,
+                                        "compareAtPrice": 78.0,
+                                        "finalSale": false,
+                                        "id": "VmFyaWFudE5vZGU6Njc3Mjc=",
+                                        "inventoryQuantity": 0,
+                                        "price": 24.95,
+                                        "shopifyId": 32615421313102.0,
+                                        "sku": "W100943-TXC-GAD-5",
+                                        "__typename": "VariantNode"
+                                    },
+                                    "__typename": "VariantStackNode"
+                                },
+                                {
+                                    "id": "VmFyaWFudFN0YWNrTm9kZTo1MjY3",
+                                    "size": "XL",
+                                    "variant": {
+                                        "available": false,
+                                        "compareAtPrice": 78.0,
+                                        "finalSale": false,
+                                        "id": "VmFyaWFudE5vZGU6NTQwNw==",
+                                        "inventoryQuantity": 0,
+                                        "price": 24.95,
+                                        "shopifyId": 31138577678414.0,
+                                        "sku": "W100324-TXC-GAD-6",
+                                        "__typename": "VariantNode"
+                                    },
+                                    "__typename": "VariantStackNode"
+                                },
+                                {
+                                    "id": "VmFyaWFudFN0YWNrTm9kZTozMTY2OA==",
+                                    "size": "XXL",
+                                    "variant": {
+                                        "available": false,
+                                        "compareAtPrice": 78.0,
+                                        "finalSale": false,
+                                        "id": "VmFyaWFudE5vZGU6Njc3MjM=",
+                                        "inventoryQuantity": 0,
+                                        "price": 24.95,
+                                        "shopifyId": 32615421608014.0,
+                                        "sku": "W100943-TXC-GAD-7",
+                                        "__typename": "VariantNode"
+                                    },
+                                    "__typename": "VariantStackNode"
+                                },
+                                {
+                                    "id": "VmFyaWFudFN0YWNrTm9kZTozMTY3NA==",
+                                    "size": "XXXL",
+                                    "variant": {
+                                        "available": false,
+                                        "compareAtPrice": 78.0,
+                                        "finalSale": false,
+                                        "id": "VmFyaWFudE5vZGU6Njc3MzI=",
+                                        "inventoryQuantity": 0,
+                                        "price": 24.95,
+                                        "shopifyId": 32615421804622.0,
+                                        "sku": "W100943-TXC-GAD-8",
+                                        "__typename": "VariantNode"
+                                    },
+                                    "__typename": "VariantStackNode"
+                                }
+                            ],
+                            "waitlistType": "NONE",
+                            "waitlistTypeDisplay": "None",
+                            "__typename": "ColorwayNode"
+                        },
+                        "__typename": "ColorwayNodeEdge"
+                    }
+                ],
+                "__typename": "ColorwayNodeConnection"
+            },
+            "image": {
+                "id": "SW1hZ2VOb2RlOjE0MTE0",
+                "alt": "a person wearing a black shirt",
+                "height": 1200,
+                "src": "https://cdn.ov.app/media/products/78-springs-leggings/1-hero-7-8-Springs_Charcoal_Navy_Graphite_W100324-TXC-CNG_061_V2_ODP1Jdf.jpg",
+                "width": 900,
+                "__typename": "ImageNode"
+            },
+            "fabric": {
+                "id": "RmFicmljTm9kZTo0",
+                "attributes": "- Breathable\n- Sweat-Wicking\n- Quick-Drying\n- High Support\n- Sculpting\n- Stretchy\n- UPF 50+ Protection",
+                "careInstructions": {
+                    "id": "Q2FyZUluc3RydWN0aW9uTm9kZTox",
+                    "description": "- Machine Wash Cold\n- Tumble Dry Low\n- Do Not Bleach\n- Do Not Iron\n- Do Not Dry Clean",
+                    "__typename": "CareInstructionNode"
+                },
+                "composition": "86% Polyester, 14% Spandex<br/><a href=\"https://www.bluesign.com/en\">bluesign\u00ae Approved Fabric</a>",
+                "description": "Uniquely supportive and engineered to shape, sculpt, and fit like a glove.",
+                "evergreen": false,
+                "icon": {
+                    "id": "SWNvbk5vZGU6Mjc=",
+                    "title": "Textured Compression",
+                    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" aria-hidden=\"true\" height=\"20\" role=\"presentation\" viewBox=\"0 0 76.03 76.03\"><title>Textured Compression</title><g fill=\"currentColor\"><path d=\"m15.9 1c-1.53.38-2.42 1.91-2.04 3.44 5.73 21.92 5.73 45.12 0 67.04-.38 1.53.51 3.06 2.04 3.44.26.13.51.13.76.13 1.27 0 2.42-.89 2.8-2.17 5.99-22.94 5.99-47.03 0-69.97-.51-1.4-2.04-2.42-3.57-1.91z\"></path><path d=\"m30.43.87c-1.53.13-2.68 1.53-2.55 3.06 1.91 22.3 1.91 45.75 0 68.06-.13 1.53 1.02 2.93 2.55 3.06h.26c1.4 0 2.68-1.15 2.8-2.55 2.04-22.56 2.04-46.39 0-68.95 0-1.66-1.4-2.8-3.06-2.68z\"></path><path d=\"m45.09.87c-1.53-.13-2.93 1.02-3.06 2.55-2.04 22.56-2.04 46.39 0 68.95.13 1.53 1.4 2.55 2.8 2.55h.26c1.53-.13 2.68-1.53 2.55-3.06-1.91-22.3-1.91-45.75 0-68.06.25-1.4-.89-2.8-2.55-2.93z\"></path><path d=\"m61.78 4.44c.38-1.53-.51-3.06-2.04-3.44s-3.06.51-3.44 2.04c-5.99 22.94-5.99 47.03 0 69.97.38 1.27 1.53 2.17 2.8 2.17.26 0 .51 0 .76-.13 1.53-.38 2.42-1.91 2.04-3.44-5.86-22.05-5.86-45.24-.13-67.16z\"></path><path d=\"m73.24 75.19c-.89 0-1.76-.42-2.29-1.21-.35-.51-8.61-12.83-8.61-35.93 0-20.58 8.14-35.12 8.49-35.73.76-1.34 2.46-1.81 3.8-1.04 1.34.76 1.8 2.46 1.05 3.8-.11.19-7.76 13.98-7.76 32.98 0 21.23 7.57 32.68 7.64 32.79.86 1.27.53 3-.74 3.87-.48.33-1.03.48-1.57.48z\"></path><path d=\"m2.78 75.19c-.54 0-1.09-.16-1.57-.49-1.27-.87-1.59-2.6-.72-3.87.07-.11 7.64-11.55 7.64-32.78 0-19.03-7.69-32.85-7.77-32.98-.75-1.34-.28-3.04 1.05-3.8 1.34-.76 3.03-.29 3.79 1.04.35.61 8.49 15.16 8.49 35.73 0 23.1-8.26 35.42-8.61 35.93-.54.79-1.41 1.21-2.3 1.21z\"></path></g></svg>",
+                    "__typename": "IconNode"
+                },
+                "parent": null,
+                "title": "Textured Compression",
+                "url": "http://outdoorvoices.com/pages/textured-compression-details",
+                "__typename": "FabricNode"
+            },
+            "pdp": {
+                "id": "UHJvZHVjdFBEUE5vZGU6NDk=",
+                "careInstructions": null,
+                "customDetailDrawer": null,
+                "instagrams": [],
+                "details": "26\" inseam",
+                "relatedCta": null,
+                "relatedUrl": null,
+                "subtitle": "Your go-to outdoor leggings. Engineered to sculpt and fit like a glove. Made in our mid-weight, durable Textured Compression fabric.",
+                "productKnowledgeSet": [
+                    {
+                        "id": "UHJvZHVjdFBLU2V0Tm9kZToyNjQ0",
+                        "title": "Details",
+                        "productKnowledges": [
+                            {
+                                "id": "UHJvZHVjdFBLTm9kZTo3OTMw",
+                                "title": "Description",
+                                "description": "Your go-to outdoor leggings. Made in our mid-weight, durable Textured Compression, engineered to sculpt and fit like a glove.",
+                                "type": "TEXT",
+                                "__typename": "ProductPKNode"
+                            },
+                            {
+                                "id": "UHJvZHVjdFBLTm9kZTo3OTMx",
+                                "title": "Made In",
+                                "description": null,
+                                "type": "FABRIC_DETAILS",
+                                "__typename": "ProductPKNode"
+                            },
+                            {
+                                "id": "UHJvZHVjdFBLTm9kZTo3OTMy",
+                                "title": "Ideal For",
+                                "description": "Medium to high-sweat Recreation \u2014 think running, spinning, training, and court sports.",
+                                "type": "TEXT",
+                                "__typename": "ProductPKNode"
+                            }
+                        ],
+                        "__typename": "ProductPKSetNode"
+                    },
+                    {
+                        "id": "UHJvZHVjdFBLU2V0Tm9kZToyNjQ1",
+                        "title": "Fabric and Care",
+                        "productKnowledges": [
+                            {
+                                "id": "UHJvZHVjdFBLTm9kZTo3OTMz",
+                                "title": null,
+                                "description": null,
+                                "type": "FABRIC_LINK",
+                                "__typename": "ProductPKNode"
+                            },
+                            {
+                                "id": "UHJvZHVjdFBLTm9kZTo3OTM0",
+                                "title": "Other Fabric Details",
+                                "description": null,
+                                "type": "TEXT",
+                                "__typename": "ProductPKNode"
+                            },
+                            {
+                                "id": "UHJvZHVjdFBLTm9kZTo3OTM1",
+                                "title": "Care Instructions",
+                                "description": null,
+                                "type": "CARE_INSTRUCTIONS",
+                                "__typename": "ProductPKNode"
+                            }
+                        ],
+                        "__typename": "ProductPKSetNode"
+                    },
+                    {
+                        "id": "UHJvZHVjdFBLU2V0Tm9kZToyNjQ2",
+                        "title": "Fit",
+                        "productKnowledges": [
+                            {
+                                "id": "UHJvZHVjdFBLTm9kZTo3OTM2",
+                                "title": "How It Fits",
+                                "description": "Mid-rise legging",
+                                "type": "HOW_IT_FITS",
+                                "__typename": "ProductPKNode"
+                            },
+                            {
+                                "id": "UHJvZHVjdFBLTm9kZTo3OTM3",
+                                "title": "Measurements",
+                                "description": "Inseam \u2014 26\" across all sizes",
+                                "type": "TEXT",
+                                "__typename": "ProductPKNode"
+                            },
+                            {
+                                "id": "UHJvZHVjdFBLTm9kZTo3OTM4",
+                                "title": null,
+                                "description": null,
+                                "type": "CHAT_AND_QUESTIONS",
+                                "__typename": "ProductPKNode"
+                            }
+                        ],
+                        "__typename": "ProductPKSetNode"
+                    }
+                ],
+                "__typename": "ProductPDPNode"
+            },
+            "properties": {
+                "id": "UHJvZHVjdFByb3BlcnRpZXNOb2RlOjQyNQ==",
+                "description": "Your go-to outdoor leggings. Engineered to sculpt and fit like a glove. Made in our mid-weight, durable Textured Compression fabric. Product was formerly called 7/8 Springs Leggings.",
+                "fitRatingAvg": 1.45958429561201,
+                "gender": "WOMEN",
+                "questionsCount": 2,
+                "ratingAvg": 4.45496535796767,
+                "recommendation": {
+                    "id": "UmVjb21tZW5kYXRpb25BSU5vZGU6MQ==",
+                    "placementId": "others-you-may-like-2020-05",
+                    "title": "You Might Also Like",
+                    "__typename": "RecommendationAINode"
+                },
+                "reviewable": true,
+                "reviewCount": 433,
+                "reviewWithPhotoCount": 11,
+                "sizeComponent": "BUTTONS",
+                "sizeGuide": "WOMEN_ES",
+                "sizingRecommendation": "UP",
+                "__typename": "ProductPropertiesNode"
+            },
+            "shopifyId": 4345261326414.0,
+            "split": false,
+            "soldOutStatus": "NONE",
+            "title": "Springs 7/8 Legging",
+            "__typename": "ProductNode"
+        }
+    }
+}

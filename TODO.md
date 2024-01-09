@@ -1,8 +1,69 @@
 # HIGH PRIORITY !!
 
-## Scraper : (highest priority)
+## Project classes design : Scraping + BE + FE  : (highest priority)
+
+
+
+
+-----> remind l7ob to go to tbib and buy dwa
+
+
+
+--> validate the product db schema w/ 
+- leggings
+- shoes
+- socks
+- random accessory
+- tops
+- bottoms
+- bras
+- tanks
+- dresses
+- beeneas
+- gloves
+-> create new mongodb cluster & close all clusters
+-> ask nouhaila for a name of teh 7anota use it as db name
+-> create product collection
+-> Transf to apply to the JSON object from the shoppify intercepted response :
+   - delete "attributeGroups"
+   - delete recursively "__typename" key & value and the komma behind it
+   - delete all "node" "edges" keys and keep their values as [{}] or {}
+   - reformate everything to get rid of {{}} or {[{{}},{{}}]} ( respectivement node & edges )
+   - change "id" -> "_id"
+-> now lets define the db schema for review
+-> now lets define the db schema for user
+-> now lets define the db schema for order
+
+
+
+
+
+
+- hez all relevant data of a prod 
+- only reference the recommended products ( styledWith ) by id
+- embed all other entities for now ( mvp )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - dev additional db entities : collection_links_to_scrape(ones that validate our rules) + prods_links_to_scrape
-- prod db entities : prod / colors / colorwayModel / swatch / breadcrumbs / badge / fabric / user / review / order 
+---- MILESTONE : successfuly recup all valide/relevant links
+- prod db entities : prod / image(DL project img->alt) / colors / colorwayModel / swatch / breadcrumbs / badge / fabric / user / review / order 
 ( populate all entities by scraping )
 - !! embed everything for the product entity beside : fabric, swatch & styledW/ (recommended prods) reference those !!!
 
