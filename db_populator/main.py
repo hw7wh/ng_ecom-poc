@@ -14,14 +14,9 @@ sys.stdout = codecs.getwriter("utf-8")(sys.stdout.detach())
 
 
 if __name__ == '__main__':
-    collections_urls = [
-        'https://www.outdoorvoices.com/collections/cloudknit',
-        'https://www.outdoorvoices.com/collections/rectrek',
-        'https://www.outdoorvoices.com/collections/mighty-cotton',
-        'https://www.outdoorvoices.com/collections/recfleece',
-        'https://www.outdoorvoices.com/collections/rec-poly'
-    ]
-    for url in collections_urls:
+    COLLECTIONS_URL = 'https://www.outdoorvoices.com/collections'#?page=nbr
+
+    for url in COLLECTIONS_URL:
         # later on we would loop on the collections urls
         scraper = Scraper(url)
         scraper.run()

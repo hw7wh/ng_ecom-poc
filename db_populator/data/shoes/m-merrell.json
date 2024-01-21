@@ -1,0 +1,478 @@
+{
+    "data": {
+        "productShopify": {
+            "id": "UHJvZHVjdE5vZGU6MTczMjI=",
+            "absoluteUrl": "https://outdoorvoices.com/products/mens-merrell-moab-3-waterproof",
+            "attributeGroups": {
+                "edges": [],
+                "__typename": "ProductAttributeGroupNodeConnection"
+            },
+            "breadcrumbs": [
+                {
+                    "title": "Men",
+                    "url": "/collections/shop-man",
+                    "__typename": "BreadcrumbNode"
+                },
+                {
+                    "title": "Shoes & Accessories",
+                    "url": "/collections/shoes",
+                    "__typename": "BreadcrumbNode"
+                }
+            ],
+            "colorways": {
+                "edges": [
+                    {
+                        "node": {
+                            "handle": "mens-merrell-moab-3-waterproof-",
+                            "id": "Q29sb3J3YXlOb2RlOjMzMjA0",
+                            "assets": {
+                                "edges": [
+                                    {
+                                        "node": {
+                                            "id": "Q29sb3J3YXlBc3NldE5vZGU6MzY5Mzk=",
+                                            "image": {
+                                                "id": "SW1hZ2VOb2RlOjU1NTQ0",
+                                                "alt": "MRLM-J036553-032221-S22",
+                                                "height": 1200,
+                                                "src": "https://cdn.ov.app/media/products/mens-merrell-moab-3-waterproof/olivegum/MRLM-J036553-032221-S22-045.jpeg",
+                                                "width": 900,
+                                                "__typename": "ImageNode",
+                                                "description": null,
+                                                "title": "MRLM-J036553-032221-S22"
+                                            },
+                                            "type": "VIEWS",
+                                            "video": null,
+                                            "__typename": "ColorwayAssetNode"
+                                        },
+                                        "__typename": "ColorwayAssetNodeEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "Q29sb3J3YXlBc3NldE5vZGU6MzY5NDA=",
+                                            "image": {
+                                                "id": "SW1hZ2VOb2RlOjU1NTQ3",
+                                                "alt": "MRLM-J036553-032221-S22",
+                                                "height": 1200,
+                                                "src": "https://cdn.ov.app/media/products/mens-merrell-moab-3-waterproof/olivegum/MRLM-J036553-032221-S22-000.jpeg",
+                                                "width": 900,
+                                                "__typename": "ImageNode",
+                                                "description": null,
+                                                "title": "MRLM-J036553-032221-S22"
+                                            },
+                                            "type": "VIEWS",
+                                            "video": null,
+                                            "__typename": "ColorwayAssetNode"
+                                        },
+                                        "__typename": "ColorwayAssetNodeEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "Q29sb3J3YXlBc3NldE5vZGU6MzY5NDE=",
+                                            "image": {
+                                                "id": "SW1hZ2VOb2RlOjU1NTQ4",
+                                                "alt": "MRLM-J036553-032221-S22",
+                                                "height": 1200,
+                                                "src": "https://cdn.ov.app/media/products/mens-merrell-moab-3-waterproof/olivegum/MRLM-J036553-032221-S22-180.jpeg",
+                                                "width": 900,
+                                                "__typename": "ImageNode",
+                                                "description": null,
+                                                "title": "MRLM-J036553-032221-S22"
+                                            },
+                                            "type": "VIEWS",
+                                            "video": null,
+                                            "__typename": "ColorwayAssetNode"
+                                        },
+                                        "__typename": "ColorwayAssetNodeEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "Q29sb3J3YXlBc3NldE5vZGU6MzY5NDI=",
+                                            "image": {
+                                                "id": "SW1hZ2VOb2RlOjU1NTQ5",
+                                                "alt": "a close-up of a toy",
+                                                "height": 1200,
+                                                "src": "https://cdn.ov.app/media/products/mens-merrell-moab-3-waterproof/olivegum/MRLM-J036553-032221-S22-270.jpeg",
+                                                "width": 900,
+                                                "__typename": "ImageNode",
+                                                "description": null,
+                                                "title": "a close-up of a toy"
+                                            },
+                                            "type": "VIEWS",
+                                            "video": null,
+                                            "__typename": "ColorwayAssetNode"
+                                        },
+                                        "__typename": "ColorwayAssetNodeEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "Q29sb3J3YXlBc3NldE5vZGU6MzY5NDM=",
+                                            "image": {
+                                                "id": "SW1hZ2VOb2RlOjU1NTUw",
+                                                "alt": "MRLM-J036553-032221-S22-OUT",
+                                                "height": 1200,
+                                                "src": "https://cdn.ov.app/media/products/mens-merrell-moab-3-waterproof/olivegum/MRLM-J036553-032221-S22-OUT.jpeg",
+                                                "width": 900,
+                                                "__typename": "ImageNode",
+                                                "description": null,
+                                                "title": "MRLM-J036553-032221-S22-OUT"
+                                            },
+                                            "type": "VIEWS",
+                                            "video": null,
+                                            "__typename": "ColorwayAssetNode"
+                                        },
+                                        "__typename": "ColorwayAssetNodeEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "Q29sb3J3YXlBc3NldE5vZGU6MzY5NDQ=",
+                                            "image": {
+                                                "id": "SW1hZ2VOb2RlOjU1NTUx",
+                                                "alt": "a close-up of a flashlight",
+                                                "height": 1200,
+                                                "src": "https://cdn.ov.app/media/products/mens-merrell-moab-3-waterproof/olivegum/MRLM-J036553-WHT-032221-S22-TOP.jpeg",
+                                                "width": 900,
+                                                "__typename": "ImageNode",
+                                                "description": null,
+                                                "title": "a close-up of a flashlight"
+                                            },
+                                            "type": "VIEWS",
+                                            "video": null,
+                                            "__typename": "ColorwayAssetNode"
+                                        },
+                                        "__typename": "ColorwayAssetNodeEdge"
+                                    }
+                                ],
+                                "__typename": "ColorwayAssetNodeConnection"
+                            },
+                            "badge": {
+                                "id": "QmFkZ2VOb2RlOjM1",
+                                "backgroundColor": "#000f9f",
+                                "badgeType": "CUSTOM",
+                                "color": "#ffffff",
+                                "text": "Sale",
+                                "__typename": "BadgeNode"
+                            },
+                            "color": "Olive/Gum",
+                            "colorwayModels": [],
+                            "sizesAvailable": [
+                                {
+                                    "available": false,
+                                    "size": "8",
+                                    "__typename": "SizeAvailabilityNode"
+                                },
+                                {
+                                    "available": false,
+                                    "size": "8.5",
+                                    "__typename": "SizeAvailabilityNode"
+                                },
+                                {
+                                    "available": true,
+                                    "size": "9",
+                                    "__typename": "SizeAvailabilityNode"
+                                },
+                                {
+                                    "available": false,
+                                    "size": "9.5",
+                                    "__typename": "SizeAvailabilityNode"
+                                },
+                                {
+                                    "available": false,
+                                    "size": "10",
+                                    "__typename": "SizeAvailabilityNode"
+                                },
+                                {
+                                    "available": false,
+                                    "size": "10.5",
+                                    "__typename": "SizeAvailabilityNode"
+                                },
+                                {
+                                    "available": false,
+                                    "size": "11",
+                                    "__typename": "SizeAvailabilityNode"
+                                },
+                                {
+                                    "available": false,
+                                    "size": "11.5",
+                                    "__typename": "SizeAvailabilityNode"
+                                },
+                                {
+                                    "available": false,
+                                    "size": "12",
+                                    "__typename": "SizeAvailabilityNode"
+                                },
+                                {
+                                    "available": false,
+                                    "size": "12.5",
+                                    "__typename": "SizeAvailabilityNode"
+                                }
+                            ],
+                            "status": "PUBLISHED",
+                            "styledWith": [],
+                            "swatch": {
+                                "id": "U3dhdGNoTm9kZToxNzc5",
+                                "image": {
+                                    "id": "SW1hZ2VOb2RlOjUyMzA0",
+                                    "alt": "Screen Shot 2023-02-07 at 4.31.02 PM",
+                                    "height": 38,
+                                    "src": "https://cdn.ov.app/media/swatches/Screen_Shot_2023-02-07_at_4.31.02_PM.png",
+                                    "width": 38,
+                                    "__typename": "ImageNode"
+                                },
+                                "__typename": "SwatchNode"
+                            },
+                            "title": "Olive/Gum",
+                            "variantStacks": [
+                                {
+                                    "id": "VmFyaWFudFN0YWNrTm9kZToxMjQwNTU=",
+                                    "size": "8",
+                                    "variant": {
+                                        "available": false,
+                                        "compareAtPrice": 135.0,
+                                        "finalSale": false,
+                                        "id": "VmFyaWFudE5vZGU6MjI0MTg0",
+                                        "inventoryQuantity": 0,
+                                        "price": 79.95,
+                                        "shopifyId": 40217772359758.0,
+                                        "sku": "M606784-MRL-OLG-8",
+                                        "__typename": "VariantNode"
+                                    },
+                                    "__typename": "VariantStackNode"
+                                },
+                                {
+                                    "id": "VmFyaWFudFN0YWNrTm9kZToxMjQwNTQ=",
+                                    "size": "8.5",
+                                    "variant": {
+                                        "available": false,
+                                        "compareAtPrice": 135.0,
+                                        "finalSale": false,
+                                        "id": "VmFyaWFudE5vZGU6MjI0MTgz",
+                                        "inventoryQuantity": 0,
+                                        "price": 79.95,
+                                        "shopifyId": 40217772425294.0,
+                                        "sku": "M606784-MRL-OLG-8.5",
+                                        "__typename": "VariantNode"
+                                    },
+                                    "__typename": "VariantStackNode"
+                                },
+                                {
+                                    "id": "VmFyaWFudFN0YWNrTm9kZToxMjQwNTI=",
+                                    "size": "9",
+                                    "variant": {
+                                        "available": true,
+                                        "compareAtPrice": 135.0,
+                                        "finalSale": false,
+                                        "id": "VmFyaWFudE5vZGU6MjI0MTgx",
+                                        "inventoryQuantity": 2,
+                                        "price": 79.95,
+                                        "shopifyId": 40217772458062.0,
+                                        "sku": "M606784-MRL-OLG-9",
+                                        "__typename": "VariantNode"
+                                    },
+                                    "__typename": "VariantStackNode"
+                                },
+                                {
+                                    "id": "VmFyaWFudFN0YWNrTm9kZToxMjQwNTY=",
+                                    "size": "9.5",
+                                    "variant": {
+                                        "available": false,
+                                        "compareAtPrice": 135.0,
+                                        "finalSale": false,
+                                        "id": "VmFyaWFudE5vZGU6MjI0MTg1",
+                                        "inventoryQuantity": 0,
+                                        "price": 79.95,
+                                        "shopifyId": 40217772490830.0,
+                                        "sku": "M606784-MRL-OLG-9.5",
+                                        "__typename": "VariantNode"
+                                    },
+                                    "__typename": "VariantStackNode"
+                                },
+                                {
+                                    "id": "VmFyaWFudFN0YWNrTm9kZToxMjQwNTc=",
+                                    "size": "10",
+                                    "variant": {
+                                        "available": false,
+                                        "compareAtPrice": 135.0,
+                                        "finalSale": false,
+                                        "id": "VmFyaWFudE5vZGU6MjI0MTg3",
+                                        "inventoryQuantity": 0,
+                                        "price": 79.95,
+                                        "shopifyId": 40217772523598.0,
+                                        "sku": "M606784-MRL-OLG-10",
+                                        "__typename": "VariantNode"
+                                    },
+                                    "__typename": "VariantStackNode"
+                                },
+                                {
+                                    "id": "VmFyaWFudFN0YWNrTm9kZToxMjQwNTM=",
+                                    "size": "10.5",
+                                    "variant": {
+                                        "available": false,
+                                        "compareAtPrice": 135.0,
+                                        "finalSale": false,
+                                        "id": "VmFyaWFudE5vZGU6MjI0MTgy",
+                                        "inventoryQuantity": 0,
+                                        "price": 79.95,
+                                        "shopifyId": 40217772556366.0,
+                                        "sku": "M606784-MRL-OLG-10.5",
+                                        "__typename": "VariantNode"
+                                    },
+                                    "__typename": "VariantStackNode"
+                                },
+                                {
+                                    "id": "VmFyaWFudFN0YWNrTm9kZToxMjQwNTk=",
+                                    "size": "11",
+                                    "variant": {
+                                        "available": false,
+                                        "compareAtPrice": 135.0,
+                                        "finalSale": false,
+                                        "id": "VmFyaWFudE5vZGU6MjI0MTkz",
+                                        "inventoryQuantity": 0,
+                                        "price": 79.95,
+                                        "shopifyId": 40217772589134.0,
+                                        "sku": "M606784-MRL-OLG-11",
+                                        "__typename": "VariantNode"
+                                    },
+                                    "__typename": "VariantStackNode"
+                                },
+                                {
+                                    "id": "VmFyaWFudFN0YWNrTm9kZToxMjQwNTg=",
+                                    "size": "11.5",
+                                    "variant": {
+                                        "available": false,
+                                        "compareAtPrice": 135.0,
+                                        "finalSale": false,
+                                        "id": "VmFyaWFudE5vZGU6MjI0MTkx",
+                                        "inventoryQuantity": 0,
+                                        "price": 79.95,
+                                        "shopifyId": 40217772654670.0,
+                                        "sku": "M606784-MRL-OLG-11.5",
+                                        "__typename": "VariantNode"
+                                    },
+                                    "__typename": "VariantStackNode"
+                                },
+                                {
+                                    "id": "VmFyaWFudFN0YWNrTm9kZToxMjQwNjA=",
+                                    "size": "12",
+                                    "variant": {
+                                        "available": false,
+                                        "compareAtPrice": 135.0,
+                                        "finalSale": false,
+                                        "id": "VmFyaWFudE5vZGU6MjI0MTk0",
+                                        "inventoryQuantity": 0,
+                                        "price": 79.95,
+                                        "shopifyId": 40217772687438.0,
+                                        "sku": "M606784-MRL-OLG-12",
+                                        "__typename": "VariantNode"
+                                    },
+                                    "__typename": "VariantStackNode"
+                                },
+                                {
+                                    "id": "VmFyaWFudFN0YWNrTm9kZToxMjQwNTA=",
+                                    "size": "12.5",
+                                    "variant": {
+                                        "available": false,
+                                        "compareAtPrice": 135.0,
+                                        "finalSale": false,
+                                        "id": "VmFyaWFudE5vZGU6MjI0MTc5",
+                                        "inventoryQuantity": 0,
+                                        "price": 79.95,
+                                        "shopifyId": 40217772720206.0,
+                                        "sku": "M606784-MRL-OLG-12.5",
+                                        "__typename": "VariantNode"
+                                    },
+                                    "__typename": "VariantStackNode"
+                                }
+                            ],
+                            "waitlistType": "NONE",
+                            "waitlistTypeDisplay": "None",
+                            "__typename": "ColorwayNode"
+                        },
+                        "__typename": "ColorwayNodeEdge"
+                    }
+                ],
+                "__typename": "ColorwayNodeConnection"
+            },
+            "image": {
+                "id": "SW1hZ2VOb2RlOjU1NTg5",
+                "alt": "MRLM-J036553-032221-S22",
+                "height": 1200,
+                "src": "https://cdn.ov.app/media/products/mens-merrell-moab-3-waterproof/MRLM-J036553-032221-S22-045.jpeg",
+                "width": 900,
+                "__typename": "ImageNode"
+            },
+            "fabric": {
+                "id": "RmFicmljTm9kZToxMDg=",
+                "attributes": null,
+                "careInstructions": null,
+                "composition": null,
+                "description": null,
+                "evergreen": false,
+                "icon": null,
+                "parent": null,
+                "title": "Merrell",
+                "url": "",
+                "__typename": "FabricNode"
+            },
+            "pdp": {
+                "id": "UHJvZHVjdFBEUE5vZGU6MzMyOQ==",
+                "careInstructions": null,
+                "customDetailDrawer": null,
+                "instagrams": [],
+                "details": "",
+                "relatedCta": null,
+                "relatedUrl": null,
+                "subtitle": "The Merrell\u00ae Moab is famous for its comfort, durability and versatility. The new Moab 3 features a more supportive insole, a more cushioned midsole, grippier Vibram\u00ae outsole, and partially recycled fabrics.\n- Excluded from promotions and discounts",
+                "productKnowledgeSet": [
+                    {
+                        "id": "UHJvZHVjdFBLU2V0Tm9kZTo1Njk1",
+                        "title": "Details",
+                        "productKnowledges": [
+                            {
+                                "id": "UHJvZHVjdFBLTm9kZToxNzEzNg==",
+                                "title": "Description",
+                                "description": "The Merrell\u00ae Moab is famous for its comfort, durability and versatility. The new Moab 3 features a more supportive insole, a more cushioned midsole, grippier Vibram\u00ae outsole, and partially recycled fabrics.\n- Excluded from promotions and discounts",
+                                "type": "TEXT",
+                                "__typename": "ProductPKNode"
+                            },
+                            {
+                                "id": "UHJvZHVjdFBLTm9kZToxNzEzOA==",
+                                "title": "Features",
+                                "description": "- Waterproof membrane seals out water and lets moisture escape\n- Pig suede leather and breathable mesh upper\n- 100% recycled laces and webbing\n- Bellows tongue keeps out debris\n- Protective and abrasion resistant rubber heel and toe cap\n- 100% recycled breathable mesh lining\n- Kinetic Fit\u2122 ADVANCED removable contoured footbed with reinforced heel cushioning for medium support\n- Molded nylon arch shank\n- Merrell Air Cushion in the heel absorbs shock and adds stability\n- Super Rebound Compound provides durable shock absorption to help reduce torque and allow for a smooth transition into the midfoot\n- Vibram\u00ae TC5+ outsole provides exceptional traction for outdoor multi-sport activities. Formulated exclusively for Merrell.",
+                                "type": "TEXT",
+                                "__typename": "ProductPKNode"
+                            }
+                        ],
+                        "__typename": "ProductPKSetNode"
+                    }
+                ],
+                "__typename": "ProductPDPNode"
+            },
+            "properties": {
+                "id": "UHJvZHVjdFByb3BlcnRpZXNOb2RlOjExOTk2",
+                "description": "The Merrell\u00ae Moab is famous for its comfort, durability and versatility. The new Moab 3 features a more supportive insole, a more cushioned midsole, grippier Vibram\u00ae outsole, and partially recycled fabrics.\n- Excluded from promotions and discounts",
+                "fitRatingAvg": 0.0,
+                "gender": "MEN",
+                "questionsCount": 0,
+                "ratingAvg": 0.0,
+                "recommendation": {
+                    "id": "UmVjb21tZW5kYXRpb25BSU5vZGU6MQ==",
+                    "placementId": "others-you-may-like-2020-05",
+                    "title": "You Might Also Like",
+                    "__typename": "RecommendationAINode"
+                },
+                "reviewable": true,
+                "reviewCount": 0,
+                "reviewWithPhotoCount": 0,
+                "sizeComponent": "BUTTONS",
+                "sizeGuide": "EU_SHOES",
+                "sizingRecommendation": "NONE",
+                "__typename": "ProductPropertiesNode"
+            },
+            "shopifyId": 6864348151886.0,
+            "split": false,
+            "soldOutStatus": "NONE",
+            "title": "Men's Merrell Moab 3 Waterproof",
+            "__typename": "ProductNode"
+        }
+    }
+}

@@ -1,0 +1,2504 @@
+{
+    "data": {
+        "productShopify": {
+            "id": "UHJvZHVjdE5vZGU6OTcyOA==",
+            "absoluteUrl": "https://outdoorvoices.com/products/w-snacks-7-8-legging",
+            "attributeGroups": {
+                "edges": [],
+                "__typename": "ProductAttributeGroupNodeConnection"
+            },
+            "breadcrumbs": [
+                {
+                    "title": "Women",
+                    "url": "/collections/shop-women",
+                    "__typename": "BreadcrumbNode"
+                },
+                {
+                    "title": "Leggings",
+                    "url": "/collections/leggings",
+                    "__typename": "BreadcrumbNode"
+                }
+            ],
+            "colorways": {
+                "edges": [
+                    {
+                        "node": {
+                            "handle": "w-snacks-7-8-legging-espresso",
+                            "id": "Q29sb3J3YXlOb2RlOjQ1ODU1",
+                            "assets": {
+                                "edges": [
+                                    {
+                                        "node": {
+                                            "id": "Q29sb3J3YXlBc3NldE5vZGU6NDA2MTk=",
+                                            "image": {
+                                                "id": "SW1hZ2VOb2RlOjYyMTgx",
+                                                "alt": "Snacks 7-8 Legging Espresso 114 EXP240907",
+                                                "height": 1200,
+                                                "src": "https://cdn.ov.app/media/products/snacks-78-legging/espresso/W101537-BIT-EPO_Snacks_7-8_Legging_Espresso_114_EXP240907_CCuN1wC.jpg",
+                                                "width": 900,
+                                                "__typename": "ImageNode",
+                                                "description": null,
+                                                "title": "Snacks 7-8 Legging Espresso 114 EXP240907"
+                                            },
+                                            "type": "VIEWS",
+                                            "video": null,
+                                            "__typename": "ColorwayAssetNode"
+                                        },
+                                        "__typename": "ColorwayAssetNodeEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "Q29sb3J3YXlBc3NldE5vZGU6NDA2MjA=",
+                                            "image": {
+                                                "id": "SW1hZ2VOb2RlOjYyMTkx",
+                                                "alt": "Snacks 7-8 Legging Espresso 259 EXP240907",
+                                                "height": 1200,
+                                                "src": "https://cdn.ov.app/media/products/snacks-78-legging/espresso/W101537-BIT-EPO_Snacks_7-8_Legging_Espresso_259_EXP240907.jpg",
+                                                "width": 900,
+                                                "__typename": "ImageNode",
+                                                "description": null,
+                                                "title": "Snacks 7-8 Legging Espresso 259 EXP240907"
+                                            },
+                                            "type": "VIEWS",
+                                            "video": null,
+                                            "__typename": "ColorwayAssetNode"
+                                        },
+                                        "__typename": "ColorwayAssetNodeEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "Q29sb3J3YXlBc3NldE5vZGU6NDA2MjI=",
+                                            "image": {
+                                                "id": "SW1hZ2VOb2RlOjYyMTg0",
+                                                "alt": "Snacks 7-8 Legging Espresso 148 EXP240907",
+                                                "height": 1200,
+                                                "src": "https://cdn.ov.app/media/products/snacks-78-legging/espresso/W101537-BIT-EPO_Snacks_7-8_Legging_Espresso_148_EXP240907_mToZIys.jpg",
+                                                "width": 900,
+                                                "__typename": "ImageNode",
+                                                "description": null,
+                                                "title": "Snacks 7-8 Legging Espresso 148 EXP240907"
+                                            },
+                                            "type": "VIEWS",
+                                            "video": null,
+                                            "__typename": "ColorwayAssetNode"
+                                        },
+                                        "__typename": "ColorwayAssetNodeEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "Q29sb3J3YXlBc3NldE5vZGU6NDA2MjM=",
+                                            "image": {
+                                                "id": "SW1hZ2VOb2RlOjYyMTg1",
+                                                "alt": "Snacks 7-8 Legging Espresso 172 EXP240907",
+                                                "height": 1200,
+                                                "src": "https://cdn.ov.app/media/products/snacks-78-legging/espresso/W101537-BIT-EPO_Snacks_7-8_Legging_Espresso_172_EXP240907.jpg",
+                                                "width": 900,
+                                                "__typename": "ImageNode",
+                                                "description": null,
+                                                "title": "Snacks 7-8 Legging Espresso 172 EXP240907"
+                                            },
+                                            "type": "VIEWS",
+                                            "video": null,
+                                            "__typename": "ColorwayAssetNode"
+                                        },
+                                        "__typename": "ColorwayAssetNodeEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "Q29sb3J3YXlBc3NldE5vZGU6NDA2MjQ=",
+                                            "image": {
+                                                "id": "SW1hZ2VOb2RlOjYyMTg2",
+                                                "alt": "Snacks 7-8 Legging Espresso 190 EXP240907",
+                                                "height": 1200,
+                                                "src": "https://cdn.ov.app/media/products/snacks-78-legging/espresso/W101537-BIT-EPO_Snacks_7-8_Legging_Espresso_190_EXP240907.jpg",
+                                                "width": 900,
+                                                "__typename": "ImageNode",
+                                                "description": null,
+                                                "title": "Snacks 7-8 Legging Espresso 190 EXP240907"
+                                            },
+                                            "type": "VIEWS",
+                                            "video": null,
+                                            "__typename": "ColorwayAssetNode"
+                                        },
+                                        "__typename": "ColorwayAssetNodeEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "Q29sb3J3YXlBc3NldE5vZGU6NDA2MjE=",
+                                            "image": {
+                                                "id": "SW1hZ2VOb2RlOjYyMTc5",
+                                                "alt": "Snacks 7-8 Legging Espresso 088 EXP240907",
+                                                "height": 1200,
+                                                "src": "https://cdn.ov.app/media/products/snacks-78-legging/espresso/W101537-BIT-EPO_Snacks_7-8_Legging_Espresso_088_EXP240907.jpg",
+                                                "width": 900,
+                                                "__typename": "ImageNode",
+                                                "description": null,
+                                                "title": "Snacks 7-8 Legging Espresso 088 EXP240907"
+                                            },
+                                            "type": "VIEWS",
+                                            "video": null,
+                                            "__typename": "ColorwayAssetNode"
+                                        },
+                                        "__typename": "ColorwayAssetNodeEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "Q29sb3J3YXlBc3NldE5vZGU6NDA2Mjc=",
+                                            "image": {
+                                                "id": "SW1hZ2VOb2RlOjYyMTgz",
+                                                "alt": "Pocket Storage",
+                                                "height": 1200,
+                                                "src": "https://cdn.ov.app/media/products/snacks-78-legging/espresso/W101537-BIT-EPO_Snacks_7-8_Legging_Espresso_148_EXP240907.jpg",
+                                                "width": 900,
+                                                "__typename": "ImageNode",
+                                                "description": "Two side leg pockets, bungee hip pocket, and a mesh zip back pocket",
+                                                "title": "Pocket Storage"
+                                            },
+                                            "type": "TECHNICAL_DETAILS",
+                                            "video": null,
+                                            "__typename": "ColorwayAssetNode"
+                                        },
+                                        "__typename": "ColorwayAssetNodeEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "Q29sb3J3YXlBc3NldE5vZGU6NDA2Mjk=",
+                                            "image": {
+                                                "id": "SW1hZ2VOb2RlOjYyMTkw",
+                                                "alt": "Removable Mini Backpack",
+                                                "height": 1200,
+                                                "src": "https://cdn.ov.app/media/products/snacks-78-legging/espresso/W101537-BIT-EPO_Snacks_7-8_Legging_Espresso_230_EXP240907.jpg",
+                                                "width": 900,
+                                                "__typename": "ImageNode",
+                                                "description": "For stashing snacks and treats (plus a hole for dispensing doggy bags)",
+                                                "title": "Removable Mini Backpack"
+                                            },
+                                            "type": "TECHNICAL_DETAILS",
+                                            "video": null,
+                                            "__typename": "ColorwayAssetNode"
+                                        },
+                                        "__typename": "ColorwayAssetNodeEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "Q29sb3J3YXlBc3NldE5vZGU6NDA2MzA=",
+                                            "image": {
+                                                "id": "SW1hZ2VOb2RlOjYyMTky",
+                                                "alt": "Waistband Storage",
+                                                "height": 1200,
+                                                "src": "https://cdn.ov.app/media/products/snacks-78-legging/espresso/W101537-BIT-EPO_Snacks_7-8_Legging_Espresso_225_EXP240907_IjxFk9q.jpg",
+                                                "width": 1600,
+                                                "__typename": "ImageNode",
+                                                "description": "A mesh zip back pocket with loop-through storage for shedding layers",
+                                                "title": "Waistband Storage"
+                                            },
+                                            "type": "TECHNICAL_DETAILS",
+                                            "video": null,
+                                            "__typename": "ColorwayAssetNode"
+                                        },
+                                        "__typename": "ColorwayAssetNodeEdge"
+                                    }
+                                ],
+                                "__typename": "ColorwayAssetNodeConnection"
+                            },
+                            "badge": {
+                                "id": "QmFkZ2VOb2RlOjM1",
+                                "backgroundColor": "#000f9f",
+                                "badgeType": "CUSTOM",
+                                "color": "#ffffff",
+                                "text": "Sale",
+                                "__typename": "BadgeNode"
+                            },
+                            "color": "Espresso",
+                            "colorwayModels": [
+                                {
+                                    "id": "Q29sb3J3YXlNb2RlbE5vZGU6MzMxMA==",
+                                    "model": {
+                                        "name": "Drew",
+                                        "height": "5'8\"",
+                                        "__typename": "ModelNode"
+                                    },
+                                    "size": "S",
+                                    "__typename": "ColorwayModelNode"
+                                }
+                            ],
+                            "sizesAvailable": [
+                                {
+                                    "available": true,
+                                    "size": "XXS",
+                                    "__typename": "SizeAvailabilityNode"
+                                },
+                                {
+                                    "available": true,
+                                    "size": "XS",
+                                    "__typename": "SizeAvailabilityNode"
+                                },
+                                {
+                                    "available": true,
+                                    "size": "S",
+                                    "__typename": "SizeAvailabilityNode"
+                                },
+                                {
+                                    "available": false,
+                                    "size": "M",
+                                    "__typename": "SizeAvailabilityNode"
+                                },
+                                {
+                                    "available": false,
+                                    "size": "L",
+                                    "__typename": "SizeAvailabilityNode"
+                                },
+                                {
+                                    "available": true,
+                                    "size": "XL",
+                                    "__typename": "SizeAvailabilityNode"
+                                },
+                                {
+                                    "available": true,
+                                    "size": "XXL",
+                                    "__typename": "SizeAvailabilityNode"
+                                },
+                                {
+                                    "available": true,
+                                    "size": "XXXL",
+                                    "__typename": "SizeAvailabilityNode"
+                                }
+                            ],
+                            "status": "PUBLISHED",
+                            "styledWith": [
+                                {
+                                    "colorway": {
+                                        "id": "Q29sb3J3YXlOb2RlOjQ1ODU1",
+                                        "color": "Espresso",
+                                        "__typename": "ColorwayNode"
+                                    },
+                                    "product": {
+                                        "id": "UHJvZHVjdE5vZGU6NzMwMg==",
+                                        "absoluteUrl": "https://outdoorvoices.com/products/w-all-time-bra",
+                                        "colorways": {
+                                            "edges": [
+                                                {
+                                                    "node": {
+                                                        "id": "Q29sb3J3YXlOb2RlOjY3MzE=",
+                                                        "image": {
+                                                            "id": "SW1hZ2VOb2RlOjQ5Njc1",
+                                                            "alt": "a person wearing a black bikini",
+                                                            "height": 1200,
+                                                            "src": "https://cdn.ov.app/media/products/all-time-bra/black/W201438-BIT-BLK_All-Time_Bra_RESHOOT_OLD_IMAGERY_Black_054_BYQyAxZ.jpg",
+                                                            "width": 900,
+                                                            "__typename": "ImageNode"
+                                                        },
+                                                        "color": "Black",
+                                                        "status": "PUBLISHED",
+                                                        "variantStacks": [
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxMzQ3Nzc=",
+                                                                "size": "XXS",
+                                                                "variant": {
+                                                                    "available": true,
+                                                                    "compareAtPrice": 58.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MjM3OTg0",
+                                                                    "inventoryQuantity": 15,
+                                                                    "price": 34.95,
+                                                                    "shopifyId": 40231332937806.0,
+                                                                    "sku": "W201438-BIT-BLK-1",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZTozMDIzNw==",
+                                                                "size": "XS",
+                                                                "variant": {
+                                                                    "available": true,
+                                                                    "compareAtPrice": 58.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6ODExNTg=",
+                                                                    "inventoryQuantity": 125,
+                                                                    "price": 34.95,
+                                                                    "shopifyId": 32802266775630.0,
+                                                                    "sku": "W201438-BIT-BLK-2",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZTozMDIzNg==",
+                                                                "size": "S",
+                                                                "variant": {
+                                                                    "available": true,
+                                                                    "compareAtPrice": 58.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6ODExNTk=",
+                                                                    "inventoryQuantity": 1,
+                                                                    "price": 34.95,
+                                                                    "shopifyId": 32802266808398.0,
+                                                                    "sku": "W201438-BIT-BLK-3",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZTozMDIzNQ==",
+                                                                "size": "M",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 58.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6ODExNjI=",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 34.95,
+                                                                    "shopifyId": 32802266873934.0,
+                                                                    "sku": "W201438-BIT-BLK-4",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZTozMDIzOQ==",
+                                                                "size": "L",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 58.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6ODExNjA=",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 34.95,
+                                                                    "shopifyId": 32802266906702.0,
+                                                                    "sku": "W201438-BIT-BLK-5",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZTozMDIzOA==",
+                                                                "size": "XL",
+                                                                "variant": {
+                                                                    "available": true,
+                                                                    "compareAtPrice": 58.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6ODExNjE=",
+                                                                    "inventoryQuantity": 33,
+                                                                    "price": 34.95,
+                                                                    "shopifyId": 32802266939470.0,
+                                                                    "sku": "W201438-BIT-BLK-6",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxMzQ3Nzg=",
+                                                                "size": "XXL",
+                                                                "variant": {
+                                                                    "available": true,
+                                                                    "compareAtPrice": 58.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MjM3OTg1",
+                                                                    "inventoryQuantity": 14,
+                                                                    "price": 34.95,
+                                                                    "shopifyId": 40231333003342.0,
+                                                                    "sku": "W201438-BIT-BLK-7",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxMzQ3NzY=",
+                                                                "size": "XXXL",
+                                                                "variant": {
+                                                                    "available": true,
+                                                                    "compareAtPrice": 58.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MjM3OTgz",
+                                                                    "inventoryQuantity": 15,
+                                                                    "price": 34.95,
+                                                                    "shopifyId": 40231333036110.0,
+                                                                    "sku": "W201438-BIT-BLK-8",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            }
+                                                        ],
+                                                        "__typename": "ColorwayNode"
+                                                    },
+                                                    "__typename": "ColorwayNodeEdge"
+                                                },
+                                                {
+                                                    "node": {
+                                                        "id": "Q29sb3J3YXlOb2RlOjY3MzI=",
+                                                        "image": {
+                                                            "id": "SW1hZ2VOb2RlOjMyMzc5",
+                                                            "alt": "a person in a green tank top",
+                                                            "height": 1200,
+                                                            "src": "https://cdn.ov.app/media/products/all-time-bra/evergreen/W201438-BIT-EGR_All_Time_Bra_Evergreen_063_JbRZ8XY.jpg",
+                                                            "width": 900,
+                                                            "__typename": "ImageNode"
+                                                        },
+                                                        "color": "Evergreen",
+                                                        "status": "PUBLISHED",
+                                                        "variantStacks": [
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZTozMDI0Mw==",
+                                                                "size": "XS",
+                                                                "variant": {
+                                                                    "available": true,
+                                                                    "compareAtPrice": 58.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MTM4Mzgw",
+                                                                    "inventoryQuantity": 12,
+                                                                    "price": 34.95,
+                                                                    "shopifyId": 39724651085902.0,
+                                                                    "sku": "W201438-BIT-EGR-2",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZTozMDI0NA==",
+                                                                "size": "S",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 58.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MTM4MjY5",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 34.95,
+                                                                    "shopifyId": 39724651118670.0,
+                                                                    "sku": "W201438-BIT-EGR-3",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZTozMDI0MA==",
+                                                                "size": "M",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 58.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MTM4Mjcw",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 34.95,
+                                                                    "shopifyId": 39724651151438.0,
+                                                                    "sku": "W201438-BIT-EGR-4",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZTozMDI0MQ==",
+                                                                "size": "L",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 58.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MTM4MjY4",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 34.95,
+                                                                    "shopifyId": 39724651184206.0,
+                                                                    "sku": "W201438-BIT-EGR-5",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZTozMDI0Mg==",
+                                                                "size": "XL",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 58.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MTM4Mzgy",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 34.95,
+                                                                    "shopifyId": 39724651216974.0,
+                                                                    "sku": "W201438-BIT-EGR-6",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            }
+                                                        ],
+                                                        "__typename": "ColorwayNode"
+                                                    },
+                                                    "__typename": "ColorwayNodeEdge"
+                                                },
+                                                {
+                                                    "node": {
+                                                        "id": "Q29sb3J3YXlOb2RlOjc4OTk=",
+                                                        "image": {
+                                                            "id": "SW1hZ2VOb2RlOjQ5Njgz",
+                                                            "alt": "a person in a blue tank top",
+                                                            "height": 1200,
+                                                            "src": "https://cdn.ov.app/media/products/all-time-bra/dark-sky/W201438-BIT-DSY_All-Time_Bra_RESHOOT_OLD_IMAGERY_Dark_Sky_056_IL48wfv.jpg",
+                                                            "width": 900,
+                                                            "__typename": "ImageNode"
+                                                        },
+                                                        "color": "Dark Sky",
+                                                        "status": "PUBLISHED",
+                                                        "variantStacks": [
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxNDkzOTQ=",
+                                                                "size": "XXS",
+                                                                "variant": {
+                                                                    "available": true,
+                                                                    "compareAtPrice": 58.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MjU5Njk4",
+                                                                    "inventoryQuantity": 28,
+                                                                    "price": 34.95,
+                                                                    "shopifyId": 40252098641998.0,
+                                                                    "sku": "W201438-BIT-DSY-1",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZTozNDg3Mw==",
+                                                                "size": "XS",
+                                                                "variant": {
+                                                                    "available": true,
+                                                                    "compareAtPrice": 58.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6ODExNjM=",
+                                                                    "inventoryQuantity": 13,
+                                                                    "price": 34.95,
+                                                                    "shopifyId": 32802267005006.0,
+                                                                    "sku": "W201438-BIT-DSY-2",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZTozNDg3NA==",
+                                                                "size": "S",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 58.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6ODExNjQ=",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 34.95,
+                                                                    "shopifyId": 32802267037774.0,
+                                                                    "sku": "W201438-BIT-DSY-3",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZTozNDg3Ng==",
+                                                                "size": "M",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 58.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6ODExNjY=",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 34.95,
+                                                                    "shopifyId": 32802267103310.0,
+                                                                    "sku": "W201438-BIT-DSY-4",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZTozNDg3Nw==",
+                                                                "size": "L",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 58.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6ODExNjc=",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 34.95,
+                                                                    "shopifyId": 32802267136078.0,
+                                                                    "sku": "W201438-BIT-DSY-5",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZTozNDg3NQ==",
+                                                                "size": "XL",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 58.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6ODExNjU=",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 34.95,
+                                                                    "shopifyId": 32802267168846.0,
+                                                                    "sku": "W201438-BIT-DSY-6",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxNDkzOTU=",
+                                                                "size": "XXL",
+                                                                "variant": {
+                                                                    "available": true,
+                                                                    "compareAtPrice": 58.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MjU5Njk5",
+                                                                    "inventoryQuantity": 19,
+                                                                    "price": 34.95,
+                                                                    "shopifyId": 40252098674766.0,
+                                                                    "sku": "W201438-BIT-DSY-7",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxNDkzOTM=",
+                                                                "size": "XXXL",
+                                                                "variant": {
+                                                                    "available": true,
+                                                                    "compareAtPrice": 58.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MjU5Njk3",
+                                                                    "inventoryQuantity": 7,
+                                                                    "price": 34.95,
+                                                                    "shopifyId": 40252098707534.0,
+                                                                    "sku": "W201438-BIT-DSY-8",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            }
+                                                        ],
+                                                        "__typename": "ColorwayNode"
+                                                    },
+                                                    "__typename": "ColorwayNodeEdge"
+                                                },
+                                                {
+                                                    "node": {
+                                                        "id": "Q29sb3J3YXlOb2RlOjg3ODA=",
+                                                        "image": {
+                                                            "id": "SW1hZ2VOb2RlOjIyNDM2",
+                                                            "alt": "a person in a white tank top",
+                                                            "height": 1200,
+                                                            "src": "https://cdn.ov.app/media/products/all-time-bra/white/W201438-BIT-WHI_AllTimeBra_White_080.jpg",
+                                                            "width": 900,
+                                                            "__typename": "ImageNode"
+                                                        },
+                                                        "color": "White",
+                                                        "status": "PUBLISHED",
+                                                        "variantStacks": [
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxMDI2NjU=",
+                                                                "size": "XXS",
+                                                                "variant": {
+                                                                    "available": true,
+                                                                    "compareAtPrice": 58.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MTk3MDQ5",
+                                                                    "inventoryQuantity": 35,
+                                                                    "price": 34.95,
+                                                                    "shopifyId": 40166726631502.0,
+                                                                    "sku": "W201438-BIT-WHI-1",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZTozODQ4Ng==",
+                                                                "size": "XS",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 58.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6OTQ3MTI=",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 34.95,
+                                                                    "shopifyId": 39338229301326.0,
+                                                                    "sku": "W201438-BIT-WHI-2",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZTozODQ4NQ==",
+                                                                "size": "S",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 58.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6OTQ3MTE=",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 34.95,
+                                                                    "shopifyId": 39338229399630.0,
+                                                                    "sku": "W201438-BIT-WHI-3",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZTozODQ4Nw==",
+                                                                "size": "M",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 58.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6OTQ3MTM=",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 34.95,
+                                                                    "shopifyId": 39338229497934.0,
+                                                                    "sku": "W201438-BIT-WHI-4",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZTozODQ4OA==",
+                                                                "size": "L",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 58.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6OTQ3MTQ=",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 34.95,
+                                                                    "shopifyId": 39338229563470.0,
+                                                                    "sku": "W201438-BIT-WHI-5",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZTozODQ4NA==",
+                                                                "size": "XL",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 58.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6OTQ3MTA=",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 34.95,
+                                                                    "shopifyId": 39338229760078.0,
+                                                                    "sku": "W201438-BIT-WHI-6",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxMDI3ODA=",
+                                                                "size": "XXL",
+                                                                "variant": {
+                                                                    "available": true,
+                                                                    "compareAtPrice": 58.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MTk3MjA5",
+                                                                    "inventoryQuantity": 31,
+                                                                    "price": 34.95,
+                                                                    "shopifyId": 40166738985038.0,
+                                                                    "sku": "W201438-BIT-WHI-7",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxMDI2NjQ=",
+                                                                "size": "XXXL",
+                                                                "variant": {
+                                                                    "available": true,
+                                                                    "compareAtPrice": 58.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MTk3MDQ4",
+                                                                    "inventoryQuantity": 21,
+                                                                    "price": 34.95,
+                                                                    "shopifyId": 40166739017806.0,
+                                                                    "sku": "W201438-BIT-WHI-8",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            }
+                                                        ],
+                                                        "__typename": "ColorwayNode"
+                                                    },
+                                                    "__typename": "ColorwayNodeEdge"
+                                                },
+                                                {
+                                                    "node": {
+                                                        "id": "Q29sb3J3YXlOb2RlOjQwNzI3",
+                                                        "image": {
+                                                            "id": "SW1hZ2VOb2RlOjYxMTkx",
+                                                            "alt": "a person wearing a white tank top",
+                                                            "height": 1200,
+                                                            "src": "https://cdn.ov.app/media/products/all-time-bra/dusty-blue/W201438-BIT-DUB_All-Time_Bra_Dusty_Blue_033_EXP240615.jpeg",
+                                                            "width": 900,
+                                                            "__typename": "ImageNode"
+                                                        },
+                                                        "color": "Dusty Blue",
+                                                        "status": "PUBLISHED",
+                                                        "variantStacks": [
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxNDg0MzE=",
+                                                                "size": "XXS",
+                                                                "variant": {
+                                                                    "available": true,
+                                                                    "compareAtPrice": 58.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MjU3OTQy",
+                                                                    "inventoryQuantity": 1,
+                                                                    "price": 29.95,
+                                                                    "shopifyId": 40249936838734.0,
+                                                                    "sku": "W201438-BIT-DUB-1",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxNDg0MzA=",
+                                                                "size": "XS",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 58.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MjU3OTQx",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 29.95,
+                                                                    "shopifyId": 40249936904270.0,
+                                                                    "sku": "W201438-BIT-DUB-2",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxNDg0OTY=",
+                                                                "size": "S",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 58.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MjU4MDM1",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 29.95,
+                                                                    "shopifyId": 40249937133646.0,
+                                                                    "sku": "W201438-BIT-DUB-3",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxNDg0OTg=",
+                                                                "size": "M",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 58.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MjU4MDM3",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 29.95,
+                                                                    "shopifyId": 40249937166414.0,
+                                                                    "sku": "W201438-BIT-DUB-4",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxNDg0MzQ=",
+                                                                "size": "L",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 58.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MjU3OTQ0",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 29.95,
+                                                                    "shopifyId": 40249937199182.0,
+                                                                    "sku": "W201438-BIT-DUB-5",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxNDg0Mjk=",
+                                                                "size": "XL",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 58.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MjU3OTQw",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 29.95,
+                                                                    "shopifyId": 40249937231950.0,
+                                                                    "sku": "W201438-BIT-DUB-6",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxNDg0OTc=",
+                                                                "size": "XXL",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 58.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MjU4MDM2",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 29.95,
+                                                                    "shopifyId": 40249937264718.0,
+                                                                    "sku": "W201438-BIT-DUB-7",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxNDg0MzI=",
+                                                                "size": "XXXL",
+                                                                "variant": {
+                                                                    "available": true,
+                                                                    "compareAtPrice": 58.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MjU3OTQz",
+                                                                    "inventoryQuantity": 10,
+                                                                    "price": 29.95,
+                                                                    "shopifyId": 40249937330254.0,
+                                                                    "sku": "W201438-BIT-DUB-8",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            }
+                                                        ],
+                                                        "__typename": "ColorwayNode"
+                                                    },
+                                                    "__typename": "ColorwayNodeEdge"
+                                                },
+                                                {
+                                                    "node": {
+                                                        "id": "Q29sb3J3YXlOb2RlOjQwNzMw",
+                                                        "image": {
+                                                            "id": "SW1hZ2VOb2RlOjU4OTcw",
+                                                            "alt": "a person wearing a purple tank top",
+                                                            "height": 1200,
+                                                            "src": "https://cdn.ov.app/media/products/all-time-bra/jellyfish/W201438-BIT-JYF_All-Time_Bra_Jellyfish_071_EXP240615_btZN6is.jpg",
+                                                            "width": 899,
+                                                            "__typename": "ImageNode"
+                                                        },
+                                                        "color": "Jellyfish",
+                                                        "status": "PUBLISHED",
+                                                        "variantStacks": [
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxNDg0NDE=",
+                                                                "size": "XXS",
+                                                                "variant": {
+                                                                    "available": true,
+                                                                    "compareAtPrice": 58.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MjU3OTU1",
+                                                                    "inventoryQuantity": 22,
+                                                                    "price": 19.95,
+                                                                    "shopifyId": 40249937363022.0,
+                                                                    "sku": "W201438-BIT-JYF-1",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxNDg0OTU=",
+                                                                "size": "XS",
+                                                                "variant": {
+                                                                    "available": true,
+                                                                    "compareAtPrice": 58.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MjU4MDM0",
+                                                                    "inventoryQuantity": 27,
+                                                                    "price": 19.95,
+                                                                    "shopifyId": 40249937395790.0,
+                                                                    "sku": "W201438-BIT-JYF-2",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxNDg0OTQ=",
+                                                                "size": "S",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 58.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MjU4MDMz",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 19.95,
+                                                                    "shopifyId": 40249937428558.0,
+                                                                    "sku": "W201438-BIT-JYF-3",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxNDg0OTM=",
+                                                                "size": "M",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 58.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MjU4MDMy",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 19.95,
+                                                                    "shopifyId": 40249937461326.0,
+                                                                    "sku": "W201438-BIT-JYF-4",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxNDg0MzY=",
+                                                                "size": "L",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 58.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MjU3OTUw",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 19.95,
+                                                                    "shopifyId": 40249937494094.0,
+                                                                    "sku": "W201438-BIT-JYF-5",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxNDg0NDA=",
+                                                                "size": "XL",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 58.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MjU3OTU0",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 19.95,
+                                                                    "shopifyId": 40249937526862.0,
+                                                                    "sku": "W201438-BIT-JYF-6",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxNDg0Mzg=",
+                                                                "size": "XXL",
+                                                                "variant": {
+                                                                    "available": true,
+                                                                    "compareAtPrice": 58.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MjU3OTUy",
+                                                                    "inventoryQuantity": 1,
+                                                                    "price": 19.95,
+                                                                    "shopifyId": 40249937559630.0,
+                                                                    "sku": "W201438-BIT-JYF-7",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxNDg0Mzk=",
+                                                                "size": "XXXL",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 58.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6MjU3OTUz",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 19.95,
+                                                                    "shopifyId": 40249937592398.0,
+                                                                    "sku": "W201438-BIT-JYF-8",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            }
+                                                        ],
+                                                        "__typename": "ColorwayNode"
+                                                    },
+                                                    "__typename": "ColorwayNodeEdge"
+                                                }
+                                            ],
+                                            "__typename": "ColorwayNodeConnection"
+                                        },
+                                        "image": {
+                                            "id": "SW1hZ2VOb2RlOjE3ODY4",
+                                            "alt": "AllTime Bra Black",
+                                            "height": 1200,
+                                            "src": "https://cdn.ov.app/media/products/all-time-bra/1-hero-W201282-ITR-BLK_AllTime_Bra_Black_0024.jpg",
+                                            "width": 900,
+                                            "__typename": "ImageNode"
+                                        },
+                                        "properties": {
+                                            "collectionSubtitle": "SuperForm\u2122; Light Support",
+                                            "__typename": "ProductPropertiesNode"
+                                        },
+                                        "status": "PUBLISHED",
+                                        "title": "All-Time Bra",
+                                        "__typename": "ProductNode"
+                                    },
+                                    "faceout": {
+                                        "id": "Q29sb3J3YXlOb2RlOjg3ODA=",
+                                        "image": {
+                                            "id": "SW1hZ2VOb2RlOjIyNDM2",
+                                            "alt": "a person in a white tank top",
+                                            "height": 1200,
+                                            "src": "https://cdn.ov.app/media/products/all-time-bra/white/W201438-BIT-WHI_AllTimeBra_White_080.jpg",
+                                            "width": 900,
+                                            "__typename": "ImageNode"
+                                        },
+                                        "color": "White",
+                                        "status": "PUBLISHED",
+                                        "variantStacks": [
+                                            {
+                                                "id": "VmFyaWFudFN0YWNrTm9kZToxMDI2NjU=",
+                                                "size": "XXS",
+                                                "variant": {
+                                                    "available": true,
+                                                    "compareAtPrice": 58.0,
+                                                    "finalSale": false,
+                                                    "id": "VmFyaWFudE5vZGU6MTk3MDQ5",
+                                                    "inventoryQuantity": 35,
+                                                    "price": 34.95,
+                                                    "shopifyId": 40166726631502.0,
+                                                    "sku": "W201438-BIT-WHI-1",
+                                                    "__typename": "VariantNode"
+                                                },
+                                                "__typename": "VariantStackNode"
+                                            },
+                                            {
+                                                "id": "VmFyaWFudFN0YWNrTm9kZTozODQ4Ng==",
+                                                "size": "XS",
+                                                "variant": {
+                                                    "available": false,
+                                                    "compareAtPrice": 58.0,
+                                                    "finalSale": false,
+                                                    "id": "VmFyaWFudE5vZGU6OTQ3MTI=",
+                                                    "inventoryQuantity": 0,
+                                                    "price": 34.95,
+                                                    "shopifyId": 39338229301326.0,
+                                                    "sku": "W201438-BIT-WHI-2",
+                                                    "__typename": "VariantNode"
+                                                },
+                                                "__typename": "VariantStackNode"
+                                            },
+                                            {
+                                                "id": "VmFyaWFudFN0YWNrTm9kZTozODQ4NQ==",
+                                                "size": "S",
+                                                "variant": {
+                                                    "available": false,
+                                                    "compareAtPrice": 58.0,
+                                                    "finalSale": false,
+                                                    "id": "VmFyaWFudE5vZGU6OTQ3MTE=",
+                                                    "inventoryQuantity": 0,
+                                                    "price": 34.95,
+                                                    "shopifyId": 39338229399630.0,
+                                                    "sku": "W201438-BIT-WHI-3",
+                                                    "__typename": "VariantNode"
+                                                },
+                                                "__typename": "VariantStackNode"
+                                            },
+                                            {
+                                                "id": "VmFyaWFudFN0YWNrTm9kZTozODQ4Nw==",
+                                                "size": "M",
+                                                "variant": {
+                                                    "available": false,
+                                                    "compareAtPrice": 58.0,
+                                                    "finalSale": false,
+                                                    "id": "VmFyaWFudE5vZGU6OTQ3MTM=",
+                                                    "inventoryQuantity": 0,
+                                                    "price": 34.95,
+                                                    "shopifyId": 39338229497934.0,
+                                                    "sku": "W201438-BIT-WHI-4",
+                                                    "__typename": "VariantNode"
+                                                },
+                                                "__typename": "VariantStackNode"
+                                            },
+                                            {
+                                                "id": "VmFyaWFudFN0YWNrTm9kZTozODQ4OA==",
+                                                "size": "L",
+                                                "variant": {
+                                                    "available": false,
+                                                    "compareAtPrice": 58.0,
+                                                    "finalSale": false,
+                                                    "id": "VmFyaWFudE5vZGU6OTQ3MTQ=",
+                                                    "inventoryQuantity": 0,
+                                                    "price": 34.95,
+                                                    "shopifyId": 39338229563470.0,
+                                                    "sku": "W201438-BIT-WHI-5",
+                                                    "__typename": "VariantNode"
+                                                },
+                                                "__typename": "VariantStackNode"
+                                            },
+                                            {
+                                                "id": "VmFyaWFudFN0YWNrTm9kZTozODQ4NA==",
+                                                "size": "XL",
+                                                "variant": {
+                                                    "available": false,
+                                                    "compareAtPrice": 58.0,
+                                                    "finalSale": false,
+                                                    "id": "VmFyaWFudE5vZGU6OTQ3MTA=",
+                                                    "inventoryQuantity": 0,
+                                                    "price": 34.95,
+                                                    "shopifyId": 39338229760078.0,
+                                                    "sku": "W201438-BIT-WHI-6",
+                                                    "__typename": "VariantNode"
+                                                },
+                                                "__typename": "VariantStackNode"
+                                            },
+                                            {
+                                                "id": "VmFyaWFudFN0YWNrTm9kZToxMDI3ODA=",
+                                                "size": "XXL",
+                                                "variant": {
+                                                    "available": true,
+                                                    "compareAtPrice": 58.0,
+                                                    "finalSale": false,
+                                                    "id": "VmFyaWFudE5vZGU6MTk3MjA5",
+                                                    "inventoryQuantity": 31,
+                                                    "price": 34.95,
+                                                    "shopifyId": 40166738985038.0,
+                                                    "sku": "W201438-BIT-WHI-7",
+                                                    "__typename": "VariantNode"
+                                                },
+                                                "__typename": "VariantStackNode"
+                                            },
+                                            {
+                                                "id": "VmFyaWFudFN0YWNrTm9kZToxMDI2NjQ=",
+                                                "size": "XXXL",
+                                                "variant": {
+                                                    "available": true,
+                                                    "compareAtPrice": 58.0,
+                                                    "finalSale": false,
+                                                    "id": "VmFyaWFudE5vZGU6MTk3MDQ4",
+                                                    "inventoryQuantity": 21,
+                                                    "price": 34.95,
+                                                    "shopifyId": 40166739017806.0,
+                                                    "sku": "W201438-BIT-WHI-8",
+                                                    "__typename": "VariantNode"
+                                                },
+                                                "__typename": "VariantStackNode"
+                                            }
+                                        ],
+                                        "__typename": "ColorwayNode"
+                                    },
+                                    "__typename": "ColorwayStyledWithNode"
+                                },
+                                {
+                                    "colorway": {
+                                        "id": "Q29sb3J3YXlOb2RlOjQ1ODU1",
+                                        "color": "Espresso",
+                                        "__typename": "ColorwayNode"
+                                    },
+                                    "product": {
+                                        "id": "UHJvZHVjdE5vZGU6MTI5NjE=",
+                                        "absoluteUrl": "https://outdoorvoices.com/products/w-recfleece-snap-jacket",
+                                        "colorways": {
+                                            "edges": [
+                                                {
+                                                    "node": {
+                                                        "id": "Q29sb3J3YXlOb2RlOjQ1Mjg1",
+                                                        "image": {
+                                                            "id": "SW1hZ2VOb2RlOjYxOTE1",
+                                                            "alt": "a person wearing a white coat",
+                                                            "height": 1200,
+                                                            "src": "https://cdn.ov.app/media/products/recfleece-snap-jacket/oyster/W501991-STF-OYS_RecFleece_Snap_Jacket_Oyster_066_EXP240907_1_qnbGygZ.jpg",
+                                                            "width": 900,
+                                                            "__typename": "ImageNode"
+                                                        },
+                                                        "color": "Oyster",
+                                                        "status": "PUBLISHED",
+                                                        "variantStacks": [
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxNTg0MTU=",
+                                                                "size": "XXS",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 98.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6Mjc0MjUz",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 54.95,
+                                                                    "shopifyId": 40276771962958.0,
+                                                                    "sku": "W501991-STF-OYS-1",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxNTg0MTA=",
+                                                                "size": "XS",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 98.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6Mjc0MjQ4",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 54.95,
+                                                                    "shopifyId": 40276772094030.0,
+                                                                    "sku": "W501991-STF-OYS-2",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxNTg0MTI=",
+                                                                "size": "S",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 98.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6Mjc0MjUw",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 54.95,
+                                                                    "shopifyId": 40276772159566.0,
+                                                                    "sku": "W501991-STF-OYS-3",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxNTg0MTk=",
+                                                                "size": "M",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 98.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6Mjc0MjU3",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 54.95,
+                                                                    "shopifyId": 40276772257870.0,
+                                                                    "sku": "W501991-STF-OYS-4",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxNTg1NDU=",
+                                                                "size": "L",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 98.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6Mjc0NDcw",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 54.95,
+                                                                    "shopifyId": 40277273444430.0,
+                                                                    "sku": "W501991-STF-OYS-5",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxNTg0MTg=",
+                                                                "size": "XL",
+                                                                "variant": {
+                                                                    "available": false,
+                                                                    "compareAtPrice": 98.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6Mjc0MjU2",
+                                                                    "inventoryQuantity": 0,
+                                                                    "price": 54.95,
+                                                                    "shopifyId": 40276772356174.0,
+                                                                    "sku": "W501991-STF-OYS-6",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxNTg3ODg=",
+                                                                "size": "XXL",
+                                                                "variant": {
+                                                                    "available": true,
+                                                                    "compareAtPrice": 98.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6Mjc0ODE5",
+                                                                    "inventoryQuantity": 11,
+                                                                    "price": 54.95,
+                                                                    "shopifyId": 40277730426958.0,
+                                                                    "sku": "W501991-STF-OYS-7",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            },
+                                                            {
+                                                                "id": "VmFyaWFudFN0YWNrTm9kZToxNTg1NDY=",
+                                                                "size": "XXXL",
+                                                                "variant": {
+                                                                    "available": true,
+                                                                    "compareAtPrice": 98.0,
+                                                                    "finalSale": false,
+                                                                    "id": "VmFyaWFudE5vZGU6Mjc0NDcx",
+                                                                    "inventoryQuantity": 23,
+                                                                    "price": 54.95,
+                                                                    "shopifyId": 40277273509966.0,
+                                                                    "sku": "W501991-STF-OYS-8",
+                                                                    "__typename": "VariantNode"
+                                                                },
+                                                                "__typename": "VariantStackNode"
+                                                            }
+                                                        ],
+                                                        "__typename": "ColorwayNode"
+                                                    },
+                                                    "__typename": "ColorwayNodeEdge"
+                                                }
+                                            ],
+                                            "__typename": "ColorwayNodeConnection"
+                                        },
+                                        "image": {
+                                            "id": "SW1hZ2VOb2RlOjQ1MDU2",
+                                            "alt": "a person wearing a button up shirt",
+                                            "height": 1200,
+                                            "src": "https://cdn.ov.app/media/products/recfleece-snap-jacket/W501991-STF-STM_RecFleece_Snap_Jacket_Storm_198.jpg",
+                                            "width": 900,
+                                            "__typename": "ImageNode"
+                                        },
+                                        "properties": {
+                                            "collectionSubtitle": "RecFleece; Oversized Fit",
+                                            "__typename": "ProductPropertiesNode"
+                                        },
+                                        "status": "PUBLISHED",
+                                        "title": "RecFleece Snap Jacket",
+                                        "__typename": "ProductNode"
+                                    },
+                                    "faceout": {
+                                        "id": "Q29sb3J3YXlOb2RlOjQ1Mjg1",
+                                        "image": {
+                                            "id": "SW1hZ2VOb2RlOjYxOTE1",
+                                            "alt": "a person wearing a white coat",
+                                            "height": 1200,
+                                            "src": "https://cdn.ov.app/media/products/recfleece-snap-jacket/oyster/W501991-STF-OYS_RecFleece_Snap_Jacket_Oyster_066_EXP240907_1_qnbGygZ.jpg",
+                                            "width": 900,
+                                            "__typename": "ImageNode"
+                                        },
+                                        "color": "Oyster",
+                                        "status": "PUBLISHED",
+                                        "variantStacks": [
+                                            {
+                                                "id": "VmFyaWFudFN0YWNrTm9kZToxNTg0MTU=",
+                                                "size": "XXS",
+                                                "variant": {
+                                                    "available": false,
+                                                    "compareAtPrice": 98.0,
+                                                    "finalSale": false,
+                                                    "id": "VmFyaWFudE5vZGU6Mjc0MjUz",
+                                                    "inventoryQuantity": 0,
+                                                    "price": 54.95,
+                                                    "shopifyId": 40276771962958.0,
+                                                    "sku": "W501991-STF-OYS-1",
+                                                    "__typename": "VariantNode"
+                                                },
+                                                "__typename": "VariantStackNode"
+                                            },
+                                            {
+                                                "id": "VmFyaWFudFN0YWNrTm9kZToxNTg0MTA=",
+                                                "size": "XS",
+                                                "variant": {
+                                                    "available": false,
+                                                    "compareAtPrice": 98.0,
+                                                    "finalSale": false,
+                                                    "id": "VmFyaWFudE5vZGU6Mjc0MjQ4",
+                                                    "inventoryQuantity": 0,
+                                                    "price": 54.95,
+                                                    "shopifyId": 40276772094030.0,
+                                                    "sku": "W501991-STF-OYS-2",
+                                                    "__typename": "VariantNode"
+                                                },
+                                                "__typename": "VariantStackNode"
+                                            },
+                                            {
+                                                "id": "VmFyaWFudFN0YWNrTm9kZToxNTg0MTI=",
+                                                "size": "S",
+                                                "variant": {
+                                                    "available": false,
+                                                    "compareAtPrice": 98.0,
+                                                    "finalSale": false,
+                                                    "id": "VmFyaWFudE5vZGU6Mjc0MjUw",
+                                                    "inventoryQuantity": 0,
+                                                    "price": 54.95,
+                                                    "shopifyId": 40276772159566.0,
+                                                    "sku": "W501991-STF-OYS-3",
+                                                    "__typename": "VariantNode"
+                                                },
+                                                "__typename": "VariantStackNode"
+                                            },
+                                            {
+                                                "id": "VmFyaWFudFN0YWNrTm9kZToxNTg0MTk=",
+                                                "size": "M",
+                                                "variant": {
+                                                    "available": false,
+                                                    "compareAtPrice": 98.0,
+                                                    "finalSale": false,
+                                                    "id": "VmFyaWFudE5vZGU6Mjc0MjU3",
+                                                    "inventoryQuantity": 0,
+                                                    "price": 54.95,
+                                                    "shopifyId": 40276772257870.0,
+                                                    "sku": "W501991-STF-OYS-4",
+                                                    "__typename": "VariantNode"
+                                                },
+                                                "__typename": "VariantStackNode"
+                                            },
+                                            {
+                                                "id": "VmFyaWFudFN0YWNrTm9kZToxNTg1NDU=",
+                                                "size": "L",
+                                                "variant": {
+                                                    "available": false,
+                                                    "compareAtPrice": 98.0,
+                                                    "finalSale": false,
+                                                    "id": "VmFyaWFudE5vZGU6Mjc0NDcw",
+                                                    "inventoryQuantity": 0,
+                                                    "price": 54.95,
+                                                    "shopifyId": 40277273444430.0,
+                                                    "sku": "W501991-STF-OYS-5",
+                                                    "__typename": "VariantNode"
+                                                },
+                                                "__typename": "VariantStackNode"
+                                            },
+                                            {
+                                                "id": "VmFyaWFudFN0YWNrTm9kZToxNTg0MTg=",
+                                                "size": "XL",
+                                                "variant": {
+                                                    "available": false,
+                                                    "compareAtPrice": 98.0,
+                                                    "finalSale": false,
+                                                    "id": "VmFyaWFudE5vZGU6Mjc0MjU2",
+                                                    "inventoryQuantity": 0,
+                                                    "price": 54.95,
+                                                    "shopifyId": 40276772356174.0,
+                                                    "sku": "W501991-STF-OYS-6",
+                                                    "__typename": "VariantNode"
+                                                },
+                                                "__typename": "VariantStackNode"
+                                            },
+                                            {
+                                                "id": "VmFyaWFudFN0YWNrTm9kZToxNTg3ODg=",
+                                                "size": "XXL",
+                                                "variant": {
+                                                    "available": true,
+                                                    "compareAtPrice": 98.0,
+                                                    "finalSale": false,
+                                                    "id": "VmFyaWFudE5vZGU6Mjc0ODE5",
+                                                    "inventoryQuantity": 11,
+                                                    "price": 54.95,
+                                                    "shopifyId": 40277730426958.0,
+                                                    "sku": "W501991-STF-OYS-7",
+                                                    "__typename": "VariantNode"
+                                                },
+                                                "__typename": "VariantStackNode"
+                                            },
+                                            {
+                                                "id": "VmFyaWFudFN0YWNrTm9kZToxNTg1NDY=",
+                                                "size": "XXXL",
+                                                "variant": {
+                                                    "available": true,
+                                                    "compareAtPrice": 98.0,
+                                                    "finalSale": false,
+                                                    "id": "VmFyaWFudE5vZGU6Mjc0NDcx",
+                                                    "inventoryQuantity": 23,
+                                                    "price": 54.95,
+                                                    "shopifyId": 40277273509966.0,
+                                                    "sku": "W501991-STF-OYS-8",
+                                                    "__typename": "VariantNode"
+                                                },
+                                                "__typename": "VariantStackNode"
+                                            }
+                                        ],
+                                        "__typename": "ColorwayNode"
+                                    },
+                                    "__typename": "ColorwayStyledWithNode"
+                                }
+                            ],
+                            "swatch": {
+                                "id": "U3dhdGNoTm9kZToyMDM1",
+                                "image": {
+                                    "id": "SW1hZ2VOb2RlOjYyMTkz",
+                                    "alt": "a close up of a fabric",
+                                    "height": 140,
+                                    "src": "https://cdn.ov.app/media/swatches/Screen_Shot_2023-09-12_at_2.30.42_PM.png",
+                                    "width": 140,
+                                    "__typename": "ImageNode"
+                                },
+                                "__typename": "SwatchNode"
+                            },
+                            "title": "Espresso",
+                            "variantStacks": [
+                                {
+                                    "id": "VmFyaWFudFN0YWNrTm9kZToxNjMwOTY=",
+                                    "size": "XXS",
+                                    "variant": {
+                                        "available": true,
+                                        "compareAtPrice": 118.0,
+                                        "finalSale": false,
+                                        "id": "VmFyaWFudE5vZGU6MjgyMjA0",
+                                        "inventoryQuantity": 39,
+                                        "price": 69.95,
+                                        "shopifyId": 40289602142286.0,
+                                        "sku": "W101537-BIT-EPO-1",
+                                        "__typename": "VariantNode"
+                                    },
+                                    "__typename": "VariantStackNode"
+                                },
+                                {
+                                    "id": "VmFyaWFudFN0YWNrTm9kZToxNTk1MTE=",
+                                    "size": "XS",
+                                    "variant": {
+                                        "available": true,
+                                        "compareAtPrice": 118.0,
+                                        "finalSale": false,
+                                        "id": "VmFyaWFudE5vZGU6Mjc2MTU0",
+                                        "inventoryQuantity": 20,
+                                        "price": 69.95,
+                                        "shopifyId": 40281422561358.0,
+                                        "sku": "W101537-BIT-EPO-2",
+                                        "__typename": "VariantNode"
+                                    },
+                                    "__typename": "VariantStackNode"
+                                },
+                                {
+                                    "id": "VmFyaWFudFN0YWNrTm9kZToxNTk1MTU=",
+                                    "size": "S",
+                                    "variant": {
+                                        "available": true,
+                                        "compareAtPrice": 118.0,
+                                        "finalSale": false,
+                                        "id": "VmFyaWFudE5vZGU6Mjc2MTU4",
+                                        "inventoryQuantity": 30,
+                                        "price": 69.95,
+                                        "shopifyId": 40281422594126.0,
+                                        "sku": "W101537-BIT-EPO-3",
+                                        "__typename": "VariantNode"
+                                    },
+                                    "__typename": "VariantStackNode"
+                                },
+                                {
+                                    "id": "VmFyaWFudFN0YWNrTm9kZToxNTk5MzU=",
+                                    "size": "M",
+                                    "variant": {
+                                        "available": false,
+                                        "compareAtPrice": 118.0,
+                                        "finalSale": false,
+                                        "id": "VmFyaWFudE5vZGU6Mjc2NDE5",
+                                        "inventoryQuantity": 0,
+                                        "price": 69.95,
+                                        "shopifyId": 40281993642062.0,
+                                        "sku": "W101537-BIT-EPO-4",
+                                        "__typename": "VariantNode"
+                                    },
+                                    "__typename": "VariantStackNode"
+                                },
+                                {
+                                    "id": "VmFyaWFudFN0YWNrTm9kZToxNTk1MTM=",
+                                    "size": "L",
+                                    "variant": {
+                                        "available": false,
+                                        "compareAtPrice": 118.0,
+                                        "finalSale": false,
+                                        "id": "VmFyaWFudE5vZGU6Mjc2MTU2",
+                                        "inventoryQuantity": 0,
+                                        "price": 69.95,
+                                        "shopifyId": 40281422626894.0,
+                                        "sku": "W101537-BIT-EPO-5",
+                                        "__typename": "VariantNode"
+                                    },
+                                    "__typename": "VariantStackNode"
+                                },
+                                {
+                                    "id": "VmFyaWFudFN0YWNrTm9kZToxNTk1MTA=",
+                                    "size": "XL",
+                                    "variant": {
+                                        "available": true,
+                                        "compareAtPrice": 118.0,
+                                        "finalSale": false,
+                                        "id": "VmFyaWFudE5vZGU6Mjc2MTUz",
+                                        "inventoryQuantity": 2,
+                                        "price": 69.95,
+                                        "shopifyId": 40281422659662.0,
+                                        "sku": "W101537-BIT-EPO-6",
+                                        "__typename": "VariantNode"
+                                    },
+                                    "__typename": "VariantStackNode"
+                                },
+                                {
+                                    "id": "VmFyaWFudFN0YWNrTm9kZToxNTk1MTI=",
+                                    "size": "XXL",
+                                    "variant": {
+                                        "available": true,
+                                        "compareAtPrice": 118.0,
+                                        "finalSale": false,
+                                        "id": "VmFyaWFudE5vZGU6Mjc2MTU1",
+                                        "inventoryQuantity": 29,
+                                        "price": 69.95,
+                                        "shopifyId": 40281422692430.0,
+                                        "sku": "W101537-BIT-EPO-7",
+                                        "__typename": "VariantNode"
+                                    },
+                                    "__typename": "VariantStackNode"
+                                },
+                                {
+                                    "id": "VmFyaWFudFN0YWNrTm9kZToxNTk1MTQ=",
+                                    "size": "XXXL",
+                                    "variant": {
+                                        "available": true,
+                                        "compareAtPrice": 118.0,
+                                        "finalSale": false,
+                                        "id": "VmFyaWFudE5vZGU6Mjc2MTU3",
+                                        "inventoryQuantity": 14,
+                                        "price": 69.95,
+                                        "shopifyId": 40281422725198.0,
+                                        "sku": "W101537-BIT-EPO-8",
+                                        "__typename": "VariantNode"
+                                    },
+                                    "__typename": "VariantStackNode"
+                                }
+                            ],
+                            "waitlistType": "NONE",
+                            "waitlistTypeDisplay": "None",
+                            "__typename": "ColorwayNode"
+                        },
+                        "__typename": "ColorwayNodeEdge"
+                    }
+                ],
+                "__typename": "ColorwayNodeConnection"
+            },
+            "image": {
+                "id": "SW1hZ2VOb2RlOjI3Njk4",
+                "alt": "Snacks 7-8 Legging Tea Tree",
+                "height": 1200,
+                "src": "https://cdn.ov.app/media/products/snacks-78-legging/W101537-BIT-TTR_Snacks_7-8_Legging_Tea_Tree_078.jpeg",
+                "width": 900,
+                "__typename": "ImageNode"
+            },
+            "fabric": {
+                "id": "RmFicmljTm9kZTo0OQ==",
+                "attributes": "- Breathable\n- Sweat-Wicking\n- Quick-Drying\n- Supportive\n- Stretchy\n- UPF 50+ Protection",
+                "careInstructions": {
+                    "id": "Q2FyZUluc3RydWN0aW9uTm9kZTox",
+                    "description": "- Machine Wash Cold\n- Tumble Dry Low\n- Do Not Bleach\n- Do Not Iron\n- Do Not Dry Clean",
+                    "__typename": "CareInstructionNode"
+                },
+                "composition": "63% Nylon, 37% Lycra",
+                "description": "The right stuff for dynamic motion. SuperForm\u2122 is our family of lightweight performance fabrics designed to hold you snug through every swift and sweaty movement.",
+                "evergreen": false,
+                "icon": {
+                    "id": "SWNvbk5vZGU6MzE=",
+                    "title": "Superform",
+                    "svg": "<svg aria-hidden=\"true\" role=\"presentation\" height=\"20\" enable-background=\"new 0 0 75.9 77\" viewBox=\"0 0 75.9 77\" xmlns=\"http://www.w3.org/2000/svg\"><title>Superform</title><g stroke=\"currentColor\" stroke-linecap=\"round\" stroke-miterlimit=\"10\" stroke-width=\"5\"><path d=\"m38 2.5v72\"/><path d=\"m14.8 10.9 46.3 55.2\"/><path d=\"m2.5 32.2 70.9 12.5\"/><path d=\"m6.8 56.5 62.3-36\"/><path d=\"m25.6 72.3 24.7-67.6\"/><path d=\"m50.3 72.3-24.7-67.6\"/><path d=\"m69.1 56.5-62.3-36\"/><path d=\"m73.4 32.2-70.9 12.6\"/><path d=\"m61.1 10.9-46.3 55.2\"/></g></svg>",
+                    "__typename": "IconNode"
+                },
+                "parent": null,
+                "title": "SuperForm\u2122",
+                "url": "https://www.outdoorvoices.com/pages/superform-details",
+                "__typename": "FabricNode"
+            },
+            "pdp": {
+                "id": "UHJvZHVjdFBEUE5vZGU6MTYwMA==",
+                "careInstructions": {
+                    "id": "Q2FyZUluc3RydWN0aW9uTm9kZToxMA==",
+                    "description": "- Machine Wash Cold\n- Wash Inside Out\n- Tumble Dry Low\n- Do Not Bleach\n- Do Not Iron\n- Do Not Dry Clean\n- Do Not Add Fabric Softener",
+                    "__typename": "CareInstructionNode"
+                },
+                "customDetailDrawer": null,
+                "instagrams": [
+                    {
+                        "id": "UHJvZHVjdFBEUEluc3RhZ3JhbU5vZGU6MTUwOQ==",
+                        "instagram": {
+                            "id": "SW5zdGFncmFtTm9kZToxNDM1",
+                            "image": {
+                                "id": "SW1hZ2VOb2RlOjY0MDg3",
+                                "alt": "a person holding a baby on a dirt path",
+                                "height": 800,
+                                "src": "https://cdn.ov.app/media/instagram/download_UepLAMF.png",
+                                "width": 800,
+                                "__typename": "ImageNode"
+                            },
+                            "instagramProducts": {
+                                "edges": [
+                                    {
+                                        "node": {
+                                            "id": "SW5zdGFncmFtUHJvZHVjdE5vZGU6MTk1MQ==",
+                                            "faceout": {
+                                                "variant": {
+                                                    "inventoryQuantity": 0,
+                                                    "shopifyId": 40287757369422.0,
+                                                    "__typename": "VariantNode"
+                                                },
+                                                "status": "PUBLISHED",
+                                                "__typename": "ColorwayNode"
+                                            },
+                                            "xPosition": 0.475,
+                                            "yPosition": 0.342578125,
+                                            "product": {
+                                                "absoluteUrl": "https://outdoorvoices.com/products/w-megafleece-cropped-pullover",
+                                                "status": "PUBLISHED",
+                                                "title": "MegaFleece Cropped Pullover",
+                                                "__typename": "ProductNode"
+                                            },
+                                            "__typename": "InstagramProductNode"
+                                        },
+                                        "__typename": "InstagramProductNodeEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "SW5zdGFncmFtUHJvZHVjdE5vZGU6MTk1MA==",
+                                            "faceout": {
+                                                "variant": {
+                                                    "inventoryQuantity": 39,
+                                                    "shopifyId": 40289602142286.0,
+                                                    "__typename": "VariantNode"
+                                                },
+                                                "status": "PUBLISHED",
+                                                "__typename": "ColorwayNode"
+                                            },
+                                            "xPosition": 0.503125,
+                                            "yPosition": 0.692578125,
+                                            "product": {
+                                                "absoluteUrl": "https://outdoorvoices.com/products/w-snacks-7-8-legging",
+                                                "status": "PUBLISHED",
+                                                "title": "Snacks 7/8 Legging",
+                                                "__typename": "ProductNode"
+                                            },
+                                            "__typename": "InstagramProductNode"
+                                        },
+                                        "__typename": "InstagramProductNodeEdge"
+                                    }
+                                ],
+                                "__typename": "InstagramProductNodeConnection"
+                            },
+                            "status": "PUBLISHED",
+                            "userHandle": "brandibombard",
+                            "__typename": "InstagramNode"
+                        },
+                        "__typename": "ProductPDPInstagramNode"
+                    },
+                    {
+                        "id": "UHJvZHVjdFBEUEluc3RhZ3JhbU5vZGU6NTU4",
+                        "instagram": {
+                            "id": "SW5zdGFncmFtTm9kZToyNjI=",
+                            "image": {
+                                "id": "SW1hZ2VOb2RlOjM1NTMw",
+                                "alt": "a person holding a fishing pole",
+                                "height": 800,
+                                "src": "https://cdn.ov.app/media/instagram/snacks2.png",
+                                "width": 800,
+                                "__typename": "ImageNode"
+                            },
+                            "instagramProducts": {
+                                "edges": [
+                                    {
+                                        "node": {
+                                            "id": "SW5zdGFncmFtUHJvZHVjdE5vZGU6MzUx",
+                                            "faceout": null,
+                                            "xPosition": 0.578125,
+                                            "yPosition": 0.3556640625,
+                                            "product": {
+                                                "absoluteUrl": "https://outdoorvoices.com/products/w-snacks-bra",
+                                                "status": "PUBLISHED",
+                                                "title": "Snacks Bra",
+                                                "__typename": "ProductNode"
+                                            },
+                                            "__typename": "InstagramProductNode"
+                                        },
+                                        "__typename": "InstagramProductNodeEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "SW5zdGFncmFtUHJvZHVjdE5vZGU6MzUy",
+                                            "faceout": null,
+                                            "xPosition": 0.65625,
+                                            "yPosition": 0.839453125,
+                                            "product": {
+                                                "absoluteUrl": "https://outdoorvoices.com/products/w-snacks-7-8-legging",
+                                                "status": "PUBLISHED",
+                                                "title": "Snacks 7/8 Legging",
+                                                "__typename": "ProductNode"
+                                            },
+                                            "__typename": "InstagramProductNode"
+                                        },
+                                        "__typename": "InstagramProductNodeEdge"
+                                    }
+                                ],
+                                "__typename": "InstagramProductNodeConnection"
+                            },
+                            "status": "PUBLISHED",
+                            "userHandle": "pnw_compass",
+                            "__typename": "InstagramNode"
+                        },
+                        "__typename": "ProductPDPInstagramNode"
+                    },
+                    {
+                        "id": "UHJvZHVjdFBEUEluc3RhZ3JhbU5vZGU6NTU5",
+                        "instagram": {
+                            "id": "SW5zdGFncmFtTm9kZTo4NzU=",
+                            "image": {
+                                "id": "SW1hZ2VOb2RlOjI4NDU5",
+                                "alt": "a person running on a hill",
+                                "height": 700,
+                                "src": "https://cdn.ov.app/media/ugc/1O6A3350.jpg",
+                                "width": 700,
+                                "__typename": "ImageNode"
+                            },
+                            "instagramProducts": {
+                                "edges": [
+                                    {
+                                        "node": {
+                                            "id": "SW5zdGFncmFtUHJvZHVjdE5vZGU6OTg1",
+                                            "faceout": null,
+                                            "xPosition": 0.3375,
+                                            "yPosition": 0.664453125,
+                                            "product": {
+                                                "absoluteUrl": "https://outdoorvoices.com/products/w-snacks-7-8-legging",
+                                                "status": "PUBLISHED",
+                                                "title": "Snacks 7/8 Legging",
+                                                "__typename": "ProductNode"
+                                            },
+                                            "__typename": "InstagramProductNode"
+                                        },
+                                        "__typename": "InstagramProductNodeEdge"
+                                    }
+                                ],
+                                "__typename": "InstagramProductNodeConnection"
+                            },
+                            "status": "HIDDEN",
+                            "userHandle": "mindfullyrobin, andrewfitts",
+                            "__typename": "InstagramNode"
+                        },
+                        "__typename": "ProductPDPInstagramNode"
+                    },
+                    {
+                        "id": "UHJvZHVjdFBEUEluc3RhZ3JhbU5vZGU6NTYw",
+                        "instagram": {
+                            "id": "SW5zdGFncmFtTm9kZToyNDM=",
+                            "image": {
+                                "id": "SW1hZ2VOb2RlOjMzODY2",
+                                "alt": "a person and person posing for a picture on a snowy mountain",
+                                "height": 800,
+                                "src": "https://cdn.ov.app/media/instagram/snacks.png",
+                                "width": 800,
+                                "__typename": "ImageNode"
+                            },
+                            "instagramProducts": {
+                                "edges": [
+                                    {
+                                        "node": {
+                                            "id": "SW5zdGFncmFtUHJvZHVjdE5vZGU6MzIz",
+                                            "faceout": null,
+                                            "xPosition": 0.509375,
+                                            "yPosition": 0.692578125,
+                                            "product": {
+                                                "absoluteUrl": "https://outdoorvoices.com/products/w-snacks-7-8-legging",
+                                                "status": "PUBLISHED",
+                                                "title": "Snacks 7/8 Legging",
+                                                "__typename": "ProductNode"
+                                            },
+                                            "__typename": "InstagramProductNode"
+                                        },
+                                        "__typename": "InstagramProductNodeEdge"
+                                    }
+                                ],
+                                "__typename": "InstagramProductNodeConnection"
+                            },
+                            "status": "PUBLISHED",
+                            "userHandle": "lucy_gguo",
+                            "__typename": "InstagramNode"
+                        },
+                        "__typename": "ProductPDPInstagramNode"
+                    },
+                    {
+                        "id": "UHJvZHVjdFBEUEluc3RhZ3JhbU5vZGU6NjU4",
+                        "instagram": {
+                            "id": "SW5zdGFncmFtTm9kZTozMDg=",
+                            "image": {
+                                "id": "SW1hZ2VOb2RlOjM3MDE3",
+                                "alt": "a person doing a handstand on a bench",
+                                "height": 800,
+                                "src": "https://cdn.ov.app/media/instagram/snacks_755G2aJ.png",
+                                "width": 800,
+                                "__typename": "ImageNode"
+                            },
+                            "instagramProducts": {
+                                "edges": [
+                                    {
+                                        "node": {
+                                            "id": "SW5zdGFncmFtUHJvZHVjdE5vZGU6NDE0",
+                                            "faceout": null,
+                                            "xPosition": 0.490625,
+                                            "yPosition": 0.3556640625,
+                                            "product": {
+                                                "absoluteUrl": "https://outdoorvoices.com/products/w-superform-strappy-bra",
+                                                "status": "PUBLISHED",
+                                                "title": "SuperForm\u2122 Strappy Bra",
+                                                "__typename": "ProductNode"
+                                            },
+                                            "__typename": "InstagramProductNode"
+                                        },
+                                        "__typename": "InstagramProductNodeEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "SW5zdGFncmFtUHJvZHVjdE5vZGU6NDEx",
+                                            "faceout": null,
+                                            "xPosition": 0.7625,
+                                            "yPosition": 0.511328125,
+                                            "product": {
+                                                "absoluteUrl": "https://outdoorvoices.com/products/w-snacks-7-8-legging",
+                                                "status": "PUBLISHED",
+                                                "title": "Snacks 7/8 Legging",
+                                                "__typename": "ProductNode"
+                                            },
+                                            "__typename": "InstagramProductNode"
+                                        },
+                                        "__typename": "InstagramProductNodeEdge"
+                                    }
+                                ],
+                                "__typename": "InstagramProductNodeConnection"
+                            },
+                            "status": "PUBLISHED",
+                            "userHandle": "marylegget",
+                            "__typename": "InstagramNode"
+                        },
+                        "__typename": "ProductPDPInstagramNode"
+                    },
+                    {
+                        "id": "UHJvZHVjdFBEUEluc3RhZ3JhbU5vZGU6NTYx",
+                        "instagram": {
+                            "id": "SW5zdGFncmFtTm9kZTo2OTM=",
+                            "image": {
+                                "id": "SW1hZ2VOb2RlOjI3NzE0",
+                                "alt": "karynfiebich 5099 1X1",
+                                "height": 2577,
+                                "src": "https://cdn.ov.app/media/ugc/karynfiebich_5099_1X1_JSm6pLb.jpg",
+                                "width": 2575,
+                                "__typename": "ImageNode"
+                            },
+                            "instagramProducts": {
+                                "edges": [
+                                    {
+                                        "node": {
+                                            "id": "SW5zdGFncmFtUHJvZHVjdE5vZGU6OTg3",
+                                            "faceout": null,
+                                            "xPosition": 0.54375,
+                                            "yPosition": 0.633203125,
+                                            "product": {
+                                                "absoluteUrl": "https://outdoorvoices.com/products/w-snacks-7-8-legging",
+                                                "status": "PUBLISHED",
+                                                "title": "Snacks 7/8 Legging",
+                                                "__typename": "ProductNode"
+                                            },
+                                            "__typename": "InstagramProductNode"
+                                        },
+                                        "__typename": "InstagramProductNodeEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "SW5zdGFncmFtUHJvZHVjdE5vZGU6ODAz",
+                                            "faceout": null,
+                                            "xPosition": 0.596875,
+                                            "yPosition": 0.2369140625,
+                                            "product": {
+                                                "absoluteUrl": "https://outdoorvoices.com/products/w-snacks-bra",
+                                                "status": "PUBLISHED",
+                                                "title": "Snacks Bra",
+                                                "__typename": "ProductNode"
+                                            },
+                                            "__typename": "InstagramProductNode"
+                                        },
+                                        "__typename": "InstagramProductNodeEdge"
+                                    }
+                                ],
+                                "__typename": "InstagramProductNodeConnection"
+                            },
+                            "status": "HIDDEN",
+                            "userHandle": "karynfiebich",
+                            "__typename": "InstagramNode"
+                        },
+                        "__typename": "ProductPDPInstagramNode"
+                    },
+                    {
+                        "id": "UHJvZHVjdFBEUEluc3RhZ3JhbU5vZGU6NTYz",
+                        "instagram": {
+                            "id": "SW5zdGFncmFtTm9kZTo2OTE=",
+                            "image": {
+                                "id": "SW1hZ2VOb2RlOjI3NzE1",
+                                "alt": "a person wearing a costume",
+                                "height": 720,
+                                "src": "https://cdn.ov.app/media/ugc/Outfit_Snacks_Tea_Tree_SPIN01_027_Cropped.jpg",
+                                "width": 720,
+                                "__typename": "ImageNode"
+                            },
+                            "instagramProducts": {
+                                "edges": [
+                                    {
+                                        "node": {
+                                            "id": "SW5zdGFncmFtUHJvZHVjdE5vZGU6ODAx",
+                                            "faceout": null,
+                                            "xPosition": 0.446875,
+                                            "yPosition": 0.4400390625,
+                                            "product": {
+                                                "absoluteUrl": "https://outdoorvoices.com/products/w-snacks-bra",
+                                                "status": "PUBLISHED",
+                                                "title": "Snacks Bra",
+                                                "__typename": "ProductNode"
+                                            },
+                                            "__typename": "InstagramProductNode"
+                                        },
+                                        "__typename": "InstagramProductNodeEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "SW5zdGFncmFtUHJvZHVjdE5vZGU6OTg5",
+                                            "faceout": null,
+                                            "xPosition": 0.44375,
+                                            "yPosition": 0.658203125,
+                                            "product": {
+                                                "absoluteUrl": "https://outdoorvoices.com/products/w-snacks-7-8-legging",
+                                                "status": "PUBLISHED",
+                                                "title": "Snacks 7/8 Legging",
+                                                "__typename": "ProductNode"
+                                            },
+                                            "__typename": "InstagramProductNode"
+                                        },
+                                        "__typename": "InstagramProductNodeEdge"
+                                    }
+                                ],
+                                "__typename": "InstagramProductNodeConnection"
+                            },
+                            "status": "HIDDEN",
+                            "userHandle": "sofiperazzo",
+                            "__typename": "InstagramNode"
+                        },
+                        "__typename": "ProductPDPInstagramNode"
+                    },
+                    {
+                        "id": "UHJvZHVjdFBEUEluc3RhZ3JhbU5vZGU6NTY0",
+                        "instagram": {
+                            "id": "SW5zdGFncmFtTm9kZTo2OTU=",
+                            "image": {
+                                "id": "SW1hZ2VOb2RlOjI3NzEz",
+                                "alt": "karynfiebich 4991 1X1",
+                                "height": 2665,
+                                "src": "https://cdn.ov.app/media/ugc/karynfiebich_4991_1X1_58Z2P9Q.jpg",
+                                "width": 2663,
+                                "__typename": "ImageNode"
+                            },
+                            "instagramProducts": {
+                                "edges": [
+                                    {
+                                        "node": {
+                                            "id": "SW5zdGFncmFtUHJvZHVjdE5vZGU6ODA1",
+                                            "faceout": null,
+                                            "xPosition": 0.5625,
+                                            "yPosition": 0.2744140625,
+                                            "product": {
+                                                "absoluteUrl": "https://outdoorvoices.com/products/w-snacks-bra",
+                                                "status": "PUBLISHED",
+                                                "title": "Snacks Bra",
+                                                "__typename": "ProductNode"
+                                            },
+                                            "__typename": "InstagramProductNode"
+                                        },
+                                        "__typename": "InstagramProductNodeEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "SW5zdGFncmFtUHJvZHVjdE5vZGU6OTkw",
+                                            "faceout": null,
+                                            "xPosition": 0.596875,
+                                            "yPosition": 0.630078125,
+                                            "product": {
+                                                "absoluteUrl": "https://outdoorvoices.com/products/w-snacks-7-8-legging",
+                                                "status": "PUBLISHED",
+                                                "title": "Snacks 7/8 Legging",
+                                                "__typename": "ProductNode"
+                                            },
+                                            "__typename": "InstagramProductNode"
+                                        },
+                                        "__typename": "InstagramProductNodeEdge"
+                                    }
+                                ],
+                                "__typename": "InstagramProductNodeConnection"
+                            },
+                            "status": "HIDDEN",
+                            "userHandle": "karynfiebich",
+                            "__typename": "InstagramNode"
+                        },
+                        "__typename": "ProductPDPInstagramNode"
+                    },
+                    {
+                        "id": "UHJvZHVjdFBEUEluc3RhZ3JhbU5vZGU6NTY1",
+                        "instagram": {
+                            "id": "SW5zdGFncmFtTm9kZTo2OTQ=",
+                            "image": {
+                                "id": "SW1hZ2VOb2RlOjI3NzIx",
+                                "alt": "a person wearing a mask",
+                                "height": 720,
+                                "src": "https://cdn.ov.app/media/ugc/Outfit_Snacks_Deep_Taupe_SPIN02_056_1_Cropped.jpg",
+                                "width": 720,
+                                "__typename": "ImageNode"
+                            },
+                            "instagramProducts": {
+                                "edges": [
+                                    {
+                                        "node": {
+                                            "id": "SW5zdGFncmFtUHJvZHVjdE5vZGU6ODA0",
+                                            "faceout": null,
+                                            "xPosition": 0.465625,
+                                            "yPosition": 0.3806640625,
+                                            "product": {
+                                                "absoluteUrl": "https://outdoorvoices.com/products/w-snacks-bra",
+                                                "status": "PUBLISHED",
+                                                "title": "Snacks Bra",
+                                                "__typename": "ProductNode"
+                                            },
+                                            "__typename": "InstagramProductNode"
+                                        },
+                                        "__typename": "InstagramProductNodeEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "SW5zdGFncmFtUHJvZHVjdE5vZGU6OTkx",
+                                            "faceout": null,
+                                            "xPosition": 0.490625,
+                                            "yPosition": 0.783203125,
+                                            "product": {
+                                                "absoluteUrl": "https://outdoorvoices.com/products/w-snacks-7-8-legging",
+                                                "status": "PUBLISHED",
+                                                "title": "Snacks 7/8 Legging",
+                                                "__typename": "ProductNode"
+                                            },
+                                            "__typename": "InstagramProductNode"
+                                        },
+                                        "__typename": "InstagramProductNodeEdge"
+                                    }
+                                ],
+                                "__typename": "InstagramProductNodeConnection"
+                            },
+                            "status": "HIDDEN",
+                            "userHandle": "sofiperazzo",
+                            "__typename": "InstagramNode"
+                        },
+                        "__typename": "ProductPDPInstagramNode"
+                    },
+                    {
+                        "id": "UHJvZHVjdFBEUEluc3RhZ3JhbU5vZGU6NjU5",
+                        "instagram": {
+                            "id": "SW5zdGFncmFtTm9kZToxODY=",
+                            "image": {
+                                "id": "SW1hZ2VOb2RlOjI5MzMx",
+                                "alt": "a person standing on a rock overlooking a valley",
+                                "height": 3027,
+                                "src": "https://cdn.ov.app/media/instagram/IMG_4197.jpeg",
+                                "width": 3024,
+                                "__typename": "ImageNode"
+                            },
+                            "instagramProducts": {
+                                "edges": [
+                                    {
+                                        "node": {
+                                            "id": "SW5zdGFncmFtUHJvZHVjdE5vZGU6MjM5",
+                                            "faceout": null,
+                                            "xPosition": 0.578125,
+                                            "yPosition": 0.5306640625,
+                                            "product": {
+                                                "absoluteUrl": "https://outdoorvoices.com/products/w-snacks-bra",
+                                                "status": "PUBLISHED",
+                                                "title": "Snacks Bra",
+                                                "__typename": "ProductNode"
+                                            },
+                                            "__typename": "InstagramProductNode"
+                                        },
+                                        "__typename": "InstagramProductNodeEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "SW5zdGFncmFtUHJvZHVjdE5vZGU6MjM4",
+                                            "faceout": null,
+                                            "xPosition": 0.5125,
+                                            "yPosition": 0.780078125,
+                                            "product": {
+                                                "absoluteUrl": "https://outdoorvoices.com/products/w-snacks-7-8-legging",
+                                                "status": "PUBLISHED",
+                                                "title": "Snacks 7/8 Legging",
+                                                "__typename": "ProductNode"
+                                            },
+                                            "__typename": "InstagramProductNode"
+                                        },
+                                        "__typename": "InstagramProductNodeEdge"
+                                    }
+                                ],
+                                "__typename": "InstagramProductNodeConnection"
+                            },
+                            "status": "PUBLISHED",
+                            "userHandle": "vivianywu",
+                            "__typename": "InstagramNode"
+                        },
+                        "__typename": "ProductPDPInstagramNode"
+                    },
+                    {
+                        "id": "UHJvZHVjdFBEUEluc3RhZ3JhbU5vZGU6NjYw",
+                        "instagram": {
+                            "id": "SW5zdGFncmFtTm9kZToxNjc=",
+                            "image": {
+                                "id": "SW1hZ2VOb2RlOjI4MDM3",
+                                "alt": "a person in a yellow dress",
+                                "height": 810,
+                                "src": "https://cdn.ov.app/media/instagram/OV_S_4_1x1.jpg",
+                                "width": 810,
+                                "__typename": "ImageNode"
+                            },
+                            "instagramProducts": {
+                                "edges": [
+                                    {
+                                        "node": {
+                                            "id": "SW5zdGFncmFtUHJvZHVjdE5vZGU6MTk1",
+                                            "faceout": null,
+                                            "xPosition": 0.484375,
+                                            "yPosition": 0.3056640625,
+                                            "product": {
+                                                "absoluteUrl": "https://outdoorvoices.com/products/w-snacks-bra",
+                                                "status": "PUBLISHED",
+                                                "title": "Snacks Bra",
+                                                "__typename": "ProductNode"
+                                            },
+                                            "__typename": "InstagramProductNode"
+                                        },
+                                        "__typename": "InstagramProductNodeEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "SW5zdGFncmFtUHJvZHVjdE5vZGU6MTk0",
+                                            "faceout": null,
+                                            "xPosition": 0.4125,
+                                            "yPosition": 0.670703125,
+                                            "product": {
+                                                "absoluteUrl": "https://outdoorvoices.com/products/w-snacks-7-8-legging",
+                                                "status": "PUBLISHED",
+                                                "title": "Snacks 7/8 Legging",
+                                                "__typename": "ProductNode"
+                                            },
+                                            "__typename": "InstagramProductNode"
+                                        },
+                                        "__typename": "InstagramProductNodeEdge"
+                                    }
+                                ],
+                                "__typename": "InstagramProductNodeConnection"
+                            },
+                            "status": "PUBLISHED",
+                            "userHandle": "fayth_ann2",
+                            "__typename": "InstagramNode"
+                        },
+                        "__typename": "ProductPDPInstagramNode"
+                    }
+                ],
+                "details": "26\" inseam\nRemovable Mini Backpack with a hole at the base for easy access to doggy bags.",
+                "relatedCta": null,
+                "relatedUrl": null,
+                "subtitle": "Be the hiking buddy who brings the snacks. Made in our super-stretchy, sweat-wicking fabric, complete with leg, hip, and waistband pockets, a mini backpack, and a shirt loop for shedding layers.",
+                "productKnowledgeSet": [
+                    {
+                        "id": "UHJvZHVjdFBLU2V0Tm9kZToyNjQx",
+                        "title": "Details",
+                        "productKnowledges": [
+                            {
+                                "id": "UHJvZHVjdFBLTm9kZTo3OTIx",
+                                "title": "Description",
+                                "description": "Be the hiking buddy who brings the snacks. Made in our super-stretchy, sweat-wicking fabric, complete with leg, hip, and waistband pockets, a mini backpack, and a shirt loop for shedding layers.",
+                                "type": "TEXT",
+                                "__typename": "ProductPKNode"
+                            },
+                            {
+                                "id": "UHJvZHVjdFBLTm9kZTo3OTIy",
+                                "title": "Made In",
+                                "description": null,
+                                "type": "FABRIC_DETAILS",
+                                "__typename": "ProductPKNode"
+                            },
+                            {
+                                "id": "UHJvZHVjdFBLTm9kZTo3OTIz",
+                                "title": "Ideal For",
+                                "description": "High-sweat Recreation \u2014 think running, jogging, HIIT, and jumping jacks.",
+                                "type": "TEXT",
+                                "__typename": "ProductPKNode"
+                            }
+                        ],
+                        "__typename": "ProductPKSetNode"
+                    },
+                    {
+                        "id": "UHJvZHVjdFBLU2V0Tm9kZToyNjQy",
+                        "title": "Fabric and Care",
+                        "productKnowledges": [
+                            {
+                                "id": "UHJvZHVjdFBLTm9kZTo3OTI0",
+                                "title": null,
+                                "description": null,
+                                "type": "FABRIC_LINK",
+                                "__typename": "ProductPKNode"
+                            },
+                            {
+                                "id": "UHJvZHVjdFBLTm9kZTo3OTI1",
+                                "title": "Other Fabric Details",
+                                "description": "- Center back and hip pocket in mesh\n- Back waistband in branded elastic\n- Removable backpack in nylon",
+                                "type": "TEXT",
+                                "__typename": "ProductPKNode"
+                            },
+                            {
+                                "id": "UHJvZHVjdFBLTm9kZTo3OTI2",
+                                "title": "Care Instructions",
+                                "description": null,
+                                "type": "CARE_INSTRUCTIONS",
+                                "__typename": "ProductPKNode"
+                            }
+                        ],
+                        "__typename": "ProductPKSetNode"
+                    },
+                    {
+                        "id": "UHJvZHVjdFBLU2V0Tm9kZToyNjQz",
+                        "title": "Fit",
+                        "productKnowledges": [
+                            {
+                                "id": "UHJvZHVjdFBLTm9kZTo3OTI3",
+                                "title": "How It Fits",
+                                "description": "Mid-rise legging",
+                                "type": "HOW_IT_FITS",
+                                "__typename": "ProductPKNode"
+                            },
+                            {
+                                "id": "UHJvZHVjdFBLTm9kZTo3OTI4",
+                                "title": "Measurements",
+                                "description": "Inseam \u2014 26\" across all sizes",
+                                "type": "TEXT",
+                                "__typename": "ProductPKNode"
+                            },
+                            {
+                                "id": "UHJvZHVjdFBLTm9kZTo3OTI5",
+                                "title": null,
+                                "description": null,
+                                "type": "CHAT_AND_QUESTIONS",
+                                "__typename": "ProductPKNode"
+                            }
+                        ],
+                        "__typename": "ProductPKSetNode"
+                    }
+                ],
+                "__typename": "ProductPDPNode"
+            },
+            "properties": {
+                "id": "UHJvZHVjdFByb3BlcnRpZXNOb2RlOjQ0MDE=",
+                "description": "Be the hiking buddy who brings the snacks. Made in our super-stretchy, sweat-wicking fabric, complete with leg, hip, and waistband pockets, a mini backpack, and a shirt loop for shedding layers.",
+                "fitRatingAvg": 1.48039215686275,
+                "gender": "WOMEN",
+                "questionsCount": 19,
+                "ratingAvg": 4.26470588235294,
+                "recommendation": {
+                    "id": "UmVjb21tZW5kYXRpb25BSU5vZGU6MQ==",
+                    "placementId": "others-you-may-like-2020-05",
+                    "title": "You Might Also Like",
+                    "__typename": "RecommendationAINode"
+                },
+                "reviewable": true,
+                "reviewCount": 102,
+                "reviewWithPhotoCount": 22,
+                "sizeComponent": "BUTTONS",
+                "sizeGuide": "WOMEN",
+                "sizingRecommendation": "NONE",
+                "__typename": "ProductPropertiesNode"
+            },
+            "shopifyId": 6646510649422.0,
+            "split": false,
+            "soldOutStatus": "NONE",
+            "title": "Snacks 7/8 Legging",
+            "__typename": "ProductNode"
+        }
+    }
+}
